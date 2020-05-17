@@ -6,6 +6,13 @@ using UnityEngine.UI;
 
 public class Controlador : MonoBehaviour
 {
+    private Text estancia;
+    private Text habitos;
+    private Text sintomas;
+    private Text temperatura;
+    private Text segundos_restantes;
+    private Text pasajeros_restantes;
+
     // Start is called before the first frame update
     void Start()
     {
