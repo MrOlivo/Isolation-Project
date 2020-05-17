@@ -28,6 +28,11 @@ public class Controlador : MonoBehaviour
         SceneManager.LoadScene(nombre);
     }
 
+    public void CambiarPersonaje()
+    {
+
+    }
+
     public void CambiarTexto(Text txtElement)
     {
         txtElement.text = "Hola Unity";
@@ -37,5 +42,10 @@ public class Controlador : MonoBehaviour
     {
         print("Saliendo del Juego");
         Application.Quit();
+    }
+
+    public void CargarDatos()
+    {
+
     }
 }
