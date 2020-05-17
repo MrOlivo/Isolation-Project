@@ -648,6 +648,11 @@ PrefabInstance:
 
 '
       objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -747,6 +752,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: Habitos
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -873,6 +883,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: Temperatura
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1494,6 +1509,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: "Duraci\xF3n de la Estadia"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
