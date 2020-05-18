@@ -8,27 +8,33 @@ public class Controlador : MonoBehaviour
 {
     public Text segundos_restantes;
     public Text pasajeros_restantes;
-    public Text nombre;
-    public Text nacionalidad;
-    public Text viaja_a;
+    public static Text nombre;
+    public static Text nacionalidad;
+    public static Text viaja_a;
 
-    public Image pasajero;
+    public static Image peep;
 
     public float timeLeft = 180;
 
-    private int diag_acertados;
-    private int diag_fallidos;
-    
+    int diag_acertados;
+    int diag_fallidos;
 
-    public Dictionary<int, string[]> listaPasajeros;
+    public static int pda = 0;
+
+    public static Dictionary<int, string[]> listaPasajeros;
 
     // Start is called before the first frame update
     void Start()
     {
-        Pasajero pasajero = gameObject.AddComponent<Pasajero>();
-        listaPasajeros = pasajero.GetListaPasajeros();
+        peep = GameObject.Find("peep").GetComponent<Image>();
+        nombre = GameObject.Find("txt_nombre").GetComponent<Text>();
+        nacionalidad = GameObject.Find("txt_nacionalidad").GetComponent<Text>();
+        viaja_a = GameObject.Find("txt_viaja_a").GetComponent<Text>();
 
-        CambiarPersonaje();
+        Pasajero pas = gameObject.AddComponent<Pasajero>();
+        listaPasajeros = pas.GetListaPasajeros();
+
+        CambiarPersonaje(pda);
     }
 
     // Update is called once per frame
@@ -53,9 +59,8 @@ public class Controlador : MonoBehaviour
     }
 
 
-    private void CambiarPersonaje()
+    private void CambiarPersonaje(int personaje)
     {
-        int personaje = 2;
         Botones.passenger = personaje;
         CargarDatos(personaje);
     }
@@ -79,9 +84,7 @@ public class Controlador : MonoBehaviour
             diag_acertados++;
         }
 
-        int personaje = 3;
-        Botones.passenger = personaje;
-        CargarDatos(personaje);
+        CambiarEscena("Main");
     }
 
     private void CargarDatos(int n)
@@ -90,7 +93,7 @@ public class Controlador : MonoBehaviour
         int num = randomGen.Next(1,34);
 
         Debug.Log(num);
-        pasajero.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
+        peep.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
 
         nombre.text = listaPasajeros[n][0];
         nacionalidad.text = listaPasajeros[n][1];
@@ -100,6 +103,8 @@ public class Controlador : MonoBehaviour
     public void CambiarEscena(string nombre)
     {
         print("Cambiando a la Escena " + nombre);
+        Debug.Log("Cambiando a la Escena " + nombre);
+        pda++;
         SceneManager.LoadScene(nombre);
     }
 
