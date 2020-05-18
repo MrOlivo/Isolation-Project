@@ -11,6 +11,9 @@ public class Controlador : MonoBehaviour
     public Text nombre;
     public Text nacionalidad;
     public Text viaja_a;
+
+    public Image pasajero;
+
     public Dictionary<int, string[]> listaPasajeros;
 
     // Start is called before the first frame update
@@ -32,10 +35,12 @@ public class Controlador : MonoBehaviour
         }
     }
 
-    public void CambiarEscena(string nombre)
+    private void CargarDatos(int n)
     {
-        print("Cambiando a la Escena " + nombre);
-        SceneManager.LoadScene(nombre);
+        pasajero.sprite = Resources.Load<Sprite>("Sprites/peep-standing-18");
+        nombre.text = listaPasajeros[n][0];
+        nacionalidad.text = listaPasajeros[n][1];
+        viaja_a.text = listaPasajeros[n][2];
     }
 
     private void CambiarPersonaje()
@@ -45,11 +50,10 @@ public class Controlador : MonoBehaviour
         CargarDatos(personaje);
     }
 
-    private void CargarDatos(int n)
+    public void CambiarEscena(string nombre)
     {
-        nombre.text = listaPasajeros[n][0];
-        nacionalidad.text = listaPasajeros[n][1];
-        viaja_a.text = listaPasajeros[n][2];
+        print("Cambiando a la Escena " + nombre);
+        SceneManager.LoadScene(nombre);
     }
 
     public void Salir()
