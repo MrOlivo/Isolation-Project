@@ -30,11 +30,11 @@ public class Pasajero : MonoBehaviour
         GetListaPasajeros().Add(1, informacion);
 
         informacion = new string[] {"Ana", "Guatemalteca", "Ucrania",
-            "9", "Comer carne cruda", "Ninguno", "36", "Negativo" };
+            "9", "Comer carne cruda", "Ninguno", "36", "No" };
         GetListaPasajeros().Add(2, informacion);
 
         informacion = new string[] {"Mario Rivera", "Mexicano", "Corea del Sur",
-            "5", "Puede volar", "Ninguno", "36", "Positivo" };
+            "5", "Puede volar", "Ninguno", "36", "Si" };
         GetListaPasajeros().Add(3, informacion);
     }
 
