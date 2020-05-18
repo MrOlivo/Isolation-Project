@@ -40,6 +40,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 7090970207757296382}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f859b674c5677d74cad23997780c1485, type: 3}
+  m_Script: {fileID: 11500000, guid: a79d3ad0d127b47e1b26e0488df63b43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  estancia: {fileID: 0}
+  habitos: {fileID: 0}
+  sintomas: {fileID: 0}
+  temperatura: {fileID: 0}
+  segundos_restantes: {fileID: 0}
+  pasajeros_restantes: {fileID: 0}
+  nombre: {fileID: 0}
+  nacionalidad: {fileID: 0}
+  viaja_a: {fileID: 0}

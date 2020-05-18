@@ -579,18 +579,6 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Nacionalidad
---- !u!114 &316170209 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
-    type: 3}
-  m_PrefabInstance: {fileID: 933889273}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &496486861
 GameObject:
   m_ObjectHideFlags: 0
@@ -899,6 +887,17 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 384.0664
       objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+        type: 3}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
@@ -944,18 +943,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 933889273}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1028663453 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
-    type: 3}
-  m_PrefabInstance: {fileID: 1119958551}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1119958551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1028,6 +1015,17 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 349
       objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+        type: 3}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
@@ -1099,18 +1097,6 @@ Transform:
   m_Father: {fileID: 126529010}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1330681634 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
-    type: 3}
-  m_PrefabInstance: {fileID: 1490694655}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1490694655
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1182,6 +1168,17 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 56.54007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+        type: 3}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1551,6 +1548,7 @@ GameObject:
   - component: {fileID: 1958056146}
   - component: {fileID: 1958056145}
   - component: {fileID: 1958056148}
+  - component: {fileID: 1958056149}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -1615,18 +1613,26 @@ MonoBehaviour:
   m_GameObject: {fileID: 1958056144}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f859b674c5677d74cad23997780c1485, type: 3}
+  m_Script: {fileID: 11500000, guid: a79d3ad0d127b47e1b26e0488df63b43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  estancia: {fileID: 22045024}
-  habitos: {fileID: 1028663453}
-  sintomas: {fileID: 316170209}
-  temperatura: {fileID: 1330681634}
   segundos_restantes: {fileID: 280284356}
   pasajeros_restantes: {fileID: 27330830}
   nombre: {fileID: 933664671}
   nacionalidad: {fileID: 293768143}
   viaja_a: {fileID: 173865904}
+--- !u!114 &1958056149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1958056144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d8990aabd244b12a0570390d7ba27b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1973000856
 GameObject:
   m_ObjectHideFlags: 0
@@ -1872,6 +1878,17 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+        type: 3}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.UI.Text, UnityEngine.UI
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
