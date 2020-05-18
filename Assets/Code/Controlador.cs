@@ -51,6 +51,8 @@ public class Controlador : MonoBehaviour
 
     public void CambiarTexto(Text txtElement)
     {
+        CargarDatos();
+
         string nombre = txtElement.name;
 
         if (nombre.Equals("stay"))
