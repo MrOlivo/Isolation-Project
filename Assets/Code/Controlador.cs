@@ -14,7 +14,7 @@ public class Controlador : MonoBehaviour
 
     public Image pasajero;
 
-    public float timeLeft = 180f;
+    public float timeLeft = 180;
 
     public Dictionary<int, string[]> listaPasajeros;
 
@@ -32,7 +32,14 @@ public class Controlador : MonoBehaviour
     {
 
         timeLeft -= Time.deltaTime;
-        segundos_restantes.text = timeLeft.ToString();
+        if (timeLeft > 0.0)
+        {
+            segundos_restantes.text = ((int)timeLeft).ToString();
+        }
+        else
+        {
+            Application.Quit();
+        }
 
         if (Input.GetKeyDown(KeyCode.Escape))
         {
