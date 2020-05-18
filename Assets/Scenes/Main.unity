@@ -454,7 +454,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1a1f1d7d248494244a8496993b09a55a, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1019,7 +1019,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+      objectReference: {fileID: 5336260340022540013, guid: 1912c3651876642f2abc2ed2a6396f9a,
         type: 3}
     - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1061,7 +1061,7 @@ PrefabInstance:
     - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Name
-      value: symptoms
+      value: sintomas
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1162,7 +1162,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+      objectReference: {fileID: 5336260340022540013, guid: 1912c3651876642f2abc2ed2a6396f9a,
         type: 3}
     - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1204,7 +1204,7 @@ PrefabInstance:
     - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Name
-      value: habits
+      value: habitos
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1403,7 +1403,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+      objectReference: {fileID: 5336260340022540013, guid: 1912c3651876642f2abc2ed2a6396f9a,
         type: 3}
     - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1445,7 +1445,7 @@ PrefabInstance:
     - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Name
-      value: temperature
+      value: temperatura
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1558,7 +1558,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: let go
+          m_StringArgument: '"let go"'
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1563531668
@@ -1684,7 +1684,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: isolation
+          m_StringArgument: '"isolation"'
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1568391787
@@ -1817,7 +1817,6 @@ GameObject:
   - component: {fileID: 1958056146}
   - component: {fileID: 1958056145}
   - component: {fileID: 1958056148}
-  - component: {fileID: 1958056149}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -1887,19 +1886,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   segundos_restantes: {fileID: 496486863}
   pasajeros_restantes: {fileID: 1973000858}
+  nombre: {fileID: 933664671}
+  nacionalidad: {fileID: 293768143}
+  viaja_a: {fileID: 173865904}
+  peep: {fileID: 1171973590}
   timeLeft: 180
---- !u!114 &1958056149
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1958056144}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6d8990aabd244b12a0570390d7ba27b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1973000856
 GameObject:
   m_ObjectHideFlags: 0
@@ -2150,7 +2141,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 5708097200254195276, guid: 1912c3651876642f2abc2ed2a6396f9a,
+      objectReference: {fileID: 5336260340022540013, guid: 1912c3651876642f2abc2ed2a6396f9a,
         type: 3}
     - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -2190,7 +2181,7 @@ PrefabInstance:
     - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Name
-      value: stay
+      value: estancia
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
