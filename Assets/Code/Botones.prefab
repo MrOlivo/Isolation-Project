@@ -167,6 +167,10 @@ GameObject:
   - component: {fileID: 114362330397377080}
   - component: {fileID: 114012107865502432}
   - component: {fileID: 114942784065540650}
+  - component: {fileID: 114052124234269976}
+  - component: {fileID: 114157174496726586}
+  - component: {fileID: 114960954825746408}
+  - component: {fileID: 114017677248581872}
   m_Layer: 0
   m_Name: Botones
   m_TagString: Untagged
@@ -2073,6 +2077,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114942784065540650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090970207757296382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30b509d40355ad479404854fa7a306a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114052124234269976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090970207757296382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30b509d40355ad479404854fa7a306a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114157174496726586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090970207757296382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30b509d40355ad479404854fa7a306a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114960954825746408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090970207757296382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30b509d40355ad479404854fa7a306a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114017677248581872
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
