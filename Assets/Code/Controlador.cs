@@ -22,6 +22,9 @@ public class Controlador : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Pasajero pasajero = gameObject.AddComponent<Pasajero>();
+        listaPasajeros = pasajero.GetListaPasajeros();
+
         CargarDatos();
     }
 
@@ -52,7 +55,7 @@ public class Controlador : MonoBehaviour
 
         if (nombre.Equals("stay"))
         {
-            estancia.text += listaPasajeros[pass][3] + " dias";
+            estancia.text += listaPasajeros[pass][3];
         }
         else if (nombre.Equals("habits"))
         {
@@ -71,8 +74,6 @@ public class Controlador : MonoBehaviour
 
     public void CargarDatos()
     {
-        Pasajero pasajero = new Pasajero();
-        listaPasajeros = pasajero.GetListaPasajeros();
         nombre.text = listaPasajeros[pass][0];
         nacionalidad.text = listaPasajeros[pass][1];
         viaja_a.text = listaPasajeros[pass][2];
