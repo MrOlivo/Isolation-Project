@@ -14,6 +14,8 @@ public class Controlador : MonoBehaviour
 
     public Image pasajero;
 
+    public float timeLeft = 180f;
+
     public Dictionary<int, string[]> listaPasajeros;
 
     // Start is called before the first frame update
@@ -28,6 +30,10 @@ public class Controlador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        timeLeft -= Time.deltaTime;
+        segundos_restantes.text = timeLeft.ToString();
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             CambiarEscena("StartMenu");
