@@ -17,6 +17,8 @@ public class Controlador : MonoBehaviour
     public Text viaja_a;
     public Dictionary<int, string[]> listaPasajeros;
 
+    private int pass = 3;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -46,7 +48,24 @@ public class Controlador : MonoBehaviour
 
     public void CambiarTexto(Text txtElement)
     {
-        txtElement.text = "Hola Unity";
+        string nombre = txtElement.name;
+
+        if (nombre.Equals("stay"))
+        {
+            estancia.text += listaPasajeros[pass][3] + " dias";
+        }
+        else if (nombre.Equals("habits"))
+        {
+            habitos.text += listaPasajeros[pass][4];
+        }
+        else if (nombre.Equals("symptoms"))
+        {
+            sintomas.text += listaPasajeros[pass][5];
+        }
+        else if (nombre.Equals("temperature"))
+        {
+            temperatura.text += listaPasajeros[pass][6] + " º Celsius";
+        }
     }
 
 
@@ -54,14 +73,9 @@ public class Controlador : MonoBehaviour
     {
         Pasajero pasajero = new Pasajero();
         listaPasajeros = pasajero.GetListaPasajeros();
-        int pass = 0;
         nombre.text = listaPasajeros[pass][0];
         nacionalidad.text = listaPasajeros[pass][1];
         viaja_a.text = listaPasajeros[pass][2];
-        estancia.text = listaPasajeros[pass][3];
-        habitos.text = listaPasajeros[pass][4];
-        sintomas.text = listaPasajeros[pass][5];
-        temperatura.text = listaPasajeros[pass][6];
     }
 
     public void Salir()
