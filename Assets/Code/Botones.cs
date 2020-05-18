@@ -24,11 +24,6 @@ public class Botones : MonoBehaviour
         
     }
 
-    public Botones()
-    {
-        
-    }
-
     public void CambiarTexto(Text txtElement)
     {
         Dictionary<int, string[]> listaPasajeros;
