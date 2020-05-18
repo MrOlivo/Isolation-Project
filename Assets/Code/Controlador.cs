@@ -16,6 +16,10 @@ public class Controlador : MonoBehaviour
 
     public float timeLeft = 180;
 
+    private int diag_acertados;
+    private int diag_fallidos;
+    
+
     public Dictionary<int, string[]> listaPasajeros;
 
     // Start is called before the first frame update
@@ -48,6 +52,38 @@ public class Controlador : MonoBehaviour
         }
     }
 
+
+    private void CambiarPersonaje()
+    {
+        int personaje = 2;
+        Botones.passenger = personaje;
+        CargarDatos(personaje);
+    }
+
+    public void CambiarPersonaje(string diagnostico)
+    {
+        if (diagnostico.Equals("isolation") && listaPasajeros[2][7].Equals("Si"))
+        {
+            diag_acertados++;
+        }
+        else if (diagnostico.Equals("isolation") && listaPasajeros[2][7].Equals("No"))
+        {
+            diag_fallidos++;
+        }
+        else if (diagnostico.Equals("let go") && listaPasajeros[2][7].Equals("Si"))
+        {
+            diag_fallidos++;
+        }
+        else if (diagnostico.Equals("let go") && listaPasajeros[3][7].Equals("No"))
+        {
+            diag_acertados++;
+        }
+
+        int personaje = 3;
+        Botones.passenger = personaje;
+        CargarDatos(personaje);
+    }
+
     private void CargarDatos(int n)
     {
         System.Random randomGen = new System.Random();
@@ -59,13 +95,6 @@ public class Controlador : MonoBehaviour
         nombre.text = listaPasajeros[n][0];
         nacionalidad.text = listaPasajeros[n][1];
         viaja_a.text = listaPasajeros[n][2];
-    }
-
-    private void CambiarPersonaje()
-    {
-        int personaje = 2;
-        Botones.passenger = personaje;
-        CargarDatos(personaje);
     }
 
     public void CambiarEscena(string nombre)
