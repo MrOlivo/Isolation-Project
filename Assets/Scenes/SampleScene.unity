@@ -330,11 +330,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 82701591}
+  - {fileID: 1147394238}
   - {fileID: 933889274}
   - {fileID: 1870596279}
   - {fileID: 93132480}
   - {fileID: 1490694656}
-  - {fileID: 1147394238}
   - {fileID: 1568391785}
   - {fileID: 1563531666}
   - {fileID: 1171973589}
@@ -953,7 +953,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -24.499992
+      value: -24.499973
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -963,7 +963,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.8198984
+      value: -2.8198974
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -988,7 +988,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1116,7 +1116,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1223,7 +1223,7 @@ Transform:
   - {fileID: 1973000857}
   - {fileID: 27330829}
   m_Father: {fileID: 126529010}
-  m_RootOrder: 5
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1171973588
 GameObject:
@@ -1342,7 +1342,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1816,8 +1816,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79d3ad0d127b47e1b26e0488df63b43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  segundos_restantes: {fileID: 280284356}
-  pasajeros_restantes: {fileID: 27330830}
+  segundos_restantes: {fileID: 496486863}
+  pasajeros_restantes: {fileID: 1973000858}
   nombre: {fileID: 933664671}
   nacionalidad: {fileID: 293768143}
   viaja_a: {fileID: 173865904}
@@ -1847,7 +1847,7 @@ GameObject:
   - component: {fileID: 1973000859}
   - component: {fileID: 1973000858}
   m_Layer: 5
-  m_Name: tiempo_restante
+  m_Name: pasajeros_restante
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2034,7 +2034,7 @@ PrefabInstance:
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2832784339197348807, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
