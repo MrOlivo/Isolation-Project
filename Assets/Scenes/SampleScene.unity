@@ -909,12 +909,17 @@ PrefabInstance:
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_Alignment
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_Name
+      value: symptoms
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1026,17 +1031,24 @@ PrefabInstance:
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
-      value: Habitos
+      value: 'Habitos
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_Alignment
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_Name
+      value: habits
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1174,17 +1186,24 @@ PrefabInstance:
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
-      value: Temperatura
+      value: 'Temperatura
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_Alignment
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_Name
+      value: temperature
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -1824,20 +1843,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 22045024}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
-      value: "Duraci\xF3n de la Estadia"
+      value: "Duraci\xF3n de la Estadia\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_Alignment
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4593952504038570249, guid: 4f48653ccd00f874497c90b444f94a35,
+        type: 3}
+      propertyPath: m_Name
+      value: stay
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570250, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
