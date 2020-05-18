@@ -27,6 +27,11 @@ public class Pasajero : MonoBehaviour
         GetListaPasajeros().Add(0, informacion);
         GetListaPasajeros().Add(1, informacion);
         GetListaPasajeros().Add(2, informacion);
+
+        informacion = new string[] {"Mario Rivera", "Mexicano", "Corea del Sur",
+            "5", "Puede volar", "Ninguno", "36", "Positivo" };
+
+        GetListaPasajeros().Add(3, informacion);
     }
 
 }
