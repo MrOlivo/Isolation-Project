@@ -37,7 +37,12 @@ public class Controlador : MonoBehaviour
 
     private void CargarDatos(int n)
     {
-        pasajero.sprite = Resources.Load<Sprite>("Sprites/peep-standing-18");
+        System.Random randomGen = new System.Random();
+        int num = randomGen.Next(1,34);
+
+        Debug.Log(num);
+        pasajero.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
+
         nombre.text = listaPasajeros[n][0];
         nacionalidad.text = listaPasajeros[n][1];
         viaja_a.text = listaPasajeros[n][2];
