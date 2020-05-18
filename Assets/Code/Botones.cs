@@ -7,10 +7,10 @@ public class Botones : MonoBehaviour
 {
     public static int passenger;
 
-    private bool banderaStay = true;
-    private bool banderaSymptoms = true;
-    private bool banderaHabits = true;
-    private bool banderaTemp = true;
+    //private bool banderaStay = true;
+    //private bool banderaSymptoms = true;
+    //private bool banderaHabits = true;
+    //private bool banderaTemp = true;
 
     // Start is called before the first frame update
     void Start()
@@ -26,31 +26,29 @@ public class Botones : MonoBehaviour
 
     public void CambiarTexto(Text txtElement)
     {
-        Dictionary<int, string[]> listaPasajeros;
+        Dictionary<int, ModelPasajero> listaPasajeros;
+
         Pasajero pasajero = gameObject.AddComponent<Pasajero>();
-        listaPasajeros = pasajero.GetListaPasajeros();
+        listaPasajeros = pasajero.ListaPasajeros;
 
         string nombre = txtElement.name;
 
-        if (nombre.Equals("stay") && banderaStay)
+        switch (nombre)
         {
-            txtElement.text += listaPasajeros[passenger][3] + " dias";
-            banderaStay = false;
-        }
-        else if (nombre.Equals("habits") && banderaHabits)
-        {
-            txtElement.text += listaPasajeros[passenger][4];
-            banderaHabits = false;
-        }
-        else if (nombre.Equals("symptoms") && banderaSymptoms)
-        {
-            txtElement.text += listaPasajeros[passenger][5];
-            banderaSymptoms = false;
-        }
-        else if (nombre.Equals("temperature") && banderaTemp)
-        {
-            txtElement.text += listaPasajeros[passenger][6] + " º Celsius";
-            banderaTemp = false;
+            case "estancia":
+                txtElement.text += listaPasajeros[0].Estancia;
+                break;
+            case "habitos":
+                txtElement.text += listaPasajeros[0].Habitos;
+                break;
+            case "sintomas":
+                txtElement.text += listaPasajeros[0].Sintomas;
+                break;
+            case "temperatura":
+                txtElement.text += listaPasajeros[0].Temperatura;
+                break;
+            default:
+                break;
         }
     }
 }
