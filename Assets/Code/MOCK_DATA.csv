@@ -1,0 +1,101 @@
+id,nombre,nacionalidad,destino,estancia,sintomas,temperatura,covid
+1,Florinda Croyser,Russia,Indonesia,46,"Poisoning by tetracyclines, assault, sequela",38,false
+2,Harlen Stanmer,Colombia,Canada,13,"Displaced fracture of olecranon process without intraarticular extension of left ulna, initial encounter for closed fracture",35,false
+3,Donal Sibery,China,China,89,"Salter-Harris Type I physeal fracture of lower end of right tibia, initial encounter for closed fracture",35,false
+4,Jarred Walas,Indonesia,China,72,"War operations involving fragments from weapons, military personnel, initial encounter",36,true
+5,Abram Scarbarrow,Brazil,Philippines,25,"Exposure to bed fire due to unspecified burning material, initial encounter",40,true
+6,Eve Terrazzo,Libya,Sweden,43,"Food in larynx causing other injury, sequela",41,false
+7,Drucy Eykel,Poland,Mongolia,41,Calculus of bile duct with acute and chronic cholangitis without obstruction,38,true
+8,Kori Franssen,Norway,South Korea,54,Toxic effect of formaldehyde,39,false
+9,Fan Rickwood,China,Portugal,21,"Foreign body in respiratory tract, part unspecified",41,true
+10,Emmit Asey,Brazil,Argentina,34,"Congenital absence, atresia and stenosis of rectum with fistula",37,true
+11,Morton Freschini,China,China,52,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",41,false
+12,Lonna Bauld,China,China,1,Diverticulosis of large intestine without perforation or abscess with bleeding,39,true
+13,Dallis Hecks,Bangladesh,Sweden,47,"Displaced associated transverse-posterior fracture of left acetabulum, initial encounter for closed fracture",36,false
+14,Maressa Syde,Indonesia,Latvia,34,"Blister (nonthermal) of left hand, subsequent encounter",36,true
+15,Bill Moakson,Norway,Macedonia,4,"Age-related osteoporosis with current pathological fracture, unspecified shoulder, initial encounter for fracture",41,false
+16,Danyelle Bantham,China,Russia,53,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter",38,false
+17,Jobye Dabels,Philippines,Indonesia,49,"Scooter (nonmotorized) colliding with stationary object, subsequent encounter",35,false
+18,Adaline Boumphrey,Mexico,Argentina,43,"Radial collateral ligament sprain of right elbow, initial encounter",37,false
+19,Flss De Bruin,Argentina,China,70,"Injury of lateral plantar nerve, unspecified leg",41,false
+20,Kenyon Haslehurst,Indonesia,China,69,Wear of articular bearing surface of internal prosthetic left hip joint,39,false
+21,Lavinia McKenna,Portugal,Japan,38,Laceration without foreign body of finger without damage to nail,35,false
+22,Kat Glendining,France,Indonesia,57,"Displaced fracture of body of scapula, right shoulder, subsequent encounter for fracture with malunion",41,true
+23,Tresa Hynam,Philippines,Bulgaria,32,"Other fracture of upper end of unspecified ulna, subsequent encounter for closed fracture with delayed healing",38,true
+24,Selig Northin,Canada,Sweden,84,"Torus fracture of upper end of left tibia, subsequent encounter for fracture with delayed healing",38,false
+25,Hermy Spain,Tanzania,Paraguay,31,"Sprain of radiocarpal joint of unspecified wrist, sequela",41,true
+26,Chelsea Dade,Chile,Philippines,25,"Poisoning by cocaine, intentional self-harm, initial encounter",39,true
+27,Marijo Wassell,Bulgaria,Georgia,52,"Unspecified juvenile rheumatoid arthritis, right elbow",40,true
+28,Alley Murgatroyd,Indonesia,Dominican Republic,24,"Unspecified open wound, unspecified hip, sequela",38,true
+29,Rudolf Vakhrushev,Thailand,Venezuela,14,"Contusion of unspecified forearm, subsequent encounter",35,false
+30,Tomi Cosin,Serbia,China,82,"Articular disc disorder of temporomandibular joint, unspecified side",40,false
+31,Zebadiah Himsworth,Cyprus,China,24,"War operations involving incendiary bullet, military personnel, initial encounter",35,false
+32,Benedicto Scotsbrook,Tunisia,Sweden,33,"Displaced comminuted fracture of shaft of left femur, subsequent encounter for closed fracture with malunion",38,false
+33,Verla Hanscombe,Afghanistan,Mexico,15,"Displaced fracture of medial phalanx of right index finger, sequela",37,true
+34,Woodrow Bussens,Slovenia,Iran,16,"Aneurysmal bone cyst, right forearm",41,false
+35,Xaviera Oubridge,France,United States,66,"Other fracture of left foot, subsequent encounter for fracture with delayed healing",36,true
+36,Mady Alpes,Sweden,Ukraine,4,"Unspecified occupant of bus injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter",37,true
+37,Demetrius Rimmington,Philippines,Portugal,60,"Military operations involving unspecified explosion and fragments, military personnel",40,true
+38,Laverna Nunns,Portugal,Russia,60,"Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter",35,true
+39,Leisha Lantry,Morocco,Sweden,5,"Arthropathy following intestinal bypass, right hip",41,true
+40,Armando Demeter,China,Honduras,41,Congenital stenosis and stricture of lacrimal duct,36,true
+41,Annissa Fominov,Jordan,Brazil,25,Other sprain of right index finger,36,false
+42,Des Hallock,Sweden,Indonesia,61,"Arthropathy following intestinal bypass, unspecified hand",35,false
+43,Abbe Vasyushkhin,Germany,Brazil,65,"Incarcerated fracture (avulsion) of medial epicondyle of left humerus, subsequent encounter for fracture with nonunion",36,false
+44,Xylia Bingley,Indonesia,Finland,7,"Displaced fracture of left radial styloid process, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",39,true
+45,Ardeen Bizzey,China,Indonesia,80,"Other juvenile osteochondrosis of hip and pelvis, right leg",35,true
+46,Beilul Garfitt,Indonesia,Tanzania,12,"Other secondary chronic gout, left knee, with tophus (tophi)",39,true
+47,Leeland Gurr,Brazil,Indonesia,3,"Toxic effect of venom of other snake, assault, sequela",39,true
+48,Peta Pocklington,China,Croatia,88,"Foreign body in conjunctival sac, right eye, subsequent encounter",41,false
+49,Hildagarde Slides,Czech Republic,Philippines,43,"Adverse effect of unspecified nonopioid analgesic, antipyretic and antirheumatic, sequela",37,false
+50,Celinka Witherdon,Philippines,China,6,"Unspecified dislocation of unspecified knee, sequela",38,true
+51,Cyril Marusyak,China,Philippines,80,"Laceration of unspecified muscles, fascia and tendons at thigh level, left thigh, initial encounter",37,true
+52,Jasmina Matteris,Philippines,Czech Republic,42,Female genital mutilation Type II status,36,false
+53,Dreddy Upson,Poland,China,71,"Burn of other parts of respiratory tract, subsequent encounter",37,true
+54,Karen Perrottet,China,Argentina,54,Displaced fracture of body of unspecified talus,35,false
+55,Bourke Hearty,Canada,China,53,Pneumoconiosis associated with tuberculosis,38,false
+56,Elle McGuggy,Pakistan,Azerbaijan,5,"Retinal micro-aneurysms, unspecified, left eye",36,false
+57,Dominique Bowskill,Portugal,Burkina Faso,23,Other disorders of fatty-acid metabolism,40,true
+58,Loy Smalecombe,Indonesia,Mexico,69,"Toxic effect of contact with venomous toad, undetermined",39,false
+59,Betteanne Bertolin,China,Russia,32,"Driver of pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident, sequela",36,false
+60,Tildy Thyer,Indonesia,United States,75,Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure,39,true
+61,Datha Ahmad,Russia,Serbia,3,"Foreign body of alimentary tract, part unspecified",40,true
+62,Lauren Josselsohn,Philippines,Ukraine,75,Chronic embolism and thrombosis of other specified deep vein of lower extremity,37,false
+63,Nathanil Giacomoni,Brazil,China,45,"Nondisplaced fracture of olecranon process with intraarticular extension of left ulna, sequela",39,false
+64,Sharai Storms,China,Indonesia,24,Adverse effect of methylphenidate,39,true
+65,Padriac Makin,France,China,81,"Pressure ulcer of right upper back, unspecified stage",39,false
+66,Earlie Castard,Indonesia,Peru,41,"Twin liveborn infant, unspecified as to place of birth",38,false
+67,Denny Vasler,Russia,Jamaica,82,Unspecified scleritis,36,false
+68,Lissi Mathou,Sweden,Guatemala,44,"Nondisplaced comminuted fracture of shaft of ulna, left arm, subsequent encounter for open fracture type I or II with routine healing",36,true
+69,Tiena Morcom,Bulgaria,Greece,35,"Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester",41,true
+70,Essy Boij,China,China,51,"Toxic effect of other tobacco and nicotine, assault, sequela",41,true
+71,Ilse Benediktovich,Japan,France,72,"Oligohydramnios, unspecified trimester, other fetus",38,false
+72,Bambie Mealham,Indonesia,Indonesia,29,"Laceration without foreign body of abdominal wall, right upper quadrant without penetration into peritoneal cavity, initial encounter",39,true
+73,Lishe Loody,China,Thailand,6,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris,39,false
+74,Ddene Rzehor,Albania,Comoros,20,Neonatal withdrawal symptoms from maternal use of drugs of addiction,40,false
+75,Madalena Siaspinski,France,Brazil,38,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, accidental (unintentional), initial encounter",35,false
+76,Gardy Beiderbecke,Greece,Uruguay,23,"Corrosion of unspecified degree of left ear [any part, except ear drum]",38,true
+77,Caria Gounet,Brazil,Indonesia,57,"Puncture wound with foreign body of left lesser toe(s) with damage to nail, subsequent encounter",36,false
+78,Simmonds Brandenberg,Nigeria,Czech Republic,74,Other mechanical complication of prosthetic orbit of left eye,37,false
+79,Maribel Tuffin,Portugal,Russia,40,"Nondisplaced fracture of shaft of unspecified clavicle, subsequent encounter for fracture with malunion",40,false
+80,Kipper Corteney,Russia,China,35,"Other physeal fracture of left calcaneus, initial encounter for closed fracture",37,false
+81,Di Rentelll,China,Mexico,8,"Strain of other specified muscles and tendons at ankle and foot level, left foot",37,true
+82,Enos Wickie,Philippines,Vietnam,80,"Underdosing of other anti-common-cold drugs, initial encounter",35,false
+83,Gothart Gorries,Philippines,Pakistan,11,Other interstitial and deep keratitis,39,false
+84,Kean Whear,Bolivia,Peru,25,Herpesviral hepatitis,40,true
+85,Rudolf Glide,Malaysia,China,39,"Displaced trimalleolar fracture of right lower leg, subsequent encounter for closed fracture with routine healing",38,false
+86,Candi Crown,China,Yemen,27,"Person on outside of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter",41,false
+87,Pen Forrestall,China,Finland,14,ABO incompatibility with delayed hemolytic transfusion reaction,38,true
+88,Norris Penhall,China,Chile,82,"Unspecified injury to L2 level of lumbar spinal cord, initial encounter",35,true
+89,Aggy Dain,Azerbaijan,Italy,67,"Neoplasm of uncertain behavior of lip, oral cavity and pharynx",39,true
+90,Yehudi Verson,Slovenia,Canada,26,"Breakdown (mechanical) of internal fixation device of right humerus, initial encounter",41,true
+91,Dew Ollerenshaw,Spain,United States,8,Diseases of lips,39,true
+92,Zollie Jammet,China,South Korea,53,"Ganglion, left ankle and foot",37,false
+93,Lilli Mitchley,China,Ethiopia,36,Unspecified complication of bone marrow transplant,39,false
+94,Son MacNally,Brazil,Brazil,50,"Poisoning by coronary vasodilators, accidental (unintentional), subsequent encounter",39,false
+95,Ebenezer Charnock,Argentina,Peru,31,Open wound of wrist,40,true
+96,Ab Durram,China,Indonesia,21,"Nondisplaced fracture of coracoid process, unspecified shoulder, sequela",36,false
+97,Caryl Chauvey,United States,Mongolia,8,"Peripheral opacity of cornea, unspecified eye",38,true
+98,Aldo Cordelette,China,France,50,Open bite of unspecified finger with damage to nail,39,false
+99,Jeremiah Heinz,Afghanistan,China,53,"Struck by orca, sequela",41,true
+100,Vassily Dumingos,China,Greece,69,Other anterior subluxation of right hip,36,false
