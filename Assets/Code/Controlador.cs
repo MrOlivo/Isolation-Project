@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Controlador : MonoBehaviour
 {
-    public static Text segundos_restantes;
+    public Text segundos_restantes;
     public Text pasajeros_restantes;
     public Text nombre;
     public Text nacionalidad;
@@ -14,18 +14,13 @@ public class Controlador : MonoBehaviour
 
     public Image peep;
 
-    public float timeLeft = 180;
+    public float timeLeft = 20;
 
     public Dictionary<int, ModelPasajero> listaPasajeros;
 
     // Start is called before the first frame update
     void Start()
     {
-        //peep = GameObject.Find("peep").GetComponent<Image>();
-        nombre = GameObject.Find("txt_nombre").GetComponent<Text>();
-        nacionalidad = GameObject.Find("txt_nacionalidad").GetComponent<Text>();
-        viaja_a = GameObject.Find("txt_viaja_a").GetComponent<Text>();
-
         Pasajero p = gameObject.AddComponent<Pasajero>();
         listaPasajeros = p.Pasajeros;
 
@@ -56,12 +51,12 @@ public class Controlador : MonoBehaviour
     private void CargarDatos()
     {
         System.Random randomGen = new System.Random();
-        int num = randomGen.Next(1,3);
+        int num = randomGen.Next(1,34);
 
         Debug.Log(num);
         peep.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
 
-        num = 0;
+        num = randomGen.Next(0, 3);
         nombre.text = listaPasajeros[num].Nombre;
         nacionalidad.text = listaPasajeros[num].Nacionalidad;
         viaja_a.text = listaPasajeros[num].Viaja_a;
