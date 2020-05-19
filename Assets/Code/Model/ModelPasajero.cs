@@ -8,9 +8,9 @@ public class ModelPasajero
     public string Habitos { get; set; }
     public string Sintomas { get; set; }
     public int Temperatura { get; set; }
-    public bool Positivo { get; set; }
+    public bool Covid { get; set; }
 
-    public ModelPasajero(string nombre, string nacionalidad, string viaja_a, string estancia, string habitos, string sintomas, int temperatura, bool positivo)
+    public ModelPasajero(string nombre, string nacionalidad, string viaja_a, string estancia, string habitos, string sintomas, int temperatura, bool covid)
     {
         Nombre = nombre;
         Nacionalidad = nacionalidad;
@@ -19,6 +19,6 @@ public class ModelPasajero
         Habitos = habitos;
         Sintomas = sintomas;
         Temperatura = temperatura;
-        Positivo = positivo;
+        Covid = covid;
     }
 }
