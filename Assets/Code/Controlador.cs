@@ -65,7 +65,7 @@ public class Controlador : MonoBehaviour
         num = randomGen.Next(0, 3);
         nombre.text = listaPasajeros[num].Nombre;
         nacionalidad.text = listaPasajeros[num].Nacionalidad;
-        viaja_a.text = listaPasajeros[num].Viaja_a;
+        viaja_a.text = listaPasajeros[num].Destino;
         paciente = num;
         Botones.passenger = num;
     }
