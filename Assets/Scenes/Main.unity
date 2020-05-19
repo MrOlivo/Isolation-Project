@@ -1403,12 +1403,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 5336260340022540013, guid: 1912c3651876642f2abc2ed2a6396f9a,
+      objectReference: {fileID: 6202569936022056722, guid: 1912c3651876642f2abc2ed2a6396f9a,
         type: 3}
     - target: {fileID: 4593952503285754009, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: CambiarTexto
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
@@ -2151,7 +2151,7 @@ PrefabInstance:
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
       propertyPath: m_Text
-      value: "Duraci\xF3n de la Estadia\n"
+      value: "Duraci\xF3n de la estadia\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4593952504038570248, guid: 4f48653ccd00f874497c90b444f94a35,
         type: 3}
