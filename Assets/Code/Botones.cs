@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Botones : MonoBehaviour
 {
-    public static int passenger;
+    public static int passenger { get; set; }
 
     //private bool banderaStay = true;
     //private bool banderaSymptoms = true;
@@ -36,16 +36,16 @@ public class Botones : MonoBehaviour
         switch (nombre)
         {
             case "estancia":
-                txtElement.text += listaPasajeros[0].Estancia;
+                txtElement.text = "Duración de la estadia\n" + listaPasajeros[passenger].Estancia;
                 break;
             case "habitos":
-                txtElement.text += listaPasajeros[0].Habitos;
+                txtElement.text = "Habitos\n" + listaPasajeros[passenger].Habitos;
                 break;
             case "sintomas":
-                txtElement.text += listaPasajeros[0].Sintomas;
+                txtElement.text = "Sintomas\n" + listaPasajeros[passenger].Sintomas;
                 break;
             case "temperatura":
-                txtElement.text += listaPasajeros[0].Temperatura;
+                txtElement.text = "Temperatura\n" + listaPasajeros[passenger].Temperatura;
                 break;
             default:
                 break;

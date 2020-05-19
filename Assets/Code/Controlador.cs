@@ -15,14 +15,19 @@ public class Controlador : MonoBehaviour
     public Image peep;
 
     public float timeLeft = 20;
+    public static int pasajerosLeft = 20;
 
-    public Dictionary<int, ModelPasajero> listaPasajeros;
+    private static int paciente;
+
+    private static Dictionary<int, ModelPasajero> listaPasajeros;
 
     // Start is called before the first frame update
     void Start()
     {
         Pasajero p = gameObject.AddComponent<Pasajero>();
         listaPasajeros = p.Pasajeros;
+
+        pasajeros_restantes.text = pasajerosLeft.ToString();
 
         CargarDatos();
     }
@@ -38,7 +43,8 @@ public class Controlador : MonoBehaviour
         }
         else
         {
-            Application.Quit();
+            CambiarEscena("Tiempo agotado");
+            //Application.Quit();
         }
 
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -60,13 +66,28 @@ public class Controlador : MonoBehaviour
         nombre.text = listaPasajeros[num].Nombre;
         nacionalidad.text = listaPasajeros[num].Nacionalidad;
         viaja_a.text = listaPasajeros[num].Viaja_a;
+        paciente = num;
+        Botones.passenger = num;
     }
 
     public void CambiarEscena(string nombre)
     {
-        print("Cambiando a la Escena " + nombre);
-        Debug.Log("Cambiando a la Escena " + nombre);
-        SceneManager.LoadScene(nombre);
+        //print("Desencadenante " + nombre);
+        Debug.Log("Desencadenante " + nombre);
+
+        // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
+        if ((nombre.Equals("isolation") && listaPasajeros[paciente].Covid) || (nombre.Equals("let_go") && !listaPasajeros[paciente].Covid))
+        {
+            Debug.Log("Acierto");
+        }
+        else
+        {
+            Debug.Log("Fallo");
+        }
+
+        pasajerosLeft--;
+
+        SceneManager.LoadScene("Main");
     }
 
     public void Salir()
