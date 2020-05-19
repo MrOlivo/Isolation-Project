@@ -28,8 +28,8 @@ public class Botones : MonoBehaviour
     {
         Dictionary<int, ModelPasajero> listaPasajeros;
 
-        Pasajero pasajero = gameObject.AddComponent<Pasajero>();
-        listaPasajeros = pasajero.ListaPasajeros;
+        Pasajero p = gameObject.AddComponent<Pasajero>();
+        listaPasajeros = p.Pasajeros;
 
         string nombre = txtElement.name;
 
