@@ -7,11 +7,6 @@ public class Botones : MonoBehaviour
 {
     public static int passenger { get; set; }
 
-    //private bool banderaStay = true;
-    //private bool banderaSymptoms = true;
-    //private bool banderaHabits = true;
-    //private bool banderaTemp = true;
-
     // Start is called before the first frame update
     void Start()
     {
