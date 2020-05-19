@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Controlador : MonoBehaviour
 {
-    public Text segundos_restantes;
+    public static Text segundos_restantes;
     public Text pasajeros_restantes;
     public Text nombre;
     public Text nacionalidad;
@@ -56,7 +56,7 @@ public class Controlador : MonoBehaviour
     private void CargarDatos()
     {
         System.Random randomGen = new System.Random();
-        int num = randomGen.Next(1,34);
+        int num = randomGen.Next(1,3);
 
         Debug.Log(num);
         peep.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
