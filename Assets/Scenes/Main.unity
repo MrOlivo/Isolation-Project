@@ -775,7 +775,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 180
+  m_Text: 20
 --- !u!222 &496486864
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1558,7 +1558,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: '"Main"'
+          m_StringArgument: Main
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1563531668
@@ -1890,7 +1890,7 @@ MonoBehaviour:
   nacionalidad: {fileID: 293768143}
   viaja_a: {fileID: 173865904}
   peep: {fileID: 1171973590}
-  timeLeft: 180
+  timeLeft: 20
 --- !u!1 &1973000856
 GameObject:
   m_ObjectHideFlags: 0
