@@ -67,7 +67,7 @@ public class Controlador : MonoBehaviour
         nacionalidad.text = listaPasajeros[num].Nacionalidad;
         viaja_a.text = listaPasajeros[num].Destino;
         paciente = num;
-        Botones.passenger = num;
+        Botones.Passenger = num;
     }
 
     public void CambiarEscena(string nombre)
