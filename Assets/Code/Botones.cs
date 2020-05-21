@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Botones : MonoBehaviour
 {
-    public static int passenger { get; set; }
+    public static int Passenger { get; set; }
 
     // Start is called before the first frame update
     void Start()
@@ -31,16 +31,16 @@ public class Botones : MonoBehaviour
         switch (nombre)
         {
             case "estancia":
-                txtElement.text = "Duración de la estadia\n" + listaPasajeros[passenger].Estancia;
+                txtElement.text = "Duración de la estadia\n" + listaPasajeros[Passenger].Estancia;
                 break;
             case "habitos":
-                txtElement.text = "Habitos\n" + listaPasajeros[passenger].Habitos;
+                txtElement.text = "Habitos\n" + listaPasajeros[Passenger].Habitos;
                 break;
             case "sintomas":
-                txtElement.text = "Sintomas\n" + listaPasajeros[passenger].Sintomas;
+                txtElement.text = "Sintomas\n" + listaPasajeros[Passenger].Sintomas;
                 break;
             case "temperatura":
-                txtElement.text = "Temperatura\n" + listaPasajeros[passenger].Temperatura;
+                txtElement.text = "Temperatura\n" + listaPasajeros[Passenger].Temperatura.ToString();
                 break;
             default:
                 break;
