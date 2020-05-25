@@ -114,7 +114,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 237286220053177048, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
+      - m_Target: {fileID: 2048555200171929204, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
           type: 3}
         m_MethodName: CambiarTexto
         m_Mode: 2
