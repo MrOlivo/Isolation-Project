@@ -195,8 +195,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -456,7 +456,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.5, y: -50.9}
+  m_AnchoredPosition: {x: -0.000019621, y: -55.46}
   m_SizeDelta: {x: 125.21, y: 18.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &41100885
@@ -1195,6 +1195,17 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 1225036210}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2048555200171929204, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
+        type: 3}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     - target: {fileID: 1406859035842652134, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -1345,6 +1356,17 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 2126082}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2048555200171929204, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
+        type: 3}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     - target: {fileID: 1406859035842652134, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -1622,6 +1644,17 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 309111433}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2048555200171929204, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
+        type: 3}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     - target: {fileID: 1406859035842652134, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -2043,8 +2076,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2471,8 +2504,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000033081, y: -32.07}
-  m_SizeDelta: {x: 125.21, y: 18.83}
+  m_AnchoredPosition: {x: -0.00000031044, y: -10.6}
+  m_SizeDelta: {x: 125.2, y: 40.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &583258971
 MonoBehaviour:
@@ -3386,7 +3419,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -69.729996}
+  m_AnchoredPosition: {x: 0, y: -100.1}
   m_SizeDelta: {x: 125.21, y: 18.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1153127834
@@ -3788,8 +3821,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5328,5 +5361,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 265231533}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2048555200171929204, guid: 9129dcec74a6c4fb9823c52a45d12b3f,
+        type: 3}
+    - target: {fileID: 1406859034633923047, guid: 55aa3985c1d2d4032b3fbee48a5ac536,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambiarTexto
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55aa3985c1d2d4032b3fbee48a5ac536, type: 3}
