@@ -63,7 +63,7 @@ public class Controlador : MonoBehaviour
         Debug.Log(num);
         peep.sprite = Resources.Load<Sprite>("Sprites/peep-"+ num.ToString());
 
-        num = randomGen.Next(0, 3);
+        num = randomGen.Next(0, listaPasajeros.Count);
         nombre.text = listaPasajeros[num].Nombre;
         nacionalidad.text = listaPasajeros[num].Nacionalidad;
         viaja_a.text = listaPasajeros[num].Destino;
@@ -78,11 +78,11 @@ public class Controlador : MonoBehaviour
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
         if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
         {
-            Debug.Log("Acierto");
+            Debug.Log("Acierto" + listaPasajeros[paciente].Covid);
         }
         else
         {
-            Debug.Log("Fallo");
+            Debug.Log("Fallo" + listaPasajeros[paciente].Covid);
         }
 
         pasajerosLeft--;
