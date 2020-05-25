@@ -78,11 +78,11 @@ public class Controlador : MonoBehaviour
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
         if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
         {
-            Debug.Log("Acierto" + listaPasajeros[paciente].Covid);
+            Debug.Log("Acierto Poitivo: " + listaPasajeros[paciente].Covid);
         }
         else
         {
-            Debug.Log("Fallo" + listaPasajeros[paciente].Covid);
+            Debug.Log("Fallo Poitivo: " + listaPasajeros[paciente].Covid);
         }
 
         pasajerosLeft--;
