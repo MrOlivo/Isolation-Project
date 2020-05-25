@@ -1,20 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Controlador : MonoBehaviour
 {
-    public Text segundos_restantes;
-    public Text pasajeros_restantes;
-    public Text nombre;
-    public Text nacionalidad;
-    public Text viaja_a;
+    public TextMeshProUGUI segundos_restantes;
+    public TextMeshProUGUI pasajeros_restantes;
+    public TextMeshProUGUI nombre;
+    public TextMeshProUGUI nacionalidad;
+    public TextMeshProUGUI viaja_a;
 
     public Image peep;
 
-    public float timeLeft = 20;
+    public float timeLeft;
     public static int pasajerosLeft = 20;
 
     private static int paciente;
@@ -72,11 +73,10 @@ public class Controlador : MonoBehaviour
 
     public void CambiarEscena(string nombre)
     {
-        //print("Desencadenante " + nombre);
         Debug.Log("Desencadenante " + nombre);
 
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
-        if ((nombre.Equals("isolation") && listaPasajeros[paciente].Covid) || (nombre.Equals("let_go") && !listaPasajeros[paciente].Covid))
+        if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
         {
             Debug.Log("Acierto");
         }
