@@ -1,101 +1,1001 @@
-id,nombre,nacionalidad,destino,estancia,sintomas,temperatura,covid
-1,Florinda Croyser,Russia,Indonesia,46,"Poisoning by tetracyclines, assault, sequela",38,false
-2,Harlen Stanmer,Colombia,Canada,13,"Displaced fracture of olecranon process without intraarticular extension of left ulna, initial encounter for closed fracture",35,false
-3,Donal Sibery,China,China,89,"Salter-Harris Type I physeal fracture of lower end of right tibia, initial encounter for closed fracture",35,false
-4,Jarred Walas,Indonesia,China,72,"War operations involving fragments from weapons, military personnel, initial encounter",36,true
-5,Abram Scarbarrow,Brazil,Philippines,25,"Exposure to bed fire due to unspecified burning material, initial encounter",40,true
-6,Eve Terrazzo,Libya,Sweden,43,"Food in larynx causing other injury, sequela",41,false
-7,Drucy Eykel,Poland,Mongolia,41,Calculus of bile duct with acute and chronic cholangitis without obstruction,38,true
-8,Kori Franssen,Norway,South Korea,54,Toxic effect of formaldehyde,39,false
-9,Fan Rickwood,China,Portugal,21,"Foreign body in respiratory tract, part unspecified",41,true
-10,Emmit Asey,Brazil,Argentina,34,"Congenital absence, atresia and stenosis of rectum with fistula",37,true
-11,Morton Freschini,China,China,52,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",41,false
-12,Lonna Bauld,China,China,1,Diverticulosis of large intestine without perforation or abscess with bleeding,39,true
-13,Dallis Hecks,Bangladesh,Sweden,47,"Displaced associated transverse-posterior fracture of left acetabulum, initial encounter for closed fracture",36,false
-14,Maressa Syde,Indonesia,Latvia,34,"Blister (nonthermal) of left hand, subsequent encounter",36,true
-15,Bill Moakson,Norway,Macedonia,4,"Age-related osteoporosis with current pathological fracture, unspecified shoulder, initial encounter for fracture",41,false
-16,Danyelle Bantham,China,Russia,53,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter",38,false
-17,Jobye Dabels,Philippines,Indonesia,49,"Scooter (nonmotorized) colliding with stationary object, subsequent encounter",35,false
-18,Adaline Boumphrey,Mexico,Argentina,43,"Radial collateral ligament sprain of right elbow, initial encounter",37,false
-19,Flss De Bruin,Argentina,China,70,"Injury of lateral plantar nerve, unspecified leg",41,false
-20,Kenyon Haslehurst,Indonesia,China,69,Wear of articular bearing surface of internal prosthetic left hip joint,39,false
-21,Lavinia McKenna,Portugal,Japan,38,Laceration without foreign body of finger without damage to nail,35,false
-22,Kat Glendining,France,Indonesia,57,"Displaced fracture of body of scapula, right shoulder, subsequent encounter for fracture with malunion",41,true
-23,Tresa Hynam,Philippines,Bulgaria,32,"Other fracture of upper end of unspecified ulna, subsequent encounter for closed fracture with delayed healing",38,true
-24,Selig Northin,Canada,Sweden,84,"Torus fracture of upper end of left tibia, subsequent encounter for fracture with delayed healing",38,false
-25,Hermy Spain,Tanzania,Paraguay,31,"Sprain of radiocarpal joint of unspecified wrist, sequela",41,true
-26,Chelsea Dade,Chile,Philippines,25,"Poisoning by cocaine, intentional self-harm, initial encounter",39,true
-27,Marijo Wassell,Bulgaria,Georgia,52,"Unspecified juvenile rheumatoid arthritis, right elbow",40,true
-28,Alley Murgatroyd,Indonesia,Dominican Republic,24,"Unspecified open wound, unspecified hip, sequela",38,true
-29,Rudolf Vakhrushev,Thailand,Venezuela,14,"Contusion of unspecified forearm, subsequent encounter",35,false
-30,Tomi Cosin,Serbia,China,82,"Articular disc disorder of temporomandibular joint, unspecified side",40,false
-31,Zebadiah Himsworth,Cyprus,China,24,"War operations involving incendiary bullet, military personnel, initial encounter",35,false
-32,Benedicto Scotsbrook,Tunisia,Sweden,33,"Displaced comminuted fracture of shaft of left femur, subsequent encounter for closed fracture with malunion",38,false
-33,Verla Hanscombe,Afghanistan,Mexico,15,"Displaced fracture of medial phalanx of right index finger, sequela",37,true
-34,Woodrow Bussens,Slovenia,Iran,16,"Aneurysmal bone cyst, right forearm",41,false
-35,Xaviera Oubridge,France,United States,66,"Other fracture of left foot, subsequent encounter for fracture with delayed healing",36,true
-36,Mady Alpes,Sweden,Ukraine,4,"Unspecified occupant of bus injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter",37,true
-37,Demetrius Rimmington,Philippines,Portugal,60,"Military operations involving unspecified explosion and fragments, military personnel",40,true
-38,Laverna Nunns,Portugal,Russia,60,"Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter",35,true
-39,Leisha Lantry,Morocco,Sweden,5,"Arthropathy following intestinal bypass, right hip",41,true
-40,Armando Demeter,China,Honduras,41,Congenital stenosis and stricture of lacrimal duct,36,true
-41,Annissa Fominov,Jordan,Brazil,25,Other sprain of right index finger,36,false
-42,Des Hallock,Sweden,Indonesia,61,"Arthropathy following intestinal bypass, unspecified hand",35,false
-43,Abbe Vasyushkhin,Germany,Brazil,65,"Incarcerated fracture (avulsion) of medial epicondyle of left humerus, subsequent encounter for fracture with nonunion",36,false
-44,Xylia Bingley,Indonesia,Finland,7,"Displaced fracture of left radial styloid process, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",39,true
-45,Ardeen Bizzey,China,Indonesia,80,"Other juvenile osteochondrosis of hip and pelvis, right leg",35,true
-46,Beilul Garfitt,Indonesia,Tanzania,12,"Other secondary chronic gout, left knee, with tophus (tophi)",39,true
-47,Leeland Gurr,Brazil,Indonesia,3,"Toxic effect of venom of other snake, assault, sequela",39,true
-48,Peta Pocklington,China,Croatia,88,"Foreign body in conjunctival sac, right eye, subsequent encounter",41,false
-49,Hildagarde Slides,Czech Republic,Philippines,43,"Adverse effect of unspecified nonopioid analgesic, antipyretic and antirheumatic, sequela",37,false
-50,Celinka Witherdon,Philippines,China,6,"Unspecified dislocation of unspecified knee, sequela",38,true
-51,Cyril Marusyak,China,Philippines,80,"Laceration of unspecified muscles, fascia and tendons at thigh level, left thigh, initial encounter",37,true
-52,Jasmina Matteris,Philippines,Czech Republic,42,Female genital mutilation Type II status,36,false
-53,Dreddy Upson,Poland,China,71,"Burn of other parts of respiratory tract, subsequent encounter",37,true
-54,Karen Perrottet,China,Argentina,54,Displaced fracture of body of unspecified talus,35,false
-55,Bourke Hearty,Canada,China,53,Pneumoconiosis associated with tuberculosis,38,false
-56,Elle McGuggy,Pakistan,Azerbaijan,5,"Retinal micro-aneurysms, unspecified, left eye",36,false
-57,Dominique Bowskill,Portugal,Burkina Faso,23,Other disorders of fatty-acid metabolism,40,true
-58,Loy Smalecombe,Indonesia,Mexico,69,"Toxic effect of contact with venomous toad, undetermined",39,false
-59,Betteanne Bertolin,China,Russia,32,"Driver of pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident, sequela",36,false
-60,Tildy Thyer,Indonesia,United States,75,Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure,39,true
-61,Datha Ahmad,Russia,Serbia,3,"Foreign body of alimentary tract, part unspecified",40,true
-62,Lauren Josselsohn,Philippines,Ukraine,75,Chronic embolism and thrombosis of other specified deep vein of lower extremity,37,false
-63,Nathanil Giacomoni,Brazil,China,45,"Nondisplaced fracture of olecranon process with intraarticular extension of left ulna, sequela",39,false
-64,Sharai Storms,China,Indonesia,24,Adverse effect of methylphenidate,39,true
-65,Padriac Makin,France,China,81,"Pressure ulcer of right upper back, unspecified stage",39,false
-66,Earlie Castard,Indonesia,Peru,41,"Twin liveborn infant, unspecified as to place of birth",38,false
-67,Denny Vasler,Russia,Jamaica,82,Unspecified scleritis,36,false
-68,Lissi Mathou,Sweden,Guatemala,44,"Nondisplaced comminuted fracture of shaft of ulna, left arm, subsequent encounter for open fracture type I or II with routine healing",36,true
-69,Tiena Morcom,Bulgaria,Greece,35,"Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester",41,true
-70,Essy Boij,China,China,51,"Toxic effect of other tobacco and nicotine, assault, sequela",41,true
-71,Ilse Benediktovich,Japan,France,72,"Oligohydramnios, unspecified trimester, other fetus",38,false
-72,Bambie Mealham,Indonesia,Indonesia,29,"Laceration without foreign body of abdominal wall, right upper quadrant without penetration into peritoneal cavity, initial encounter",39,true
-73,Lishe Loody,China,Thailand,6,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris,39,false
-74,Ddene Rzehor,Albania,Comoros,20,Neonatal withdrawal symptoms from maternal use of drugs of addiction,40,false
-75,Madalena Siaspinski,France,Brazil,38,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, accidental (unintentional), initial encounter",35,false
-76,Gardy Beiderbecke,Greece,Uruguay,23,"Corrosion of unspecified degree of left ear [any part, except ear drum]",38,true
-77,Caria Gounet,Brazil,Indonesia,57,"Puncture wound with foreign body of left lesser toe(s) with damage to nail, subsequent encounter",36,false
-78,Simmonds Brandenberg,Nigeria,Czech Republic,74,Other mechanical complication of prosthetic orbit of left eye,37,false
-79,Maribel Tuffin,Portugal,Russia,40,"Nondisplaced fracture of shaft of unspecified clavicle, subsequent encounter for fracture with malunion",40,false
-80,Kipper Corteney,Russia,China,35,"Other physeal fracture of left calcaneus, initial encounter for closed fracture",37,false
-81,Di Rentelll,China,Mexico,8,"Strain of other specified muscles and tendons at ankle and foot level, left foot",37,true
-82,Enos Wickie,Philippines,Vietnam,80,"Underdosing of other anti-common-cold drugs, initial encounter",35,false
-83,Gothart Gorries,Philippines,Pakistan,11,Other interstitial and deep keratitis,39,false
-84,Kean Whear,Bolivia,Peru,25,Herpesviral hepatitis,40,true
-85,Rudolf Glide,Malaysia,China,39,"Displaced trimalleolar fracture of right lower leg, subsequent encounter for closed fracture with routine healing",38,false
-86,Candi Crown,China,Yemen,27,"Person on outside of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter",41,false
-87,Pen Forrestall,China,Finland,14,ABO incompatibility with delayed hemolytic transfusion reaction,38,true
-88,Norris Penhall,China,Chile,82,"Unspecified injury to L2 level of lumbar spinal cord, initial encounter",35,true
-89,Aggy Dain,Azerbaijan,Italy,67,"Neoplasm of uncertain behavior of lip, oral cavity and pharynx",39,true
-90,Yehudi Verson,Slovenia,Canada,26,"Breakdown (mechanical) of internal fixation device of right humerus, initial encounter",41,true
-91,Dew Ollerenshaw,Spain,United States,8,Diseases of lips,39,true
-92,Zollie Jammet,China,South Korea,53,"Ganglion, left ankle and foot",37,false
-93,Lilli Mitchley,China,Ethiopia,36,Unspecified complication of bone marrow transplant,39,false
-94,Son MacNally,Brazil,Brazil,50,"Poisoning by coronary vasodilators, accidental (unintentional), subsequent encounter",39,false
-95,Ebenezer Charnock,Argentina,Peru,31,Open wound of wrist,40,true
-96,Ab Durram,China,Indonesia,21,"Nondisplaced fracture of coracoid process, unspecified shoulder, sequela",36,false
-97,Caryl Chauvey,United States,Mongolia,8,"Peripheral opacity of cornea, unspecified eye",38,true
-98,Aldo Cordelette,China,France,50,Open bite of unspecified finger with damage to nail,39,false
-99,Jeremiah Heinz,Afghanistan,China,53,"Struck by orca, sequela",41,true
-100,Vassily Dumingos,China,Greece,69,Other anterior subluxation of right hip,36,false
+id,nombre,nacionalidad,destino,estancia,Habitos,sintomas,temperatura,covid
+1,Winny Carress,Bosnia and Herzegovina,Russia,28,D & C post delivery,Cong varus foot def NEC,40.5,false
+2,Lanna McGiveen,Indonesia,Poland,2,Attach pedicle to hand,Ben neo long bones arm,40.4,false
+3,Maynard Fursland,Uganda,Portugal,25,Dx ultrasound-grav uter,Fx base femoral nck-open,35.9,false
+4,Benedikta Claw,Pakistan,Serbia,25,Other pyloroplasty,Skin - kaposi's sarcoma,37.4,true
+5,Erroll Standing,China,Finland,21,Imageless comp asst surg,Tuberculosis-postpartum,38.0,true
+6,Zsa zsa Simeoli,Indonesia,Belarus,30,Open abltn lung les/tiss,Cl skl/oth fx-proln coma,36.1,true
+7,Sydelle Few,Argentina,Indonesia,2,Irrigation of eye,Mucous polyp of cervix,39.7,false
+8,Davidson Danell,Armenia,Tanzania,2,Micro exam-eye NEC,Mening in oth viral dis,36.3,false
+9,Georgie Crummie,Poland,Palestinian Territory,28,Spine tract w skull dev,Neoplasm related pain,37.2,false
+10,Thomasine Hughes,Peru,Indonesia,28,Retinal tear xenon coag,Nontox uninodular goiter,35.4,false
+11,Adriena Ickovici,Sweden,Russia,2,Eyeball & orbit biopsy,Fall on/from train-empl,41.1,false
+12,Kip Dykes,Iran,Indonesia,5,Bact smear-op wound,Explosive gases accident,37.4,true
+13,Tamas Shelton,Russia,China,2,Apicoectomy,Hypotony w eye dis NEC,39.3,false
+14,Baxie Widdocks,Malaysia,China,4,Injec air-periton cavity,Other alter consciousnes,41.0,false
+15,Giuseppe Hartzogs,Czech Republic,Greece,18,Bowel diagnost proc NEC,High head term-antepart,38.6,true
+16,Linus Hallatt,Montenegro,China,30,Sinusotomy NOS,Joint effusion-l/leg,38.4,true
+17,Rosalinda Hacksby,Poland,Indonesia,26,C & s NEC,Reiter arthritis-shlder,35.8,true
+18,Nataniel Spalls,Panama,Sweden,11,Periph nerve inject NOS,Atypical manic disorder,37.9,false
+19,Shea Jamot,Poland,Bulgaria,15,Ovarian biopsy NEC,TB of bone NEC-no exam,38.2,false
+20,Pyotr Skitral,Madagascar,United States,22,Ureteroneocystostomy,Mycosis fungoides head,39.5,true
+21,Jayme Sollas,Philippines,Zimbabwe,2,Cervical esophagostomy,Observ-work accident,38.9,true
+22,Michel Mechem,France,Portugal,8,Other arthrotomy NEC,C1-c4 spin cord inj NOS,41.7,false
+23,Renata Buchan,Thailand,Brazil,10,Oth transmyo revascular,Peripart cardiomy-unspec,35.5,false
+24,Bobbie Luckett,Indonesia,Japan,2,Mix venous bld gas meas,Cl skull fx NEC w/o coma,38.9,true
+25,Dorelle Fawckner,Finland,Thailand,16,Upper arm reattachment,Corneal anesthesia,41.0,false
+26,Edeline Curedale,Brazil,Malta,21,Iridotomy w transfixion,"Amput arm, unil NOS-comp",38.5,false
+27,Lenette Edmed,Bolivia,Thailand,16,Breast injection,Varicose vulva-antepart,35.5,true
+28,Chester Pinke,Ukraine,Brazil,4,Lap salpingo-oophoroplas,Acq absnce genital organ,37.1,true
+29,Esma Peek,United States,China,5,Replace pyelostomy tube,Subarachnoid hemorrhage,39.0,false
+30,Tallou Ganiclef,Germany,United States,9,Cesarean section NOS,"Fx mult phalan, hand-cl",39.1,true
+31,Hammad Howel,New Caledonia,South Korea,13,Oth cartd body/sinus op,Cry arthrop NOS-oth site,41.3,false
+32,Doralyn McCaster,China,Italy,21,Full-thick grft to mouth,Compl del NEC-del w p/p,37.1,true
+33,Corbett Cinnamond,Indonesia,Iran,16,Lap abdperneal resc rec,Atrophy mandible-severe,36.1,false
+34,Shane Gotthard.sf,China,Portugal,12,Replace ureterost tube,Problem w aged parent,36.0,false
+35,Oberon Berndtsson,Malawi,Russia,22,Reduct intuss ali tract,Abort NOS w shock-comp,36.4,true
+36,Alwyn Shevill,China,United States,12,Remov imp dev-radius/uln,Acute swimmers' ear,41.3,true
+37,Scarlet Prichet,Russia,France,21,Oth larynx dx procedure,Common ventricle,38.7,false
+38,Bridget Sprade,Sweden,China,12,Cystocel/rectocel repair,Pauciart juv rheum arthr,41.7,false
+39,Otis Simko,Indonesia,Sweden,13,Conduit rt vent-pul art,Hx of physical abuse,40.1,true
+40,Karel Punyer,Mexico,China,25,Arthrodesis of knee,Post-birth umbil hemorr,36.0,false
+41,Sallie Bresman,Indonesia,Indonesia,9,Vitreous substitut injec,Purine/pyrimid dis NEC,35.1,false
+42,Walther McKillop,Georgia,Russia,1,Sphinct of oddi measure,Indeterminate sex,36.8,true
+43,Tilly Pee,Colombia,Russia,11,Radius/ulna division NEC,Dysuria,37.1,true
+44,Junette Sherreard,Indonesia,China,24,Suture chest wall lacer,Oth placent cond-unspec,40.9,true
+45,Bride Matiasek,Sweden,Netherlands,20,Lt heart angiocardiogram,Menst mgr wo ntrc wo st,35.7,false
+46,Harmonia Nolte,Indonesia,China,6,Suture of lip laceration,Opn skul vlt fx w/o coma,40.6,true
+47,Hatty Buglass,Venezuela,China,28,"Rem crtd sinus stm, totl",Juv osteochondrosis arm,42.0,false
+48,Marcia Cabrales,Palestinian Territory,Indonesia,16,Vertebral fx repair,Hx-cong malform-nervous,41.1,false
+49,Lizette Bottelstone,China,France,18,Lap lys perivesureth adh,Mal neo extrahepat ducts,37.9,true
+50,Valeda Dozdill,Sudan,United States,19,Oth part ostectomy NOS,Abn vestibular func stud,38.5,false
+51,Donnamarie Calderhead,China,Indonesia,23,Adjust lid position NEC,Academic underachievment,39.9,true
+52,Beilul Stormont,Portugal,Honduras,18,Endo imp grft thor aorta,Congen CV dis-delivered,39.8,true
+53,Germaine Paylor,Pakistan,China,7,Intracereb cth-burr hole,Prelabor rupt uter-unsp,37.4,false
+54,Hamil Kinch,China,China,1,Seg osteoplasty maxilla,Alcoh dep NEC/NOS-contin,40.5,false
+55,Beverley Stockford,Morocco,Mexico,22,Contrast myelogram,Opn cortx lacer-mod coma,37.4,true
+56,Gratia Waldrum,Portugal,South Africa,14,Remov tube & ectop preg,N-traf brd/alit-ped cycl,38.1,true
+57,Brent Snassell,China,Japan,26,Toxicology-ent/larynx,Loose body-joint NEC,38.3,false
+58,Edyth Concklin,Portugal,Japan,10,Disarticulation of elbow,TB male gen NEC-micro dx,38.3,false
+59,Boothe Fleay,Malawi,Indonesia,25,Intracran vessel excis,Other lymphedema,41.9,false
+60,Alec Scopes,Bangladesh,Syria,14,Repair of pleura,Lattice degeneration,36.9,true
+61,Roland Bowlands,Russia,Serbia,22,Radioactive elem implant,Obturator disloc hip-cl,41.5,true
+62,Hephzibah Norville,Indonesia,Afghanistan,3,Stern esophagoenter NEC,Infect nipple-delivered,35.1,true
+63,Maxim McSpirron,Dominican Republic,Indonesia,25,Allotrnsplnt islets lang,"BMI 27.0-27.9,adult",41.9,true
+64,Zaneta Hiscoke,Philippines,Indonesia,10,Extraoc musc dx proc NEC,Vag hi risk HPV-DNA pos,39.9,false
+65,Moss Jaouen,China,Russia,30,Periurethral excision,TB esophagus-histo dx,39.6,false
+66,Mikey Hoodless,Russia,Croatia,22,Vasotomy,Joint replaced shoulder,37.2,false
+67,Allene Guerry,France,Kazakhstan,25,Application of splint,TB laryngitis-oth test,41.6,false
+68,Reina Scrancher,Ukraine,Philippines,24,Limb lengthen proc NEC,Pyrophosph cryst-unspec,37.1,true
+69,Ulick Rebbeck,Netherlands,Peru,13,Opn/oth rep mitral valve,Spon ab w compl NEC-inc,35.1,true
+70,Durward Duddy,Mayotte,Russia,15,Other skin & subq i & d,Head & neck symptoms NEC,35.9,true
+71,Gail Keaveny,Sweden,Indonesia,17,Other repair of knee,Ca in situ skin arm,39.0,false
+72,Alard Eykelbosch,Indonesia,China,10,Excis metatar/tar-graft,Food pois: v. parahaem,39.7,false
+73,Tony Arton,China,Peru,26,Other femoral incision,Jt derangmnt NOS-unsp jt,40.0,true
+74,Philis Janc,Czech Republic,Zimbabwe,6,Neurologic examination,Stress fx shaft femur,42.0,false
+75,Carlen Pahler,China,Montenegro,11,Other tenonectomy,Osseous eustachian obstr,38.2,false
+76,Nicki Breslane,France,Tajikistan,18,Nasal les destruct NEC,Aftercare path fx hip,41.0,true
+77,Lexis Birbeck,Peru,France,13,Tu remov ureter obstruct,C5-c7 spin cord inj NOS,36.6,false
+78,Halette Breznovic,Indonesia,United States,3,Augment mammoplasty NOS,Early skin yaws NEC,35.6,false
+79,Carrie D'Souza,Indonesia,Japan,13,Bact smear-spleen/marrow,Anphylct react milk prod,41.5,false
+80,Odilia Kohn,Brazil,Indonesia,24,Immunotherapy as antineo,Mat surg dur preg aff NB,35.9,true
+81,Lemmie Ridsdell,Philippines,Ukraine,6,Lg bowel exteriorization,Catatonia-remission,35.1,false
+82,Domenic Bernaldez,Russia,United States,25,Scler fistuliz w iridect,War inj:indir nucl weapn,40.2,false
+83,Mame Greenhowe,Finland,Russia,14,Radioactive elem implant,Vaginitis NOS,38.7,false
+84,Gray Baterip,France,Ukraine,28,Plaster jacket applicat,Cor ath d/t lpd rch plaq,41.2,true
+85,Westley De Clairmont,China,China,15,Triple arthrodesis,Syphilis of liver,41.4,false
+86,Beaufort Kryszka,Kenya,China,21,Shoulder disarticulation,Plasmacytoma NOS,36.2,false
+87,Jennine Jerratsch,France,Turkmenistan,9,Lingual thyroid excision,Cl skul base fx-mod coma,37.5,true
+88,Darrick Padbury,Sweden,Indonesia,29,Rad electrocoag-rect les,Ftng autmtc dfibrillator,35.9,true
+89,Elinor Huckerbe,Mexico,Armenia,24,Allergy immunization,Chr osteomyelit-shlder,35.6,false
+90,Reinaldo Jiles,Afghanistan,Russia,22,Crown application,Ulceroglandul tularemia,42.0,true
+91,Brenda Durdan,China,Montenegro,12,Local lg bowel perfusion,Brucella canis,41.4,true
+92,Ignazio Clemmensen,Netherlands,Sweden,21,Ing hernia rep-graft NOS,Mal neo parietal lobe,35.9,false
+93,Anthe Dyett,Russia,Colombia,2,Bury fimbriae in uterus,Agoraphobia w panic dis,41.5,true
+94,Edithe Guinan,China,Australia,18,Cruciate lig repair NEC,Edema,37.4,true
+95,Goober Joiris,Russia,China,17,Vent shunt extracran NEC,Ocl bslr art wo infrct,41.3,false
+96,Anabelle Pavlenko,Indonesia,China,3,Fasciotomy,Academic underachievment,40.8,true
+97,Cassie Godby,France,China,17,Rev hip repl-fem comp,Uns lym leuk w rmsion,40.2,true
+98,Nikki MacDunleavy,Philippines,Indonesia,4,Micro exam-spln/marr NEC,Abn findings-saliva,38.2,true
+99,Angelika Shoutt,France,Philippines,29,Intrcran vent shunt/anas,Forcep deliv NOS-deliver,41.3,false
+100,Austine Oakley,Ukraine,France,28,Reopen laminectomy site,Syndactyl toe w fusion,36.6,true
+101,Roseline Jozwik,Czech Republic,Ukraine,28,Partial ostectomy NEC,Prostatic inflam dis NEC,39.5,false
+102,Harris Brosio,Sweden,Philippines,27,Perforat keratoplast NEC,Aftrcre traumatic fx hip,41.2,false
+103,Margareta Kent,China,Cyprus,16,Substern thyroidect NOS,Hallux valgus,35.0,false
+104,Augusto Bradfield,Finland,China,18,Reattach amputated ear,Twin-mate lb-hosp w/o cs,36.3,true
+105,Joelle Tanner,Sweden,Greece,24,Rectal massage,Mult ges malpres-antepar,36.1,false
+106,Benji Allbones,Georgia,Brazil,15,Opn fx red w int fix NOS,Hyp hrt dis NOS w/o hf,39.9,false
+107,Willette Loweth,Philippines,Poland,9,Cervical lymphangiogram,Opn skul/oth fx-mod coma,39.6,true
+108,Nikola Cornejo,Japan,Pakistan,14,Pterygium excision NEC,Musc disuse atrophy NEC,39.6,true
+109,Aaron Balam,China,China,28,Spine meningocele repair,Imperforate hymen,41.3,true
+110,Koo Stollard,Cuba,Portugal,2,Iris operation NEC,Pneum in aspergillosis,35.2,false
+111,Anica Plait,Indonesia,China,7,Tympanostomy tube remove,Fetal mal 1250-1499g,35.3,true
+112,Jorry Clarson,China,Canada,24,Psychodrama,Diabetes insipidus,37.1,false
+113,Gusti Cregeen,Armenia,New Zealand,6,Other heat therapy,Chills (without fever),35.9,false
+114,Elora Issacof,New Zealand,Russia,5,Intravs msmt ves NEC/NOS,Supervis oth normal preg,36.8,true
+115,Ronny Audry,Ukraine,Honduras,25,Chemical shock therapy,Surg comp-peri vasc syst,35.1,true
+116,Farlie Rainville,Indonesia,Poland,15,Lid reconst w skin graft,Dermatophytosis of hand,41.6,false
+117,Bebe Cadge,Brazil,Ukraine,6,Esophageal graft NEC,Vasa previa-antepartum,36.8,false
+118,Thalia Cowden,Vietnam,Australia,26,Plaster jacket applicat,Oth prblms rltd lfstyle,41.6,false
+119,Skipton Carr,Russia,Philippines,22,Lap remove ovaries/tubes,Monoc exotrop w v pattrn,38.6,false
+120,Sibby Kiwitz,Dominican Republic,Bulgaria,4,Bone graft-radius/ulna,Thyroid dysfunc-deliver,41.4,false
+121,Peadar Hender,Spain,Cuba,20,Oth bone repair/plast op,Atrophy of prostate,40.2,false
+122,Sean Janzen,China,France,14,Therapeu plateltpheresis,Screen for galactosemia,41.7,false
+123,Aviva Cino,Sweden,Argentina,28,Replace nephrostomy tube,"Fx mult phalan, hand-opn",37.0,false
+124,Nathanael Gytesham,Mexico,United States,2,Facial bone biopsy,Iron defic anemia NOS,37.3,false
+125,Kit Arcase,Switzerland,China,26,Parasitology-musculoskel,Disorder of penis NEC,40.0,true
+126,Mahalia Butter,Japan,Pakistan,10,Brain temp monitoring,Osteogenesis imperfecta,36.8,true
+127,Ginnie Duffit,Russia,Indonesia,24,Lid marg lac rx-ful thic,Mumps polyneuropathy,40.2,false
+128,Tonie Pipes,North Korea,China,14,Hysterectomy NEC/NOS,Congen cystic eyeball,39.6,true
+129,Tiffie Ripley,Indonesia,United States,27,Digital exam of uterus,Pathol dislocat-l/leg,37.3,true
+130,Nathalia Rottgers,Argentina,Brazil,19,Conjunctivoplasty NEC,Postcatheter forgn body,40.9,false
+131,Anatole Synke,Vietnam,United States,28,Fallopian tube aspirat,Alpha-1-antitrypsin def,36.3,true
+132,Zed Pizzey,Argentina,Israel,17,Inner ear fenestration,Exfl d/t eryth 60-69 bdy,38.2,false
+133,Rosette Macvey,Czech Republic,Greece,29,Cell blk/pap-spleen/marr,Atrophic nonflaccid tymp,38.4,true
+134,Burg Gaucher,Brazil,Philippines,17,Inject/inf thrombo agent,Rheumatoid arthritis,35.1,true
+135,Ichabod Tompsett,Indonesia,Sweden,30,Abltn renal les/tiss NEC,Anomalies of aortic arch,40.4,true
+136,Bendite McCafferky,El Salvador,Greece,5,Parent infus nutrit sub,Dislocation ankle-closed,37.4,true
+137,Daphene Hallex,Bulgaria,Indonesia,22,Percu nephrostm w/o frag,Fasciitis NOS,37.6,false
+138,Rinaldo Lukasen,Dominican Republic,Portugal,8,Toxicology-bili/pancreas,Hypertrophy of fat pad,40.5,true
+139,Thom Cuel,Panama,Philippines,28,Esophagoscopy NEC,Late eff exter cause NEC,35.5,false
+140,Flossy Pattesall,Czech Republic,Indonesia,28,Free skin graft NOS,Acc cut in med care NEC,36.9,false
+141,Francesca Braunton,Guatemala,China,29,Other brain dx procedure,Noninflam dis vagina NOS,41.4,true
+142,Granger Brave,Sweden,Philippines,17,Intracran vessel incis,Alcoh psy dis w hallucin,40.2,false
+143,Odilia Brigginshaw,Tajikistan,Syria,7,Intra-abd venous shunt,Metatarsus primus varus,39.1,true
+144,Teriann McConnachie,Benin,Colombia,3,Remov epithel downgrowth,Placent transfusion syn,37.2,true
+145,Leia Mitham,Philippines,Indonesia,9,Lap remove ovaries/tubes,Shock due to anesthesia,39.2,false
+146,Nata Ilden,Georgia,Chile,1,Open valvuloplasty NOS,Preg compl NEC-antepart,39.8,true
+147,Katharyn Bowmer,Indonesia,China,4,Part gast w jej transpos,Cl skl base fx/menin hem,36.9,true
+148,June Earthfield,China,Poland,3,Trephin sclera w iridect,Old laceration of vulva,36.3,false
+149,Clifford Di Meo,China,China,8,Carpal tunnel release,Sec malig neo resp NEC,37.4,false
+150,Hoyt Beakes,Indonesia,Poland,2,Applic ext fix dev-femur,RR coll NOS-person NEC,35.6,false
+151,Adrien Beert,Poland,Palestinian Territory,7,Local renal perfusion,Chr T & A dis NEC,35.4,false
+152,Irvin Eixenberger,China,United States,22,Therapeu plasmapheresis,Op subarach hem-prol com,36.2,true
+153,Harland Dodsworth,Palestinian Territory,Japan,27,Fat graft to breast,Tox eff nonmed subst NEC,40.6,true
+154,Ailyn Tigwell,Norway,Greece,3,Other fusion of foot,Cent giant cell granulom,37.8,false
+155,Shelden Huzzey,Paraguay,Philippines,2,Wrist structure division,Screen-mental dis NEC,38.2,true
+156,Reynolds Ledner,Bahrain,Hungary,23,Other heart septa ops,Fx clavicle shaft-closed,41.3,true
+157,Mead Fantham,China,Iran,22,Transab cerclage cervix,Fever in other diseases,36.3,true
+158,Karylin Blastock,Ireland,Hungary,3,Exc pituit les-transfron,Alternating exotropia,40.3,true
+159,Mavis Ottley,Jamaica,Cuba,21,Oth arthrotomy-wrist,Tracheostomy status,39.6,false
+160,Godiva Shutle,France,Sweden,16,Endosc remove panc stone,Abn vestibular func stud,41.4,true
+161,Zared Weinberg,Tunisia,Poland,16,Vasc proc revision NEC,Malig neo pancreas NOS,38.2,true
+162,Brenna Balffye,China,Greece,12,Rt/left heart card cath,Pseudobulbar affect,35.9,true
+163,Elbertina Nettles,Indonesia,Philippines,3,Repair of cleft lip,Joint pain-pelvis,38.9,true
+164,Gottfried Symmers,Serbia,Panama,23,Oth dx proced-patella,Poison-co NEC,36.7,true
+165,Kiah Dayley,China,Indonesia,21,Remov intralum vag FB,Intest infec e coli NOS,35.4,true
+166,Chet Merwood,China,Poland,19,Collaterl lig repair NEC,Psychogenic disorder NOS,41.9,true
+167,Glenine Elphee,Poland,China,26,Bunionect/sft/arthrodes,Mal neo cervix uteri NOS,37.0,true
+168,Dorotea D'Acth,Greece,China,9,Presacral sympathectomy,Candidal enteritis,36.4,true
+169,Jared Mehmet,Poland,Netherlands,8,Total pancreatectomy,Cellulitis of pharynx,36.1,true
+170,Xavier Palmar,Greece,Philippines,19,Humerus division NEC,Gonorrhea carrier,35.2,true
+171,Luke Hollingsby,Pakistan,Thailand,18,Rep anuls fibros NEC/NOS,Fx dorsal vertebra-open,38.7,true
+172,Kelwin McCauley,Chile,Iran,29,Sm bowel stoma closure,Multiple contusion trunk,40.0,true
+173,Conrad Bedford,Indonesia,Ukraine,2,Delayed clos abd wound,Fm hx prostate malig,35.9,true
+174,Dell Jepperson,Saudi Arabia,Greece,27,Bone scan,Transverse colon inj-opn,41.8,false
+175,Darrick Lumley,Philippines,China,24,Sinus lavage thru ostium,Biceps tendon rupture,37.7,true
+176,Letizia Iapico,Serbia,China,8,Exc maj les lid prt-thic,Abd preg w/o intrau preg,39.9,true
+177,Emmet Bevington,Peru,China,17,Revis cleft palat repair,Orbt deform d/t bone dis,36.0,true
+178,Ransom de Nore,Thailand,Sweden,17,Mri chest & heart,Acc poison-carbamates,39.7,false
+179,Hillard Aplin,Canada,Brazil,2,Therapeutc leukopheresis,Poisoning-cardiotonics,37.1,true
+180,Scotti Barrow,Portugal,Russia,1,Peritoneal dialysis,NB obsrv suspct neurlgcl,39.0,false
+181,Blanca Bugden,Russia,China,7,Occlude leg vein NEC,Ch leu uns cl in relapse,36.7,true
+182,Bellanca Canellas,Japan,Russia,11,Closed fx reduction NEC,T1-t6 fx-op/cen cord syn,35.1,false
+183,Janice De Domenici,Mayotte,Indonesia,12,Perianal biopsy,Accident on farm,37.5,false
+184,Gauthier MacAlister,Argentina,Honduras,21,Rad node dissection NEC,Acc poison-adrenergics,38.3,false
+185,Jyoti Hanhart,United States,Malaysia,12,Digital rectal exam,Panhypopituitarism,36.7,false
+186,Kasper O' Flaherty,South Africa,New Zealand,24,Rhinoscopy,Neutropenic splenomegaly,37.1,true
+187,Kennie Stannus,Japan,Italy,21,Skel xray-pelvis/hip NEC,Hemarthrosis-forearm,40.2,true
+188,Nikita Turneux,United States,Yemen,2,Inject/infus nesiritide,Fetal malnutr 2000-2499g,41.0,false
+189,Percy Cammidge,Cambodia,Indonesia,27,Other part laryngectomy,Superficial inj hand NEC,40.8,true
+190,Traci Olanda,Dominican Republic,Sweden,2,Ocular prosthetics,Ant horn cell dis NOS,36.7,true
+191,Lin Fletcher,Ivory Coast,United States,10,Int/comb version w extr,Hx-intrathoracic mal NEC,35.0,true
+192,Dunn Jiroutka,Greece,Sweden,29,Toxicology-spleen/marrow,Anxiety state NEC,41.8,false
+193,Maximo Clutterham,China,France,15,Remov imp device-patella,Nonrheum tricusp val dis,36.7,true
+194,Gabbi Sharrock,Indonesia,Slovakia,9,Oth meta/tar repa/plast,Disrupt c-sect-del w p/p,40.6,true
+195,Ira Frawley,Croatia,Colombia,16,Chemical shock therapy,Malignant neo glottis,41.1,true
+196,Brade Stout,Japan,China,25,Conjunctivoplasty NEC,Fx ulna shaft-closed,40.3,false
+197,Arthur Moline,Azerbaijan,Iran,23,Leg vein resect/anastom,Iatrogenic pituitary dis,40.0,false
+198,Toinette Enrdigo,Indonesia,China,4,Drug rehabilitation,Prelab rupt uter-antepar,40.6,false
+199,Annadiana Stener,Indonesia,Greece,9,Remov ant segmnt FB NOS,Keratin ridge mucosa-min,35.1,false
+200,Duncan Mouncher,Indonesia,France,19,Repair vess w patch NOS,Hairy-cell leukem head,41.3,false
+201,Ashien Creavin,China,Nigeria,23,Ins inflate penis prosth,Ankylosing spondylitis,36.5,false
+202,Lynnea Tidd,Afghanistan,Azerbaijan,26,Op red-tibia/fib epiphys,Otosclerosis NOS,40.3,true
+203,Alaric Oxtaby,Japan,Afghanistan,24,Tarsometatarsal fusion,Late metab acidosis NB,39.7,true
+204,Jule Stoile,Japan,China,18,Gastroscopy NEC,Traffic acc NOS-pasngr,39.6,false
+205,Fletcher Snoxill,Philippines,Philippines,9,Tibia & fibula biopsy,Familial polycythemia,37.1,false
+206,Gene Grafom,Comoros,Indonesia,7,Inject tranquilizer,Degen ciliary body,37.6,true
+207,Alaster Filipczak,Sweden,Ukraine,3,Parasitology-lower GI,Gonorrhea-deliver w p/p,38.2,true
+208,Devora Bodill,China,Myanmar,28,Cl fx reduc-int fix NOS,Voice/resonance dis NOS,41.5,false
+209,Melodee Francesch,Mexico,Philippines,22,Transplant of intestine,Gnathostomiasis,37.7,false
+210,Alick Dellenbroker,South Korea,Chad,24,Bilat endos occ tube NEC,Kaschin-beck dis-hand,40.1,false
+211,Cindie Skacel,China,Democratic Republic of the Congo,25,Partial ostectomy NEC,Mv n-traff NEC/NOS-psgr,35.6,false
+212,Alix Licquorish,China,China,12,Thoracoscopc lung biopsy,Reiter arthritis-pelvis,37.3,true
+213,Alika Zoellner,Portugal,France,10,Resection of nose,Abo isoimmunization-unsp,39.3,true
+214,Thedric Wroe,China,Indonesia,28,Oth op on >l extraoc mus,Upper resp dis NEC/NOS,39.4,true
+215,Harmon Johnes,Russia,Philippines,1,Ventricl shunt-head/neck,Hx-bronchogenic malignan,41.4,false
+216,Orson Olyff,Ukraine,China,18,Failed forceps,3rd deg burn w loss-back,40.0,false
+217,Ina Wallis,China,Russia,25,Mediastinal tracheostomy,Hx military deployment,40.4,true
+218,Claudine Spieght,Philippines,Finland,19,Transureteroureterostomy,Disord iron metablsm NEC,36.4,false
+219,Brade Stansby,Brazil,Russia,6,Lid marg recons ful thic,Comp-artificial skin grf,38.9,false
+220,Cariotta Chesnay,Thailand,Argentina,29,Excis metacar/car-graft,Elder primigravid-antepa,40.8,true
+221,Kelila Colafate,Colombia,Azerbaijan,18,Cervical spine x-ray NEC,Contusion of chest wall,38.1,false
+222,Trumaine Falvey,Russia,Indonesia,6,Other CAS,Gc cystitis (acute),35.4,false
+223,Rube Ortelt,France,Japan,3,Salpingo-uterostomy,Primary TB NOS-histo dx,41.0,true
+224,Nanete Andreini,Russia,China,13,Thoraco robotic ast proc,Boat inj NEC-person NOS,40.3,true
+225,Benn Tanzig,Brazil,Portugal,25,AICD check,Amebiasis carrier,35.3,true
+226,Devonna Muehle,China,Indonesia,7,Bilat lung transplant,Open wound of palate,40.9,true
+227,Pryce Senn,Kenya,Indonesia,24,Bronchial dilation,Fx femur intrcap NOS-opn,35.8,false
+228,Devina Lilleycrop,Brazil,Guatemala,21,Contrast arthrogram,Edema of newborn NEC/NOS,37.3,false
+229,Rogerio Riddel,Ukraine,Czech Republic,8,Total cystectomy NEC,Chorioretinitis NOS,39.6,true
+230,Berkie Cyseley,Honduras,Sweden,20,Lung vol reduction surg,Conjunctival deposits,41.5,false
+231,Amble Fletham,Peru,Norway,13,Pack ext auditory canal,Inhibited sex excitement,41.9,false
+232,Barnebas Parade,Armenia,China,7,Suture diaphragm lacerat,H simplex meningitis,40.4,true
+233,Hamish Luckett,Czech Republic,Albania,18,Frontal sinusectomy,Cerebral arteritis,37.5,true
+234,Krystle Callendar,Poland,France,19,Incis to remov tonsil FB,Deep 3rd deg burn knee,39.0,false
+235,Germaine Skipsey,Thailand,Philippines,25,X-ray study of eye,Alcoh dep NEC/NOS-unspec,38.7,false
+236,Boyd Dionsetto,New Zealand,China,15,Partial patellectomy,Mal neo skin up limb NOS,37.3,false
+237,Ninnetta Blackway,China,Morocco,21,Cystocel/rectocel repair,Malig melanoma skin NEC,36.0,false
+238,Erasmus Tilte,Poland,France,20,Lap right hemicolectomy,Chr inf otit externa NEC,39.9,true
+239,Lance Frude,Indonesia,Poland,16,Leg artery resec w repla,Cerebral palsy NOS,39.1,false
+240,Andriette Merriman,Netherlands,Thailand,1,Contrast myelogram,DMII circ nt st uncntrld,38.8,true
+241,Garvey Lowdyane,United States,Sweden,10,Lg bowel stoma revis NEC,Disloc metacarpophaln-cl,37.3,false
+242,Dorita Hayward,Spain,Thailand,13,Spermatic cord/vas biops,3rd deg burn face NEC,38.0,false
+243,Madlen McKennan,Croatia,Indonesia,28,Muscle reattachment,Tularemia NOS,39.2,true
+244,Jodee Grocock,China,France,3,Jt structur division NOS,Posterior disloc hip-cl,37.5,false
+245,Celinka Fludgate,China,China,29,Local excis rectal les,Disloca midcarpal-closed,40.7,true
+246,Paquito Tutin,Portugal,Portugal,15,Septoplasty NEC,Simple microphthalmos,38.0,false
+247,Marina Tuma,Argentina,Norway,16,Psychoanalysis,Anencephalus,38.5,true
+248,Tabb Druce,South Africa,Pakistan,28,Other pneumonectomy NOS,Abn uterus NEC-delivered,37.7,false
+249,Normie Merring,Portugal,Syria,24,Limb lengthen-tib/fibula,Diabetes in preg-unspec,38.1,true
+250,Coriss Fass,Indonesia,Togo,16,Flexible sigmoidoscopy,Amebic nondysent colitis,38.3,true
+251,Morris Nellies,Philippines,Azerbaijan,7,Insert disc pros NOS,Amniotic prob NOS-unspec,37.0,false
+252,Winston Pakenham,Ukraine,Albania,1,Opn abd diaphrm hern NEC,Poisoning-emetics,38.2,false
+253,Kearney Trowsdale,Dominican Republic,Indonesia,8,Limb short proc-femur,Fracture rib NOS-closed,41.3,false
+254,Knox Anetts,Mongolia,Brazil,14,Heart aneurysm excision,Communic dis contact NEC,41.9,false
+255,Norene Sandercock,China,Hungary,8,Parasitology-op wound,Joint dis NEC-hand,37.4,true
+256,Morgan Meaders,Mongolia,Russia,16,Bact smear NOS,Binocular vis suppress,41.7,true
+257,Grove Glendenning,Russia,Brazil,6,Total pancreatectomy,Hx-tracheal malignancy,40.0,true
+258,Sibley Fanthome,Iran,Czech Republic,20,Hypothermia,Debility NOS,39.9,false
+259,Saxon Lippingwell,Russia,Sweden,20,Male sterilization NOS,Tubrclma sp cord-cult dx,37.7,false
+260,Bo Thompson,Portugal,China,24,Gastric cooling,Bnign shuddering attacks,35.2,true
+261,Caralie Flather,China,China,14,Suture of tongue lacerat,Longitud defic radius,41.4,true
+262,Lia Rowena,China,Russia,2,Anal anastomosis,Atrophy mandible-modrate,38.2,true
+263,Tiebout Trustram,Czech Republic,Philippines,28,Cl fx reduc-toe,Mucocutan dis conjunctiv,40.1,false
+264,Marsh Cherry,Russia,Lithuania,4,Dx procedure thorax NEC,Scrn-ischemic heart dis,40.8,false
+265,Lisha Stowers,China,Peru,30,Oth metatars/tars incis,Fx coronoid proc ulna-cl,39.8,false
+266,Sharia Rama,China,China,14,Neurologic func test NEC,70-79% bdy brn/10-19% 3d,36.7,true
+267,Jere Bradnum,Indonesia,China,3,Repair of macrodactyly,Contusion of lower leg,40.5,true
+268,Ebenezer Simmans,Antigua and Barbuda,Portugal,29,Exc chest cage bone les,Recurr depr psychos-mild,40.8,true
+269,Teodor Southcomb,China,Philippines,22,Dilation of intestine,Infect/parasite dis NOS,37.7,true
+270,Ethel Beckworth,China,Chile,25,Collaterl lig repair NEC,Psy dis w delus oth dis,40.1,true
+271,Thibaud Boobyer,France,China,15,Sphinct of oddi op NEC,Screening for leprosy,39.1,false
+272,Andris Coggen,Thailand,Uzbekistan,21,Radical vulvectomy,Acute post-thoracot pain,36.7,false
+273,Farley Milkeham,Czech Republic,Philippines,24,Other acupuncture,Path fx oth spcf prt fmr,36.4,false
+274,Martita Backe,China,Argentina,24,Culture-endocrine,Drowning in bathtub,39.8,true
+275,Bridie Bridgestock,Indonesia,Ukraine,14,Secondary insert lens,"Ac kidny fail, medu necr",37.5,false
+276,Suellen Runciman,Mauritius,Russia,22,Plastic op on pharynx,Senile corneal changes,37.7,true
+277,Adiana Fauning,Tunisia,Egypt,6,Intrauterine transfusion,Social conduct dis-mild,41.3,false
+278,Sherwin Leinster,Peru,Philippines,11,Lap abltn renal les/tiss,Inj mesenteric vess NEC,41.9,true
+279,Robyn Chrystal,Serbia,Brazil,19,Procedure-two vessels,Toxic effect antimony,36.4,true
+280,Madelyn Brommage,Bosnia and Herzegovina,Slovenia,22,Injection into marrow,Rec bil fem hern w obstr,36.8,true
+281,Hilary Suggitt,Mongolia,Philippines,23,Perc ins carotid stent,Poison-sympathomimetics,41.2,true
+282,Mareah Tabb,Indonesia,Indonesia,25,Skull transilluminat,Hantavirus infection,36.0,false
+283,Carlyn Helder,Argentina,Madagascar,23,Perianal biopsy,Thrombot microangiopathy,41.5,false
+284,Joline Balston,China,Indonesia,4,Glaucoma testing,Spstc hmiplg nondmnt sde,38.2,true
+285,Rosaleen Northover,Brazil,Philippines,16,Biopsy of diaphragm,Jt contracture-pelvis,41.5,true
+286,Terrie McKevitt,China,Japan,3,Oth meta/tar repa/plast,Mycotic arthritis NEC,35.6,true
+287,Abbie Priel,Sweden,Indonesia,21,C & s-op wound,Osteochondrit dissecans,41.4,false
+288,Kariotta Hearl,Afghanistan,Portugal,29,Digital enterostomy exam,Cl skul base fx-coma NOS,36.9,true
+289,Agna Stidworthy,China,Greece,19,Upper limb lymphangiogrm,3rd deg burn ankle,36.6,false
+290,Baird Dietmar,China,China,19,Osteoclasis-tibia/fibula,Lactat dis NEC-postpart,39.2,false
+291,Glynnis Iskov,China,Ireland,10,Nasal dx proc NEC,Fire in bldg-fumes NOS,36.0,false
+292,Bryna Tsarovic,Panama,Ghana,25,Testicular les destruct,Nonunion of fracture,41.7,false
+293,Jackie Ardern,Portugal,Portugal,3,Orthovoltage radiation,Cutaneous diphtheria,36.0,false
+294,Arly Peppard,Poland,Czech Republic,28,Destruct conjunc les NEC,Mild dysplasia of cervix,35.6,false
+295,Maryrose Gapper,South Africa,Czech Republic,22,Thorac esophagocolos NEC,Schistosomiasis NOS,35.3,false
+296,Gracie Dufour,Poland,Morocco,1,Oth thorac op thymus NOS,Radiological exam NEC,36.2,false
+297,Gilli Tankin,China,Syria,29,Behavior therapy,Fail sterile endoscopy,36.5,false
+298,Shermy Lyddy,Greece,France,26,Reopen thoracotomy site,Minor opacity of cornea,40.7,false
+299,Emilie Jacobsson,Indonesia,Nigeria,29,Endocervical biopsy,Uterine inertia NEC-unsp,36.3,false
+300,Roseann Belz,China,Armenia,6,Breast injection,Leptospiros icterohem,40.3,true
+301,Caroline Castleton,Colombia,Ireland,13,Other incision of thymus,Illeg ab w compl NEC-inc,35.2,false
+302,Diena Petrov,Thailand,Philippines,2,Serum transfusion NEC,Ex ear anm NEC-impr hear,39.3,false
+303,Kaja Membry,Indonesia,Kazakhstan,9,Autoimmune dis immunizat,Ankylosing spondylitis,38.6,true
+304,Sebastiano Carson,Croatia,China,19,Opn ind ing hern-gft NEC,Hx drug therapy NEC,37.9,false
+305,Cathyleen Muir,Indonesia,Nigeria,12,Periph ganglionect NEC,Comp endo hyper w/o atyp,41.6,false
+306,Charmion Joanaud,Indonesia,Botswana,11,Forequarter amputation,Dis bilirubin excretion,35.3,true
+307,Ibbie Starkings,Russia,Indonesia,9,Ext ear diagnos proc NEC,Inflam spondylopathy NEC,41.7,false
+308,Gael Driffe,France,Brazil,13,Scleral operation NEC,Hair anomalies NEC,39.2,false
+309,Miller Deware,Russia,Portugal,17,Gastrotomy,Pervasv dev dis-cur NOS,41.5,false
+310,Roland Skyppe,Sweden,China,13,Remov pancreatic tube,Long-term use steroids,40.2,false
+311,Nancie Taffarello,France,China,20,Inject/infuse NEC,Bipol I curr dep w/o psy,40.0,false
+312,Dido Klasing,Philippines,China,1,Prostatectomy NEC,Breast inf NEC-del w p/p,38.7,true
+313,Eimile Utteridge,Indonesia,Russia,28,Oth seg lung resect NOS,Pelvic congestion synd,36.5,true
+314,Aristotle Cockayme,Japan,France,29,Excis metacar/car-graft,"Sed,hyp,anxiolyt dep-epi",38.0,true
+315,Xylina Crocker,China,China,9,Ankle structure division,Malfunc cardiac pacemake,35.4,true
+316,Jaquelin Robeson,China,Russia,9,Extraoc musc inj repair,Preterm NEC 1500-1749g,38.4,false
+317,Shantee Poley,China,Spain,17,Debrid opn fx-tibia/fib,Glaucomatous flecks,39.1,false
+318,Gena Themann,Belarus,Argentina,21,Cornea reconstruct NEC,Oth off-road mv-st car,39.9,true
+319,Richy Alvarez,China,Indonesia,4,Thorac sm bowel interpos,Spotting-delivered,36.2,false
+320,Aguistin Pimblotte,Armenia,Philippines,4,Other control gast hem,Ab NOS uncomplicat-unsp,39.0,true
+321,Itch Valentin,Comoros,Russia,20,Shoulder struct division,Fail induct NOS-antepart,37.2,true
+322,Peggi Deniso,China,China,17,Other plastic ops fascia,Corpus luteum cyst,40.0,true
+323,Bliss Snary,United States,Netherlands,2,Sperm cord adhesiolysis,Joint replaced ankle,41.2,false
+324,Mikel Mattityahou,Armenia,Japan,25,Epididymectomy,N-traf brd/alit-pedest,35.1,true
+325,Fax Dupree,Philippines,China,26,Cell blk/pap-peritoneum,Lftsded ulcertve colitis,41.4,true
+326,Adoree McCaughen,China,Argentina,25,Resect abdm aorta w repl,Paraproteinemia NEC,36.7,true
+327,Theadora Bonwell,Indonesia,Poland,5,Percutan liver aspirat,Mal neo islet langerhans,35.6,false
+328,Mattheus Biesinger,Russia,Indonesia,25,Small bowel incision NEC,Development delay NOS,35.9,true
+329,Paddy Mozzetti,Russia,Bulgaria,18,Rev knee replacemt-total,Opn skul vlt fx w/o coma,36.6,false
+330,Marcellina Lingard,Japan,Czech Republic,3,Toxicology-lower resp,Deep thromb postpar-unsp,36.1,true
+331,Boycey Laurand,Russia,Cyprus,9,Suture of laryngeal lac,Fx sacrum-cl/crd inj NOS,38.7,false
+332,Letty Sedgwick,Finland,Portugal,6,Closed fx reduct humerus,Myelodyspls syn w 5q del,40.1,false
+333,Leighton Withull,Brazil,Poland,28,Implt artf urin sphinct,Injury celiac axis NEC,36.6,true
+334,Lyn Marvelley,Slovenia,Honduras,14,Destruc lg bowel les NEC,Mammary duct ectasia,35.4,true
+335,Gus Petrussi,Philippines,Uruguay,11,Op tot intr-abd colectmy,TB bone/jt NOS-micro dx,39.5,false
+336,Nollie Giuron,Portugal,Peru,2,Cleft palate correction,Arrest of bone growth,41.6,true
+337,Emmy Pickvance,Nigeria,Peru,1,Endocar cushion rep NEC,Cystic fibrosis NEC,38.7,false
+338,Lance Weightman,France,Venezuela,12,Retroperiton pneumogram,Hyperem w metab dis-del,40.2,false
+339,Ben Lowater,Russia,Russia,11,Unilat simple mastectomy,Syphilis in preg-unspec,38.6,true
+340,Ettie Kemwall,Sweden,China,2,Transcath embo gast hem,Synov/tend/bursa dis NEC,37.5,true
+341,Alanah Giacobbo,Burkina Faso,Portugal,4,Unilat rad neck dissect,Struck by falling object,39.5,true
+342,Jobi Gerry,Russia,China,2,Perirectal tissue biopsy,Athetoid cerebral palsy,41.1,false
+343,Fields Otridge,Mexico,Ukraine,30,Facial bone reconstr NEC,Fetal comp in utero-unsp,39.2,false
+344,Derril Sheach,Albania,France,4,Parathyroid reimplant,Conduct hear loss tympan,41.2,false
+345,Corliss Bernardeschi,Ethiopia,Czech Republic,28,C & s-female genital,Synov/tend/bursa dis NEC,40.6,false
+346,Arin Swaby,Philippines,Indonesia,18,Xtraoc mus op/detach NEC,Legal abort w embol-unsp,41.1,false
+347,Lu Buxsey,Ireland,Indonesia,16,Thorac total exc thymus,Open wound foot-compl,38.5,false
+348,Saidee Beves,Tunisia,Yemen,4,Opn bx larynx or trachea,Lumbosacr spondylolysis,36.7,true
+349,Anetta Edens,China,Sweden,10,Insert palatal implant,Cerebral cysts,39.4,false
+350,Dallon Nendick,Indonesia,China,29,Inject antibiotic,Mononeuritis multiplex,36.8,true
+351,Julius Lickorish,Indonesia,China,25,Revis bile tract anastom,Pulm complicat-antepart,41.4,false
+352,Skipper Milington,Tanzania,Djibouti,23,Thoracic operation NEC,Large cell lymphoma head,36.1,false
+353,Hymie Pickton,China,France,16,Other heat therapy,Alcoh dep NEC/NOS-remiss,41.1,false
+354,Rianon Innett,Argentina,Ukraine,17,Other skeletal traction,Derang med meniscus NEC,41.3,true
+355,Ursa Maty,Poland,China,15,Xtraoc mus op/detach NEC,Injury hepatic veins,41.4,true
+356,Ronny Pavy,South Africa,China,11,Exchange transfusion,Budd-chiari syndrome,39.9,true
+357,Emogene Mingus,China,China,28,Repair of hammer toe,Elvtd prstate spcf antgn,41.0,true
+358,Svend Tourville,Canada,Ireland,17,Attach pedicle to hand,Crnitne def d/t nb met,39.2,true
+359,Lorenza Arber,Armenia,Serbia,8,Ileal conduitogram,Abdmnal tndr rt upr quad,36.6,true
+360,Berte Road,Russia,China,1,Omental repair NEC,Shigella dysenteriae,42.0,false
+361,Auria Barwell,China,Indonesia,9,Culture-lower resp,Dvrtclo colon w hmrhg,39.0,true
+362,Kimberlyn Heathwood,Indonesia,China,11,Thermokeratoplasty,"Fx humer, med condyl-cl",35.7,true
+363,Ursa Cockshut,Ireland,Portugal,6,External ear incis NEC,Fum/vapor resp cond NOS,38.1,true
+364,Jacinthe Hinkes,Poland,Nigeria,7,App ext fix dev-ring sys,Histoplasma capsulat NEC,38.0,false
+365,Bertram Clara,Thailand,Kenya,12,Ligation of vas deferens,Puerp cerebvas dis-deliv,38.7,true
+366,Shep Du Barry,Yemen,Cameroon,24,Opn aortic valvuloplasty,Voice/resonance dis NOS,39.1,false
+367,Merrili Wankel,China,Belgium,19,Thoracic vessel excision,Ac myocardit in oth dis,39.0,false
+368,Bari Clemenzo,Peru,Sweden,16,Vag diaphragm insertion,Circadian rhym sleep NOS,35.9,true
+369,Sibbie Mussotti,Poland,Russia,28,Trachea fistula clos NEC,Atrial fibrillation,39.3,true
+370,Sophey Pembridge,Poland,France,13,Endosc destruc anus les,Rupture uterus NOS-unsp,41.1,false
+371,Saundra Portriss,China,France,20,Bronchial ligation,Ac maxillary sinusitis,35.9,true
+372,Tory Pellew,Portugal,Spain,28,Retrobulbar injection,Atten to cystostomy,37.2,false
+373,Jamey Fones,Philippines,Russia,17,Tot ostect-metatars/tars,Twin gest-dich/diamniotc,37.4,true
+374,Emyle Tunno,China,Ivory Coast,15,Replace nasal packing,Mal neo peritoneum NOS,39.7,true
+375,Alberto Bercevelo,Mexico,Philippines,3,Skull flap formation,TB of bronchus-histo dx,39.6,true
+376,Parsifal Eddins,Indonesia,Germany,24,Sut gastric ulcer site,Oth multiple sb-nonhosp,38.6,false
+377,Jeniece Cockill,Portugal,Poland,13,Iridoplasty NEC,Chr sphenoidal sinusitis,40.5,false
+378,Dulcy Beeson,Canada,Russia,5,Removal head/neck FB,Chr pelv periton NEC-fem,35.9,true
+379,Terza Wilmut,Bangladesh,Indonesia,21,Apexcardiogram,Dis sup actnc porokrtsis,38.4,true
+380,Vasili Mallabone,France,Brazil,15,Fit lo arm/hand prosthes,Thyroid dysfun preg-unsp,38.4,false
+381,Rachael Kift,China,Indonesia,4,Pulmon art wedge monitor,Microstomia,38.0,true
+382,Randene Avrahamof,Thailand,Azerbaijan,11,Part ostect-metatar/tar,Chr post-trauma headache,41.8,false
+383,Chaddie Abrahamson,China,South Africa,28,Highly select vagotomy,Unc beh neo nerv sys NEC,41.6,true
+384,Georgine Berkowitz,Poland,Russia,14,Tot osteoplasty maxilla,TB of spleen-exam unkn,42.0,true
+385,Sean Rasher,Russia,Indonesia,4,Manual rupt joint adhes,Male gen inflam dis NEC,39.1,true
+386,Alverta Foch,Philippines,Philippines,17,Grft rep endocar cushion,Atten to ileostomy,41.8,false
+387,Elnore Balls,Russia,Sweden,14,Excis les lacrimal gland,Cong absence of vertebra,36.7,true
+388,Benedicto Salkeld,China,Serbia,3,App ext fix dev-ring sys,Abrasion foot & toe,40.0,false
+389,Kendal Scarfe,Brazil,China,20,Nasal dx proc NEC,Ret cholelh fol cholecys,35.2,true
+390,Barty Gerty,China,Indonesia,27,Creat esophagastr sphinc,Longitud defic radioulna,39.9,true
+391,Wendall Reeks,Azerbaijan,Malaysia,30,Scarification of pleura,Meningococc encephalitis,38.3,true
+392,Conrado Colles,Guatemala,China,17,Urin incontin repair NEC,Precordial pain,37.2,true
+393,Adella Rasp,China,Philippines,5,Thoraco robotic ast proc,Run water w/o sub fall,37.3,true
+394,Taffy Froude,Indonesia,France,9,Manual rotat fetal head,Old laceration of cervix,41.6,true
+395,Lanette Collishaw,China,Bolivia,29,Sperm collection,Allerg arthritis NEC,35.9,true
+396,Drusie Euston,United States,Czech Republic,24,Dx ultrasound-grav uter,Mysthna grvs w/o ac exac,38.4,false
+397,Irwinn Eady,Mongolia,China,3,Non-invasive mech vent,Abn plac NEC/NOS aff NB,35.1,true
+398,Silvanus Trotton,Peru,China,16,Adm inhal nitric oxide,Priv dwel fire-pvc fumes,37.6,true
+399,Karlene Karpov,Russia,Brazil,26,Endometrial ablation,Inj int mammary art/vein,41.3,false
+400,Kimberlyn Van der Merwe,Indonesia,Armenia,13,Cath drain-pancreat cyst,Uterine inert NEC-antepa,39.7,false
+401,Cassandry Donaher,France,Indonesia,2,Lap mul seg res lg intes,TB bone/jt NOS-oth test,35.9,true
+402,Far McNuff,China,Brazil,2,Separat unequl join twin,Fecal smearing,36.1,true
+403,Annetta Rickaert,Pakistan,Russia,15,Augment mammoplasty NOS,T7-t12 spin cord inj NEC,35.2,true
+404,Gareth Dy,Portugal,China,26,Endosc destru lg int les,Mal neo spermatic cord,37.6,false
+405,Elwyn Mellish,Saudi Arabia,China,5,Injection into marrow,Reentrant mv coll-pasngr,41.5,false
+406,Vin Maymand,Mexico,China,2,Testicular les destruct,Pap smear (ASC-US),40.9,false
+407,Eleanora Grinyakin,Czech Republic,Luxembourg,7,Percu nephrostmy w frag,Mild/NOS preeclamp-unsp,38.4,true
+408,Timmi Pecht,Netherlands,China,28,Anal incision NEC,Thrombophlebitis migrans,40.3,false
+409,Granville Withnall,China,Mauritius,9,Elbow structure division,Malig neo epididymis,40.6,true
+410,Patrick Kittless,Thailand,Vietnam,24,Part ostect-metacar/car,TB sp crd absc-cult dx,40.3,true
+411,Antonetta Sheardown,Indonesia,China,19,Referral for psychother,Family hx-malignancy NEC,35.0,true
+412,Corine Harrington,Indonesia,Bosnia and Herzegovina,23,Abdomen artery incision,Extadural hem-concuss,37.3,false
+413,Estella Androli,Indonesia,China,18,Penile diagnost proc NEC,Effects of thirst,37.9,true
+414,Conrado Cullinane,Russia,Pakistan,28,Arth/pros rem wo rep-elb,"AMI inferolateral, init",38.0,false
+415,Myrta Cathel,China,Sweden,26,Remove dental prosthesis,Lymphangioleiomyomatosis,39.5,true
+416,Ferdie Lynskey,Colombia,Indonesia,24,Cul-de-sac operation NEC,Fx orbital floor-closed,35.7,false
+417,Emelen Tapson,Indonesia,Portugal,16,Aneurysm repair NEC,Adolescence growth NEC,37.1,false
+418,Wilton Bernardeau,China,China,29,Total ostectomy-humerus,Other lung disease NEC,38.2,true
+419,Ivan Fullbrook,China,China,2,Non-invasive bone stimul,Shigella boydii,37.7,true
+420,Lenka Medd,Yemen,Russia,9,Rejected kidney nephrect,Nonsp abn find-gu organs,38.5,true
+421,Helen-elizabeth McMychem,China,China,2,Appendiceal ops NEC,Cl skull vlt fx-brf coma,35.1,true
+422,Salomi Pyson,Norway,United States,8,Excise cord/epid les NEC,"Sed,hyp,anxiolytc ab-rem",38.6,false
+423,Torrin McLae,Peru,Ukraine,2,Endovas impln grft aorta,Mental disorder-antepart,37.5,true
+424,Linnet Hudleston,China,Colombia,1,Carotid sinus stiumlat,Pois-respir drug NEC/NOS,39.9,false
+425,Dorotea Mapledorum,Belize,Philippines,24,Oth reimplant of ovary,Fetal/neonatal hepatitis,38.3,false
+426,Keen Fussell,Philippines,Ireland,4,Rev stapdec w incus repl,Prsnl hst unspc dgstv ds,35.7,false
+427,Duffie Carbert,Poland,Japan,27,Closed liver biopsy,Acoustic trauma,40.1,true
+428,Mercy von Nassau,Russia,Nigeria,20,Thoracic vessel excision,Other vd-antepartum,37.2,true
+429,Pattie Concklin,Albania,Uruguay,23,Abd vein resect & anast,Mod intellect disability,35.8,false
+430,Madison Fermoy,Indonesia,Brazil,11,Non-invasive bone stimul,Recurr depr psychos-unsp,40.1,false
+431,Murielle Yvens,Sweden,Somalia,12,Mid forceps op NEC,Ac margin ulc w perf-obs,38.6,false
+432,Ramsey Ygou,Albania,Indonesia,2,Revis enuc socket w grft,Fx mult cervical vert-cl,35.9,true
+433,Staci Dabinett,Mexico,Indonesia,9,Carotid pulse tracing,Strep sore throat,38.7,true
+434,Colet Jozsa,Indonesia,Indonesia,18,Delayed clos abd wound,Subdural hemorr-mod coma,40.7,true
+435,Timi Domesday,Russia,China,21,Excis lesion of muscle,Amebic lung abscess,41.8,true
+436,Aundrea Hamberstone,Brazil,Greece,19,Other dx pt procedure,Postabortion hemorrhage,37.7,false
+437,Cathleen Bradtke,Portugal,Indonesia,18,Non-coronary IFVA,Brain hem opn w/o coma,40.2,false
+438,Marco Celle,Poland,Russia,29,Pancreatic homotransplan,Family hx-anemia,40.5,false
+439,Rasia Hinkins,Indonesia,Poland,7,Diagnostic imaging NOS,Congenital anemia,41.2,true
+440,Tanitansy Greenhouse,France,Indonesia,17,Carporadial fusion,Radiation gastroenterit,40.1,false
+441,Yorgo Abbatt,China,Azerbaijan,11,Arth/pros rem wo rep-ank,Comp-ren dialys dev/grft,40.7,true
+442,Ariel Feathers,South Africa,Indonesia,10,Oth lo vision aid dispen,Injury to nerve NEC,41.6,true
+443,Camey Manginot,Morocco,Indonesia,17,Arthrodesis of shoulder,Acute lymphadenitis,38.7,true
+444,Greta Grugerr,China,China,28,Lumb/lmbosac fus ant/ant,Salivary gland abscess,36.9,true
+445,Samaria Keer,Uganda,Russia,21,Revise clo vesicostomy,Mal neo sigmoid colon,38.7,false
+446,Deeyn Henworth,Ethiopia,China,17,Application of splint,Prim hypercoagulable st,37.2,true
+447,Riobard Garrard,Czech Republic,Macedonia,2,Opn/oth rep aort vlv-tis,Cereb degeneration NOS,41.1,false
+448,Maybelle Colhoun,China,Indonesia,4,Thorac duct cannulation,Shoulder dystocia-antepa,39.5,false
+449,Arther Karlik,Russia,Pakistan,25,Urethral sphincter emg,Oth off-road mv acc-driv,37.0,true
+450,Matthew Hollow,Venezuela,France,16,Prosth rep hrt septa NOS,Ac laryngotrach w obstr,37.6,true
+451,Leigh Cuttle,Burundi,Greece,6,Psychiatr somatother NEC,Use aromatase inhibitors,38.5,false
+452,Cord Ockenden,South Africa,China,7,Remov tube & ectop preg,Trans hyperten preg-unsp,39.8,true
+453,Walt Hemms,Thailand,France,7,Oth chest cage rep/plast,Fire-highly inflam mater,37.9,false
+454,Darlleen Attiwill,Mexico,Bangladesh,30,Arth/pros rem wo rep-hnd,Ped cyc acc-occ anim veh,37.2,true
+455,Deanne Lalley,Poland,Latvia,18,Elevate skull fx fragmnt,Gastroschisis,35.6,false
+456,Braden Castanho,Russia,China,12,Lap simple suture ovary,Snow veh acc-motorcycl,37.3,true
+457,Shannon Gallaway,Ukraine,Canada,28,Cell blk/pap-upper urin,Basal cell ca skin NOS,41.9,true
+458,Stephie Simcoe,Dominica,Honduras,20,Oth intraop mag res imag,Uncert behavior neo NOS,38.7,false
+459,Mayor Sollis,Indonesia,Honduras,14,Renal scan/isotope funct,Palindrom rheum-up/arm,41.9,true
+460,Tam Dashwood,South Africa,Angola,21,Repair ob laceration NEC,Forearm deformity NOS,40.7,true
+461,Elora MacAlister,China,Indonesia,2,1 int mam-cor art bypass,TB periph lymph-exam unk,37.1,false
+462,Germayne Schulkins,Indonesia,Brazil,2,Closed brain biopsy,Chr fibrous thyroiditis,36.6,true
+463,Frankie Burgh,Colombia,Bangladesh,11,Remove nasal packing,Late eff fire acc,39.8,false
+464,Clarinda Ianelli,China,Philippines,19,Sympath nerve division,Schizophrenia NOS-subchr,36.2,true
+465,Abdul Idle,China,France,23,Facial bone x-ray NEC,Fet/plac prob NOS-unspec,37.4,false
+466,Ernestus Cowerd,Taiwan,Argentina,17,Lap remove rem ova/tube,Var mgr NEC wo ntc mgr,41.6,true
+467,Tabbie Chamberlaine,China,Spain,19,Suture of artery,Brain hem NEC-concussion,39.6,true
+468,Matthus Greville,Chile,China,28,Eswl kid/ureter/bladder,Fail induction NOS-deliv,40.8,true
+469,Gunilla Coppock.,Indonesia,Brazil,30,Partial hip replacement,Pap smear anus w HGSIL,38.7,true
+470,Talya Pinock,China,Austria,27,Pacemaker impedance chck,Rhinovirus infect NOS,37.1,false
+471,Faith Di Filippo,Indonesia,Russia,8,Remove impl dev-humerus,Senile delirium,38.9,true
+472,Con Dumbelton,China,China,15,Irrigate/expl vent shunt,"Hernia, site NEC w obstr",35.0,false
+473,Mick Lucken,Finland,Yemen,2,Intra-amnion inj for ab,Adv eff skelet musc relx,35.2,true
+474,Cally Lope,United Kingdom,Nigeria,3,Lower lid rhytidectomy,Mal neo urinary NOS,35.5,false
+475,Jennette Selburn,Japan,Mongolia,8,Revis cutan ileoureteros,Cong hip deformity NEC,37.3,true
+476,Dorena Volant,China,China,1,Oth op on >l extraoc mus,Hydatidiform mole,41.0,false
+477,Malvin Rizzo,Canada,Philippines,25,Ankle synovectomy,Viral exanthemata NOS,35.4,true
+478,Erl Pugh,Canada,Indonesia,12,Lap creat esoph sphinct,Mal crcnoid ascend colon,35.2,true
+479,Weidar Campling,Brazil,Indonesia,26,Lap abltn renal les/tiss,Poison-drug/medicin NOS,35.5,false
+480,Alla Tezure,Norway,Ukraine,28,Sm bowel stoma closure,Calcif tendinitis shlder,41.4,true
+481,Frannie Kyberd,China,Russia,19,Percu endosc jejunostomy,Prs ara w/inf/ntr wo st,37.9,false
+482,Ilyse Rubberts,Poland,Brazil,27,Retroperiton pneumogram,Dissection iliac artery,36.6,true
+483,Taddeusz Gandy,Norway,China,5,Conjunctival op NEC,Sft tisue - kpsi's srcma,36.7,true
+484,Freeman Sandeman,Honduras,United States,20,Cardioplegia,Acq ankle-foot def NEC,36.5,true
+485,Doris Megany,Brazil,Japan,5,Low forceps w episiotomy,Cl sk base fx/br inj NEC,41.8,true
+486,Cassandry Parsonson,United States,Ukraine,8,Scleral fistula repair,Metabolic cardiomyopathy,37.9,true
+487,Dill Gullan,Slovenia,Trinidad and Tobago,5,Insrt prsr snsr w/o lead,Acc poison-carbamates,41.7,false
+488,Norton Alcalde,Russia,China,21,Revise hip replacemt NOS,Preterm NEC <500g,36.6,true
+489,Sebastian Perkins,China,Brazil,19,Hypo-epispadius repair,Fx lateral malleolus-opn,40.4,false
+490,Ilyse Elcomb,Serbia,Egypt,21,Repair eyeball rupture,DMII neuro nt st uncntrl,36.7,true
+491,Nichole Boutell,Chile,Indonesia,22,Extracorpor hepat Assis,Pathologic drug intox,39.3,true
+492,Bryan Abbati,Indonesia,Russia,2,Ethmoid art ligat-epist,Drug persist amnestc dis,39.5,false
+493,Codi Enoch,Afghanistan,China,20,Esophag speech training,Liveborn NOS-hosp w/o cs,38.6,true
+494,Skell Bonniface,Finland,Indonesia,26,Cls reduc-sep epiphy NEC,Hemododialysis hypotensn,41.0,true
+495,Kory Rolfo,Indonesia,China,3,Fit above knee prosthes,Watercraft acc NEC-skier,37.0,true
+496,Cosetta Anscombe,China,China,12,Scleral fistula repair,Adv eff dietetics,41.1,true
+497,Diane Standeven,Russia,Indonesia,5,Vag reconst w grft/pros,Endometriosis in scar,36.2,true
+498,Jose Jehu,Indonesia,France,26,Dental examination,Neuropathy in diabetes,40.3,false
+499,Sylvester Checcucci,Belarus,China,16,Bladder sphincterotomy,Merkel cell ca-oth sites,36.3,true
+500,Blane Antuoni,Dominican Republic,Tunisia,20,Oth remove rem ova/tube,Peyronie's disease,35.3,true
+501,Donia Poytres,Indonesia,Peru,13,Bact smear-op wound,Unc behav neo urinar NEC,37.7,true
+502,Gal Botright,China,China,12,Periren/ureter incis NEC,Ill-define condition NEC,41.6,false
+503,Tirrell Perkinson,Brazil,Indonesia,14,Suture breast laceration,Climact arthritis-mult,35.3,false
+504,Lisette Trebilcock,Sweden,Uganda,14,Ureteroscopy,W/craft fall NEC-swim,35.1,true
+505,Grier Neiland,Venezuela,Portugal,19,Electrocochleography,Descending colon inj-opn,40.3,false
+506,Darrin Rackham,China,Lesotho,10,Lingual thyroid excision,Hyperkinet w devel delay,36.9,true
+507,Claribel Carding,Dominican Republic,Canada,2,Infus immunosup antibody,Cauliflower ear,40.4,false
+508,Lalo Knappen,China,Finland,18,Bladder reconstruction,Vaccin for tuberculosis,40.5,true
+509,Raphael Message,Philippines,China,2,Blood vessel biopsy,Bilat ing hernia w obst,36.3,false
+510,Jade Schultz,Central African Republic,Cameroon,18,Cran nerv root decom NEC,Dis calcium metablsm NEC,35.2,true
+511,Miltie Guerry,Philippines,Canada,9,Lower limb endarterect,Narclpsy w/o cat oth dis,36.4,true
+512,Kippy Gilhoolie,Iran,Norway,13,Close thoracic duct fist,Chagas dis of oth organ,39.4,false
+513,Danni Rabbitt,Russia,Mali,14,Lower limb artery incis,Adv eff antinfct NEC/NOS,37.9,true
+514,Cristina Stevani,Colombia,Poland,4,Remove bile duct prosth,Osteoarthro NOS-oth site,36.7,true
+515,Ibby Bordessa,Ukraine,Croatia,21,Male sterilization NOS,Anter pituitary dis NEC,37.0,true
+516,Allina Hasselby,Philippines,France,13,Vag susp/fix w grft/pros,Backache NOS,39.4,true
+517,Art Dunn,China,Cuba,9,Partial cystectomy,Hydrocele canal nuck-fem,40.8,false
+518,Florenza Fulun,Russia,Switzerland,28,Oth lys perives adhesio,DMII ketoacd uncontrold,39.1,false
+519,Bunnie Fitzhenry,Nauru,China,25,Replace nasal packing,"Ac inf fol trans,inf bld",40.7,false
+520,Roanna Yeowell,Guinea-Bissau,Myanmar,15,"DIEP flap, free",Brachial neuritis NOS,38.4,true
+521,Maxie Benjafield,Indonesia,Sweden,29,Endosc destru bile les,Infectn d/t acanthamoeba,41.6,false
+522,Alaster Kivell,Nigeria,Japan,16,Pneumoperit-lung collaps,Recur depr psyc-part rem,41.7,false
+523,Prentiss Oxburgh,Philippines,Poland,17,Knee joint biopsy,Sec mal neo mediastinum,35.9,false
+524,Ricky Lissemore,Suriname,Indonesia,4,Electroshock therapy NEC,Abrasion head-infected,39.9,false
+525,Guenna Kubica,Indonesia,Indonesia,13,Scleral buckle w implant,Indeterminate leprosy,38.6,true
+526,Maitilde Corkhill,Sweden,Russia,16,Endocar cushion rep NEC,TB esophagus-cult dx,40.2,true
+527,Vyky Boutellier,Brazil,Indonesia,5,Inject/infuse NEC,Ac append w peritonitis,38.7,false
+528,Llewellyn Lumsden,Philippines,China,5,Exc wound debridement,Traffic acc NOS-pers NOS,38.8,false
+529,Andromache Mohamed,Indonesia,Nigeria,12,Appl ext fix-metatar/tar,"Liver lacerat, major-opn",40.1,true
+530,Myrvyn Gerrie,Russia,Nigeria,2,C.A.T. scan of abdomen,Mal neo lip NEC,38.0,true
+531,Morie Trevascus,Russia,Czech Republic,7,Cervical cyst marsupial,Chr margin ulc w hem-obs,39.3,true
+532,Maurita Langridge,Russia,New Zealand,30,Retina tear photocoa NOS,Opn skul/oth fx-coma NOS,36.7,true
+533,Lovell Dunphie,Sweden,Colombia,22,Gasserian ganglionectomy,Loc 2nd osteoarthr-ankle,36.7,true
+534,Talbert Dudenie,Ukraine,Russia,8,Oth metac/carp rep/plast,Polyarthritis NOS-pelvis,39.6,true
+535,Lacy Lyptratt,Indonesia,Nicaragua,2,Rev/reloc card dev pockt,Toxic effect arsenic,38.2,true
+536,Gavra Flasby,Indonesia,Indonesia,20,Post nasal pac for epist,Rupture achilles tendon,39.4,true
+537,Robena MacCaig,Angola,Indonesia,8,Limb shorten-metatar/tar,Cl skull vlt fx-brf coma,35.5,false
+538,Luther Charleston,Brazil,Philippines,14,Culdocentesis,Athrsc extrm ntv art oth,41.6,true
+539,Alex Dollar,Philippines,Brazil,6,Cervical spine x-ray NEC,Salivary gland fistula,40.7,false
+540,Clareta Buckley,Micronesia,Norway,21,Clos biliary fistul NEC,Drug-induced delirium,36.8,true
+541,Nina Shurmore,Zambia,Russia,23,2 int mam-cor art bypass,Fx c6 vertebra-open,37.6,true
+542,Gusta Grass,Greece,Peru,25,Part brch extrac w forcp,Corneal disorder NOS,35.1,true
+543,Viv Giannassi,China,Sweden,19,Bile duct incision NEC,Periph opacity of cornea,36.3,false
+544,Susie Simonassi,Sweden,China,12,Replace pyelostomy tube,50-59% bdy brn/10-19% 3d,35.3,false
+545,Tremain Cabena,Greece,Brazil,17,Ext ear diagnos proc NEC,Jt derangement NEC-ankle,36.3,false
+546,Vere MacTrustie,Brazil,Brazil,25,Loc exc bony palate les,Pap smr anus-cytol malig,38.1,true
+547,Basilius Coull,Indonesia,Brazil,10,Lip biopsy,Ot hem d/t circ anticoag,38.2,true
+548,Vinny Ciobutaru,Portugal,Poland,7,Salivary fistula closure,Immunotherapy encounter,40.2,false
+549,Regina Middell,Kazakhstan,Sweden,8,Intralum vag adhesiolys,Fx pisiform-closed,35.9,false
+550,Chris Boadby,China,China,4,Pancreat sphincteroplas,Psychic factor w oth dis,36.8,true
+551,Witty Brute,Mexico,Indonesia,20,Bil exten rad mastectomy,Burn NOS,35.7,true
+552,Layton Ghiraldi,China,Bangladesh,19,Highly select vagotomy,Quadruplet preg-deliver,41.2,false
+553,Tiffany Dallas,China,Mexico,21,Perc extrac com duc calc,Benign renovasc hyperten,39.5,true
+554,Barnaby Phelps,Australia,Brazil,9,Arthrodesis of shoulder,Foreign body hand,36.1,true
+555,Gregorius Robens,Indonesia,China,21,Micro exam-low urin NEC,Menstrual disorder NOS,37.6,false
+556,Giacobo Pirrey,Russia,China,24,Suture capsul/lig ank/ft,Utervaginal prolapse NOS,40.9,true
+557,Carie Dolle,Mozambique,South Africa,10,Sex transformat op NEC,Corneal edema NOS,41.1,false
+558,Rawley Odeson,Mongolia,Indonesia,10,"Exc/dest hrt les, thrspc",Ulcer other part of foot,41.3,true
+559,Geordie Carpmile,China,Portugal,19,Toxicology NOS,"Pancreas, body inj-close",35.1,true
+560,Faina Szymoni,Mexico,Brazil,24,Surg vessel occlus NEC,Benign neoplasm orbit,37.5,false
+561,Wesley Ginnelly,Brazil,China,16,Esophag stricture repair,Cl skl vlt fx/mening hem,38.1,false
+562,Oralie Reynold,China,Peru,12,Creat esophagastr sphinc,Abdmnal pain rt lwr quad,41.0,true
+563,Nero Van Der Walt,Portugal,Tanzania,23,Culture-upper urinary,Post tp lymphprolif dis,41.6,false
+564,Aggy Jenny,El Salvador,Indonesia,5,Eswl other sites,Cl skull fx NEC w/o coma,37.1,true
+565,Lenard Mileham,Finland,Guatemala,30,Vaginal repair NEC,Acute gouty arthropathy,37.5,true
+566,Kristy Bodega,China,Malawi,15,Remov other genit device,Vaccination for Td-DT,38.7,true
+567,Matt Benne,Laos,Vietnam,29,Inject insulin,Psymotr epil w/o int epi,37.1,false
+568,Delphinia Danelutti,Russia,China,16,Insert esoph obtu airway,Mal neo pyriform sinus,37.2,true
+569,Genni Whittlesee,Croatia,Sweden,14,Knee arthroscopy,Malig neo parametrium,37.1,false
+570,Leoine Melling,Indonesia,Indonesia,20,Abdperneal res rectm NOS,Epiphora d/t excess tear,38.8,false
+571,Ninette Gerbl,China,Russia,23,Synovectomy-site NEC,Opn skul vlt fx w/o coma,36.4,true
+572,Giovanna Crennell,Poland,Indonesia,20,Open reduc-dislocat NOS,Senile osteoporosis,38.8,false
+573,Annette Reignolds,United States,Guatemala,12,Aortocor bypas-1 cor art,Mal neo female genit NOS,38.1,false
+574,Marieann Loines,Malawi,Sweden,29,Oth dx proc-radius/ulna,Foreign body finger,39.3,false
+575,Janeen Colwill,Kazakhstan,Brazil,18,Cl fx reduc-tibia/fibula,Cyclosporiasis,37.7,true
+576,Priscella Williscroft,China,France,14,Intravasc msmnt cor art,Major puerp inf NOS-p/p,37.4,true
+577,Geri Saxby,Philippines,Cuba,26,Amnioinfusion,Lipodystrophy,38.8,true
+578,Mellicent Izhakov,Peru,Japan,8,Contrast vasogram,Pois-card rhythm regulat,35.5,false
+579,Gwyneth Racher,Iceland,China,20,Lid marg recon-part thic,Acc poison-antirheumatic,41.6,true
+580,Vicki Calverd,Mozambique,France,15,Abd wall suture NEC,Adult emotnl/psych abuse,37.0,false
+581,Glendon Gormley,Norway,Indonesia,9,Remov intralum gastr FB,Ankylosis malleus,37.7,true
+582,Hiram Yurshev,Russia,Indonesia,2,Closed brain biopsy,Cerebrovasc dis-antepart,41.9,true
+583,Ardene Sapshed,China,Morocco,25,Gastrotomy,Sprain rotator cuff,37.4,false
+584,Danella Stit,China,Iran,24,C & s-peritoneum,Rheumatoid arthritis,35.4,true
+585,Inglebert MacUchadair,Colombia,Philippines,15,Remov cystostomy tube,Acc poison-methadone,38.1,true
+586,Fons Albion,Albania,Colombia,22,Ureterectomy NOS,Necrosis of artery,35.1,true
+587,Missie Bodicam,China,Canada,14,Metatars/tars inj op NOS,Thyrtox orig NEC no cris,38.9,false
+588,Anstice Scanlon,Indonesia,Indonesia,8,Ins drug-elut coronry st,Infect NOS-deliver w p/p,36.6,true
+589,Auguste Schulz,Pakistan,Madagascar,16,Spinal patch,"AMI inferopost, initial",40.9,false
+590,Devy Bertelet,Netherlands,Thailand,17,Revise hip replacemt NOS,Cl skull fx NEC-coma NOS,40.6,false
+591,Yvor Granville,Russia,Tunisia,24,Impedance phlebogram,Malig neo epididymis,35.9,false
+592,Udell Buttriss,United States,Russia,13,Varicose v lig-strip NOS,Infect NOS-postpartum,39.3,false
+593,Sibley Dulanty,Papua New Guinea,Mexico,1,Diagnostic amniocentesis,Postphlebtc synd w ulcer,39.9,false
+594,Bambi Teenan,France,Sweden,3,Breast operation NEC,Suffocation NOS,41.9,true
+595,Camellia Albertson,Indonesia,Indonesia,19,Elbow arthroscopy,Bartonellosis,35.9,false
+596,Aura Tarrier,France,Colombia,2,Lacrimal sac incision,Superf inj leg NEC-infec,39.5,false
+597,Gabriella Pedley,Nigeria,China,22,Percu bx gb/bile duct,Acc poison-food NEC,37.6,false
+598,Tabina Keel,Indonesia,Russia,30,Open prostatic biopsy,Fx metacarpal shaft-clos,38.6,true
+599,Sebastien Tourot,Azerbaijan,Iraq,29,Debrid open fx-humerus,Smallpox NOS,40.5,false
+600,Walt Aggus,Brazil,Japan,1,Sex transformat op NEC,Malign neopl adrenal,37.7,false
+601,Elfreda Chattey,Thailand,France,27,Appl ext fix-metacar/car,Malposition NEC-antepart,37.3,true
+602,Tades Lage,Poland,Panama,24,Hrt revas byps anas NEC,Insomnia NOS,41.7,true
+603,Penny Carlucci,France,Peru,23,Suture of rectal lacer,Pelvic organ inj NOS-opn,35.2,true
+604,Arabela Gibbings,Japan,Canada,5,Hemorrhoid injection,Mal neo breast low-outer,39.6,false
+605,Bernetta Cromer,Nicaragua,Tanzania,27,Corneal tattooing,1st deg burn wrist,38.6,false
+606,Dannie Strongitharm,China,China,21,Paracerv uterine denerv,Hyperlipidemia NEC/NOS,37.1,false
+607,Freddie Menguy,Portugal,Indonesia,18,Remove bile duct prosth,Corneal degeneration NOS,39.2,true
+608,Dougy Regenhardt,Colombia,Ukraine,23,Eyeball & orbit biopsy,Syphilis-postpartum,37.2,true
+609,Lia Jouhning,Thailand,Poland,13,Hyperbaric oxygenation,Urge incontinence,37.3,false
+610,Catherina Lockless,Brazil,Uruguay,23,Neurologic examination,Burn NOS hand-unspec,41.3,false
+611,Florance Skellen,Denmark,Russia,23,Urethral meatoplasty,Traffic acc NOS-motcycl,38.1,true
+612,Heddie Andrini,Bosnia and Herzegovina,Guatemala,14,Scrot/tunica dx proc NEC,Gram-neg septicemia NEC,36.6,false
+613,Salvatore Arthur,Philippines,Indonesia,8,Culture-bili/pancreas,Keratoconjunctivitis NEC,41.8,false
+614,Nina Spehr,Vietnam,Poland,11,Vaginal packing,Infant botulism,40.2,false
+615,Loralee Vaisey,Paraguay,Russia,4,Clo endosc bx bile duct,Compl reattached foot,36.4,true
+616,Jamie Iston,Peru,Azerbaijan,5,Bilat lung transplant,Idio hypersom-no lng slp,40.9,true
+617,Benedikt Burkill,France,Poland,29,Periph nerve transposit,"Amp below elb, unil-comp",40.3,true
+618,Avram Tute,Indonesia,Azerbaijan,4,Chest x-ray NEC,Detrusr sphinc dyssnrgia,38.4,false
+619,Gertrud Birt,Indonesia,United States,22,Ovarian wedge resection,Subdural hem-brief coma,38.8,true
+620,Elli Mannagh,China,Kenya,3,Lap simple suture ovary,Fall-occup oth aircraft,39.8,true
+621,Rosmunda Bramall,Philippines,China,18,Teleradio using photons,Jt contracture-up/arm,36.8,true
+622,Cicely Gladden,China,Indonesia,22,Oth dx proced-patella,Hemoglobinuria,40.6,false
+623,Karola Ballach,China,Russia,24,Exc lacrimal gland NOS,TB bronchiect-oth test,35.8,false
+624,Ugo Sushams,Japan,Portugal,10,Correction fetal defect,Dislocat lumbar vert-cl,41.2,true
+625,Scottie Sandercock,France,Portugal,5,Part thyroidectomy NEC,Seroma complicting proc,35.8,true
+626,Fawnia Onge,France,China,18,Rect/perirect dx op NEC,Oral submucosal fibrosis,37.4,false
+627,Zebadiah Kristoffersen,China,Indonesia,28,Brain repair,Cns dysfunction syn NB,41.8,false
+628,Gwenore Fraczak,Philippines,Iraq,1,Male genital x-ray NEC,Gonococcal eye NEC,39.9,false
+629,Franni Izzat,France,China,16,Insert sengstaken tube,Microdeletions NEC,38.4,true
+630,Lisetta Snoddon,Indonesia,Mongolia,26,Other phototherapy,Prolong labor NOS-deliv,35.3,true
+631,Haleigh Autie,Japan,Costa Rica,14,Foot & toe arthroscopy,"Hx retained FB, rem",36.5,true
+632,Benedicta Inderwick,Russia,Bangladesh,4,Intraop cor flr vas angi,Const aplastc anemia NEC,35.5,true
+633,Bert Bicker,Philippines,Russia,23,Therapeu erythropheresis,Gonococcal keratosis,38.8,false
+634,Jordanna Boldry,Portugal,Dominican Republic,24,Cystoscopy thru stoma,Proteus enteritis,41.3,false
+635,Wittie Linneman,Philippines,Philippines,8,Other local destruc skin,Artic cartil dis-hand,39.5,false
+636,Mathilde Peddowe,United States,Indonesia,27,Atria septa def rep NEC,Act lymp leuk in relapse,40.5,false
+637,Dalli Jales,Panama,China,12,Cystostomy irrigation,TB brain abscess-no exam,39.3,false
+638,Saxon Grieve,China,China,24,Audiometry,Bariatric surg-del w p/p,37.3,false
+639,Lewes Pearn,Russia,China,16,Artificial insemination,Unc behav neo resp NEC,37.5,false
+640,Claudette Lampe,Philippines,Armenia,27,Dilat enterostomy stoma,Anphylct react crstacns,39.9,false
+641,Aggi Selburn,Russia,United States,19,Remove ventricle shunt,Retrovert uter-del w p/p,38.1,true
+642,Izak Sherrock,Poland,China,6,Revise lg bowel anastom,Idio pulm hemosiderosis,40.3,true
+643,Yardley McLeish,Indonesia,Croatia,6,Closed intra-abd mass bx,Scleral ectasia,35.1,false
+644,Mallissa Barensky,Ukraine,Thailand,16,Aortocor bypas-2 cor art,Lat dislocat elbow-open,37.6,true
+645,Cesar Euston,Indonesia,Ukraine,27,Pedicle graft advancemen,Ot art emb/thrm abd aort,39.6,false
+646,Catharine Cutten,China,Aland Islands,5,Nasal laceration suture,Submers NEC-passenger,41.1,false
+647,Alfy Roddick,Panama,Vietnam,4,"Resrf hip,total-acet/fem",Open-angle glaucoma NOS,42.0,true
+648,Nada Milvarnie,Lithuania,Canada,26,Oth lap dx proc ovaries,Bacteremia,40.9,false
+649,Hymie Mackstead,China,Poland,3,Ligate thoracic duct,Neuropathy in diabetes,41.2,true
+650,Siusan Turrill,Honduras,Brazil,21,Intestinal fixation NOS,Posterior disloc hip-opn,37.1,false
+651,Sofie Cadge,Mongolia,China,3,Knee synovectomy,TB brain absc-micro dx,39.8,true
+652,Ami Riordan,Philippines,Venezuela,13,Rep cornea postop dehisc,Tick-borne enceph NOS,39.2,false
+653,Dayle Flageul,United States,Nigeria,26,Occlude leg vein NEC,Tk off/land-unp aircrft,39.6,true
+654,Chevy Folland,Argentina,Japan,26,Open large bowel biopsy,Intrinsc sphnctr dficncy,39.2,true
+655,Carina Dansie,Bangladesh,France,2,Cornea reconstruct NEC,Intrathoracic inj NEC-cl,38.5,true
+656,Kermy Kuhl,Estonia,Greece,8,Construction ear auricle,Localized adiposity,37.4,false
+657,Cordell Pigford,Indonesia,Ecuador,24,Contr phlebogram-pulmon,Salivary secretion dis,36.8,true
+658,Domenico Minister,Poland,United States,3,Amputation through hand,Inlet contraction-unspec,35.4,false
+659,Marlin Sayer,Argentina,Brazil,28,Skull plate insertion,Congen CV dis preg-unsp,38.9,true
+660,Leda Mattke,China,United Kingdom,3,Low cervical c-section,Myl srcoma w rmsion,39.1,true
+661,Andromache Hodjetts,Russia,Philippines,7,Lg bowel exteriorization,Palindrom rheum-jt NEC,36.9,false
+662,Orin Gagg,Philippines,Colombia,20,Hypothermia w open heart,Narcolepsy w/o cataplexy,39.1,true
+663,Catina Circuit,Yemen,China,19,Lac punctum obliteration,Twins w fetal loss-ante,38.2,false
+664,Jesse Proger,Egypt,Philippines,19,Oth rad/uln repair/plast,Peroxisomal disorders,35.4,true
+665,Justis Veracruysse,Peru,France,4,Fiber-optic bronchoscopy,Underwater dive/snorkel,41.5,true
+666,Tyne Healing,China,Costa Rica,6,Hemorrhage control NOS,Ulcer of heel & midfoot,36.6,false
+667,Arlena Sywell,Russia,Czech Republic,4,Other female genital ops,Exostosis of orbit,39.2,true
+668,Lindsey Vankin,Myanmar,Philippines,16,Endo pulm arwy flow msmt,Child abuse by pers NEC,36.7,false
+669,Nikolos Ragbourne,Sweden,Sierra Leone,14,Simple mastoidectomy,Placent polyp-del w p/p,40.7,false
+670,Orelle Wike,China,China,23,Periprostatic biopsy,3rd deg burn w loss-ear,38.8,false
+671,Layne Lugton,Indonesia,Sweden,29,Partial esophagectomy,31-32 comp wks gestation,41.0,false
+672,Mae Roskruge,Russia,China,14,Larygnoscopy/tracheoscop,Ant disloc prox tibia-cl,37.4,false
+673,Chelsea Dowglass,China,Haiti,10,Pancreatotomy NEC,Lumbago,41.5,false
+674,Talyah Gilbee,China,Russia,23,Hepatotomy,Cerebrovasc dis-antepart,41.5,false
+675,Harold Shere,Portugal,Portugal,14,Pituitary operation NEC,Oth coll stnd obj-pedest,36.6,false
+676,Morena Moth,Bulgaria,Japan,15,Toxicology-lower urinary,Oth func dsdr bladder,37.7,false
+677,Codie Jakeman,Indonesia,Indonesia,2,Pelvimetry,Noninflam dis vagina NOS,37.7,true
+678,Erna Benez,Portugal,Bulgaria,11,Thoracic operation NEC,Ritter's disease,36.0,true
+679,Rourke Dunkerly,Indonesia,Panama,20,Clos thoracic fistul NEC,Ret dystrph in lipidoses,41.1,false
+680,Siusan Habgood,Germany,China,7,Radical laryngectomy,Finger injury NOS,37.1,false
+681,Marcellus Sprasen,Croatia,Georgia,2,Open red-int fix finger,TB laryngitis-histo dx,39.6,false
+682,Ring Sketchley,Japan,China,5,Esophageal web incision,Undet pois-sed/hypn NEC,36.4,true
+683,Maurita Wisbey,United States,Indonesia,1,Breast implant removal,Streptococcus unspecf,35.9,true
+684,Rem Chidwick,Ukraine,Poland,17,Suture of tracheal lacer,Lipoma spermatic cord,35.1,true
+685,Victoir Abbe,China,Philippines,26,Brain meninge repair NEC,TB of kidney-oth test,38.3,true
+686,Haroun Bladesmith,Kazakhstan,Poland,27,Turbinectomy NEC,Post subcap senile catar,39.5,true
+687,Shara Ferryn,China,Vietnam,26,Rad dissec thorac struct,Ankylosis-lower/leg,41.5,false
+688,Broderick Pecha,Pakistan,Egypt,22,Inser bone stim-tib/fib,Duodenitis w/o hmrhg,40.2,true
+689,Meridith Yewdell,Philippines,China,12,Auto bone mt w purging,Injury digital nerve,35.3,false
+690,Delilah Shawyers,China,Indonesia,18,Perivesical incision NEC,Histoplasm caps pneumon,36.3,false
+691,Mitch Tague,Brazil,Cameroon,16,Therapeut evac ant chamb,Anomalies of lens shape,37.4,true
+692,Tadeo Canedo,Russia,France,16,Transfront pituitary bx,Crush inj scapul region,41.2,false
+693,Wendye Garforth,Peru,Peru,29,Exposure of tooth,Neonatal conjunctivitis,38.2,true
+694,Virginia Muckle,Czech Republic,Ukraine,14,Lap mul seg res lg intes,Cong varus foot def NEC,41.4,true
+695,Fifi O'Hegertie,Argentina,Portugal,25,Lid reconstr w graft NEC,Anxiety disorder oth dis,39.1,true
+696,Stefa Law,Indonesia,China,7,Fit above knee prosthes,Polio osteopathy-hand,41.2,false
+697,Waring Crowne,Russia,Mexico,9,Ins/repl single pul gen,Cl skl base fx-prol coma,35.9,true
+698,Grazia Romao,Peru,China,15,Donor marrow aspiration,Open wound of mouth NOS,35.2,false
+699,Nanci Chatfield,Peru,China,5,Stretching of foreskin,Mv brd/alight-anim rider,36.4,false
+700,Douglas Fenney,United States,Indonesia,17,Robotic ast proc NEC/NOS,Mal neo lymph-intrapelv,40.2,false
+701,Giffie Ricketts,Portugal,Russia,28,Atria septa def rep NEC,Adv eff antilipemics,40.5,true
+702,Nadiya Martin,Niger,Indonesia,25,Punctum repair NEC,Fever in other diseases,37.3,false
+703,Mavis Semiraz,Russia,Indonesia,11,Lid reconstruction NOS,Av block-2nd degree NEC,39.2,true
+704,Daune Josephy,China,Peru,15,Levator musc suspension,Unc behav neo larynx,35.3,false
+705,Jessika Liverock,France,Japan,11,Replace ureterost tube,Longitud defic radius,40.2,false
+706,Arlyne Petriello,Mongolia,Russia,15,Closed liver biopsy,Thyrtox orig NEC no cris,41.5,true
+707,L;urette Goodge,Poland,China,18,Bunionect/sft/osteotomy,React depress psychosis,40.2,false
+708,Ambrosi Bedding,Russia,Czech Republic,19,Insert infusion pump,Puerp septc thromb-unsp,38.8,true
+709,Jacinta Matzkaitis,France,Indonesia,23,Injection of larynx,Acute paranoid reaction,39.2,false
+710,Horatius O'Gormally,China,Morocco,25,Vag hysterectomy NEC/NOS,Nephrotic syndrome NEC,38.7,false
+711,Kirbie Bowfin,Poland,Indonesia,24,Cl reduct mandible fx,Galactosemia,39.8,false
+712,Deloris Paradine,Poland,Portugal,7,Hypnotherapy,Mal neo undescend testis,38.5,true
+713,Helena Sibille,Jersey,Russia,5,Lap uni salpingo-oophor,Hemarthrosis-ankle,36.6,true
+714,Arlyne Byas,Serbia,Indonesia,6,Autopsy,Acute pain NEC,36.2,true
+715,Lane Hassall,Colombia,Syria,16,Replace upper limb cast,Cerebel contus-deep coma,41.7,false
+716,Jehu Cavil,China,Chile,27,Transplant spermat cord,Malign neopl breast NOS,40.1,true
+717,Hollie Eckart,Japan,Sweden,1,Transplantation of ovary,Tietze's disease,39.9,true
+718,Ingmar Bruckner,Finland,Indonesia,1,Pancreatic heterotranspl,"Fx humer, med condyl-cl",40.8,false
+719,Wainwright Tilbury,Poland,Finland,10,"LITT les hd/nck,guidance",Prolong rupt memb-deliv,39.7,true
+720,Gav Silby,China,China,22,Anal fistulotomy,Threatened abort-deliver,40.5,true
+721,Bertie Schoroder,China,Peru,15,Skin closure NEC,Mixed lymphosarc head,35.9,true
+722,Flore Costerd,Sweden,Sweden,13,X-ray NEC and NOS,Alcohol persist dementia,39.1,false
+723,Raimundo Fearon,Philippines,Indonesia,29,Elecmag hear dev implant,Overexert reptv mvmt NEC,36.9,false
+724,Gilberte Moorman,North Korea,Brazil,1,Opn aortic valvuloplasty,Bladder disorder NOS,40.8,true
+725,Hanan Cantopher,Russia,France,2,Close diaphragm fistula,Brain lac NEC-brief coma,36.9,true
+726,Curt Hatch,Russia,Philippines,17,Lid recons-part thic NEC,Presenile dementia,41.6,true
+727,Mora Rykert,Ivory Coast,Ireland,4,Lid reconst w muc graft,Unequal leg length,37.8,false
+728,Jessika Lehmann,Greece,Philippines,13,Lap rev gast restri proc,Unilateral small kidney,36.8,false
+729,Melicent Stollenbecker,China,China,15,Neuroleptic therapy,RR acc NOS-ped cyclist,39.8,true
+730,Ysabel Dary,China,France,12,Op on 1 extraoc musc NEC,Mal neo breast low-outer,39.8,false
+731,Giuseppe Biagini,China,Ireland,28,Rotation tests,Special screen exam HPV,39.4,false
+732,Fonz Cullotey,China,China,8,Other joint dx procedure,Pelv perit endometriosis,36.7,false
+733,Audry Gate,Czech Republic,China,16,Vag repair invers uterus,Late eff femoral neck fx,41.5,false
+734,Elissa Byforth,Poland,China,4,Psychia commitment eval,Contusion periocular,41.3,false
+735,Arlen Godart,Indonesia,Nigeria,21,Contrast phlebogram-leg,Vitreous abscess,41.7,true
+736,Harbert Stockford,Syria,Thailand,2,Foot & toe arthroscopy,Unc behav neo lung,36.2,true
+737,Antonia Hayworth,Norway,Indonesia,15,Infundibulectomy,Acc poison-antibiotics,38.1,false
+738,Corey Devorill,Colombia,China,10,Suture diaphragm lacerat,Bilateral femoral hernia,41.1,true
+739,Brunhilda Very,Guam,China,26,Remov other urin device,Renal glycosuria,39.7,true
+740,Kyrstin Vine,Bahrain,Finland,7,Toxicology-peritoneum,Liver hematom/contus-opn,39.7,true
+741,Alyss Coudray,Czech Republic,Sweden,25,Parasitology NEC,Traum subarachnoid hem,36.1,false
+742,Marsh Biscomb,Nicaragua,Poland,13,Bury fimbriae in uterus,Cerebral cortex lacerat,38.6,false
+743,Sammy Haugeh,Sweden,Ukraine,21,Repair of ovary NEC,Agenesis of uterus,39.0,false
+744,Nanete De Vries,Ukraine,Poland,11,Exc splenic lesion/tiss,Allerg rhinitis-cat/dog,40.8,false
+745,Xymenes Shapira,Papua New Guinea,Indonesia,14,Hymenectomy,Fm hx genital malig NEC,36.6,false
+746,Bertie Rampley,China,China,22,Simple sut-common duct,"Dieulafoy les,stom&duod",41.6,false
+747,Pooh Daffey,China,Poland,17,Endosc destruc esoph les,Sprain of back NOS,39.1,false
+748,Pryce Pickaver,Angola,Portugal,5,Suture of tracheal lacer,Mal neo GI tract ill-def,37.7,false
+749,Guthrey Antonoczyk,Peru,Anguilla,15,Open osteoplas mand rami,Opn skul/oth fx w/o coma,37.0,false
+750,Luciana Spohrmann,Vietnam,Mexico,28,Perivesical incision NEC,Cong factor xi disorder,37.8,false
+751,Shirlee Hubbert,Russia,Indonesia,27,Non-coronary IFVA,Tibial coll lig bursitis,39.9,true
+752,Wake Brandenburg,Armenia,Colombia,29,Radical excis skin les,Opn cortx contus-no coma,38.1,false
+753,Almeria Balshen,Indonesia,Indonesia,12,Gynecologic examination,Contamination NEC,41.8,false
+754,Vivyanne Bourbon,Philippines,France,17,Ins part disc pros cerv,Open wound toe w tendon,38.6,false
+755,Alie Possek,China,Portugal,23,Endo insrt bronc def/sub,Abnormal sputum,39.9,true
+756,Jackie D'Agostino,Poland,China,18,Excision orbital lesion,Malignant neo appendix,35.9,true
+757,Shem Pimlott,United States,Russia,14,Psychiat drug therap NEC,Injury to nerve NOS,39.6,true
+758,Ave Syphas,Russia,Indonesia,28,Breast full-thick graft,Adv eff cardiovasc NEC,35.7,false
+759,Darcie Heitz,Slovenia,China,3,Atrial cardioversion,Cancrum oris,39.3,false
+760,Kip Boyn,Kiribati,Iran,22,Ureteral dx procedur NEC,Injury-hunting rifle,37.3,false
+761,Tim Firmage,China,Colombia,3,Spleen operation NEC,Primary anal syphilis,40.5,false
+762,Wallie Cushe,Sweden,Bosnia and Herzegovina,13,Culture-musculoskeletal,T7-t12 fx-op/ant crd syn,35.3,true
+763,Janeva Chappel,Azerbaijan,China,11,Lobotomy & tractotomy,Radicular cyst,40.1,false
+764,Dulcy Feaster,Indonesia,Greece,17,Oxygen consumption monit,Sec neuroendo tumor NOS,35.9,true
+765,Donia Dalston,Argentina,Serbia,8,Int/comb version w extr,Otorrhea NEC,36.7,false
+766,Ganny Pawellek,China,Sri Lanka,1,Loc excis esoph divertic,Cereb degen in child NOS,35.2,false
+767,Ty Fritzer,Indonesia,Afghanistan,26,Lap wedge resect ovary,Dis phosphorus metabol,41.0,true
+768,Horatius Hawker,Philippines,Philippines,6,Gastric gavage,Spon ab w compl NOS-unsp,41.8,false
+769,Tonya Beckers,Philippines,Portugal,2,Loc exc les radius/ulna,Unc behav neo pituitary,37.9,false
+770,Leyla Longridge,United States,Colombia,18,Suture peptic ulcer NOS,Mantle cell lymph axilla,40.3,false
+771,Ellis McIlreavy,United Kingdom,Russia,4,Periren/vesicle op NEC,Nonrheum tricusp val dis,37.3,false
+772,Raimund Friman,Indonesia,Honduras,27,Ins tot disc prost cerv,Pap smear anus w ASC-US,36.4,true
+773,Brocky Kipping,Brazil,Ecuador,2,C.A.T. scan of head,Vir enceph arthropod NEC,40.8,true
+774,Rubie Thunders,New Zealand,Poland,18,Stapedectomy NEC,Hornet/wasp/bee sting,41.2,true
+775,Marya Palombi,Indonesia,France,27,Inser bone stim-tib/fib,Seborrhea capitis,41.8,false
+776,Devan Hansard,Indonesia,Sweden,8,Bil fem hern repair NEC,Abo incomp/HTR NEC,36.3,true
+777,Lorne Aleksankov,Philippines,Indonesia,7,Endovas repl uns hrt vlv,1st deg burn ear,39.1,false
+778,Jinny Battlestone,Ukraine,Czech Republic,2,Decompress trigem root,Subclavian steal syndrom,38.7,false
+779,Christi Osgardby,China,Slovenia,18,Suture uterine lacerat,TB periph lymph-no exam,35.7,false
+780,Alysa Linacre,Brazil,Portugal,3,Soft tissue division NEC,3rd deg burn axilla,35.8,true
+781,Enrika Delhay,China,Canada,5,Unilat rad neck dissect,Ac frontal sinusitis,38.0,true
+782,Leeland Swatradge,Indonesia,Colombia,29,Ins left atr append dev,Suprf inj forarm NEC-inf,40.3,false
+783,Nicol Lomond,Philippines,Portugal,17,Ant rect resect w colost,Enophthalmos d/t trauma,38.7,true
+784,Karole Liston,Portugal,Russia,29,Mastoid incision,Psychogenic dysuria,36.4,true
+785,Henrietta Jesteco,Ukraine,Ukraine,15,Humerus wedge osteotomy,Phthirus pubis,37.9,false
+786,Lind Wrettum,China,China,18,Reduct intuss ali tract,Mening in oth nonbac dis,40.1,false
+787,Karl Tavener,Philippines,Germany,2,Gastrostomy closure,Spon ab w compl NOS-comp,39.4,false
+788,Manon Hugnet,Indonesia,Luxembourg,19,Remov imp dev-metac/carp,Toxic eff gas/vapor NOS,35.0,true
+789,Sebastiano Pimley,Netherlands,China,17,Autoimmune dis immunizat,Mv traff acc-anim rider,35.0,false
+790,Katie Stitfall,France,Russia,15,Remov pancreatic tube,Fx upper humerus NEC-opn,37.7,false
+791,Sophronia Manilow,Portugal,Philippines,10,Intraop gastric manipul,Submers NEC-person NOS,38.6,false
+792,Earlie de Quincey,Philippines,Argentina,1,Nasal sinus transillumin,Atresia small intestine,37.1,true
+793,Greggory Jerzyk,Pakistan,Portugal,30,Opn rep dir ing hern NEC,Malnutrition mod degree,41.9,true
+794,Darby Dreschler,Slovenia,Sweden,23,Remove FB from periton,Echinococc granul NOS,35.8,false
+795,Zsazsa Spoure,China,Indonesia,21,Dilation of intestine,Opn brain inj-mod coma,41.8,true
+796,Leonanie Slaney,China,China,29,Conjun cul-de-sac rx NEC,TB of spleen-no exam,39.7,false
+797,Filbert Mordue,Myanmar,Sweden,18,Repair retina detach NEC,Pneumocystosis,40.8,false
+798,Mayor Riseborough,Canada,Brazil,7,Pros rep ventric def-opn,Palindrom rheum-up/arm,41.0,true
+799,Trey De Morena,Macedonia,Sweden,21,Oth laryngeal operation,Mv-train coll-pasngr,35.1,false
+800,Emmaline Thurling,Indonesia,Russia,28,Contrast arthrogram,Radicular cyst,38.0,true
+801,Brande Blue,Egypt,Sweden,3,Transplant of intestine,Bone infect NOS-forearm,39.3,false
+802,Johnette Gaskarth,Indonesia,Portugal,3,Dpt administration,Dsct of aorta unsp site,38.6,false
+803,Dione MacConneely,Czech Republic,France,10,Open gastric biopsy,Assault-explosive NEC,38.2,false
+804,Daffie Samsonsen,Poland,China,23,Chemonucleolysis iv disc,Renal hyperten preg-unsp,37.6,false
+805,Major Peetermann,Zimbabwe,Philippines,26,Removal spine stim lead,Cerebel contus-prol coma,36.1,false
+806,Etheline Allison,Zimbabwe,China,26,Sperm cord adhesiolysis,3 deg burn fingr w thumb,39.1,false
+807,Raine Hanmore,Ukraine,Russia,16,Epikeratophakia,Hypertrophic elong cervx,35.7,false
+808,Herrick Mattisson,China,Poland,7,Aortocoronary bypass NOS,Staphylcocc septicem NEC,40.5,false
+809,Thorpe Yegorev,United States,China,24,Abdominal lymphangiogram,Cl skull vlt fx-mod coma,40.3,true
+810,Peri Ambresin,China,Philippines,15,Excis perianal skin tag,Visceral leishmaniasis,41.6,true
+811,Huntley Spatig,Brazil,Sweden,26,Remov intralum rect FB,Pyrexia in labor-deliver,35.1,false
+812,Ros Combes,Tanzania,Indonesia,8,Eyeball enucleation NEC,TB of bone NEC-cult dx,35.7,true
+813,Michele McPartlin,Indonesia,Peru,28,Eyelid operation NEC,Mal neo bladder-lateral,35.8,true
+814,Jamey Sturdy,Indonesia,Portugal,1,Electro-oculogram,Ulcer of calf,36.9,true
+815,Ewell Shilladay,Russia,Thailand,15,Ant rect resect w colost,Oth myelitis ot inf else,37.1,true
+816,Betti Kembley,Japan,Libya,24,Repl stent in bile duct,Fam hx-cardiovas dis NEC,35.5,true
+817,Cherise Skirven,Philippines,Costa Rica,18,Incision of lid margin,TB pneumonia-oth test,36.6,true
+818,Bridgette Cuskery,France,Azerbaijan,3,Fallopian tube dilation,Inapp chg hCG early preg,38.1,true
+819,Page Sudran,Peru,France,14,Periart sympathectomy,Muscle/ligament dis NOS,36.4,false
+820,Liuka Leile,Sweden,Portugal,18,Exc correct bunionette,Oth gram negatv bacteria,36.2,true
+821,Wade Strippel,Slovenia,Venezuela,19,Thorac var v lig-strip,Chr osteomyelit-forearm,35.2,false
+822,Herc Dey,Serbia,Nepal,10,Closed gastric biopsy,Exfl d/t eryth >=90% bdy,40.2,false
+823,Miltie Tukely,Egypt,Philippines,22,Tracheal reconstruction,Dysenter arthrit-ankle,35.7,false
+824,Elinore Bicknell,Lithuania,Syria,17,Sphinct of oddi measure,Urethral instability,41.9,true
+825,Alie Blaze,China,Canada,16,Bile duct anastomos NEC,Devel coordination dis,35.1,true
+826,Shayna Millimoe,Portugal,Ukraine,7,Partial hip replacement,Mild preeclamp-del w p/p,40.4,false
+827,James Phython,France,Indonesia,9,Blood vessel thermograph,Fracture of sternum-open,40.8,true
+828,Wright Jenckes,Brazil,Vietnam,18,Thyroid scan/isotop func,Behcet's syndrome,41.0,false
+829,Tildie Hanse,China,China,21,Intracran ves resec-repl,Preop cardiovsclr exam,37.2,false
+830,Nicky Langfitt,Japan,North Korea,21,Soft tissue dx proc NEC,Cord around neck-antepar,35.9,true
+831,Gisela Bernardotti,United States,Poland,16,Intra-abd sm bowel manip,Lac eyelid inv lacrm pas,41.1,true
+832,Maxy Whitwell,China,France,6,Repair of gastroschisis,Chr pulmon heart dis NEC,40.6,false
+833,Ches Fearnsides,France,China,20,Remove ventricle shunt,Abn react-procedure NEC,40.5,true
+834,Lynnea Langford,Russia,Indonesia,4,Incis lymphatic structur,Loss of height,37.1,false
+835,Dom Hallbird,Poland,Brazil,8,Abdominal tomography NEC,Benign neoplasm stomach,41.9,true
+836,Ricki Hunsworth,Philippines,Russia,25,Suture lg bowel lacerat,Coagulat defect NEC/NOS,38.2,false
+837,Zak Tuminelli,Russia,Poland,27,Parent infus nutrit sub,Adv eff electrolyte agnt,35.0,false
+838,Arlen Shilvock,Japan,Argentina,3,Applic ext fix dev NEC,Thrombophlebit-antepart,39.2,true
+839,Hersh Redmond,Brazil,Poland,19,Micro exam-op wound NEC,Kyphoscoliotic heart dis,40.2,true
+840,Molly Chasmoor,Russia,Indonesia,8,Exc pituit les-transfron,Fx larynx/trachea-open,41.8,false
+841,Jennie Valentin,Argentina,Philippines,30,Ant rect resect w colost,Penetrat magnet FB eye,38.5,true
+842,Lutero Stockau,Japan,China,2,Hemilaryngectomy,Edema in preg-antepartum,36.4,false
+843,Page Valentin,Mexico,China,24,Arm ves resect w replace,Superfic inj conjunctiva,36.0,true
+844,Brewster Olman,Albania,China,24,Bilat tubal destruct NEC,Primary focal hyprhidros,36.6,false
+845,Joellen Cranmore,Portugal,Gambia,17,Extraoc musc-tend biopsy,Recur unil ing hern-obst,35.4,false
+846,Cyrille Bessett,Sweden,France,6,Arterioven fistula rep,Cong adhesions of tongue,35.2,false
+847,Hannie Schaffel,Sweden,Venezuela,12,Remov intralum gastr FB,Post disl prox tibia-opn,37.8,true
+848,Lusa Dami,Peru,Philippines,2,Ins spinal fusion device,Adv eff paraldehyde,37.7,false
+849,Gideon Purser,Zimbabwe,Peru,20,Adm inhal nitric oxide,Fx c2 vertebra-open,39.0,false
+850,Margit Eard,Sweden,Lithuania,20,Local gastr excision NEC,Prsc sbdrml cntrcp mplnt,41.9,false
+851,Anabella Laurie,United States,Sweden,11,After catar fragmntation,Cereb degeneration NEC,39.0,false
+852,Gleda Blasi,Poland,Russia,1,Remov intralum gastr FB,Chyluria,40.8,false
+853,Carly Broadfoot,France,China,28,Pedicle graft/flap NOS,Acute stress react NOS,41.0,false
+854,Cordelie Scarth,Russia,South Korea,2,Trachea fistula clos NEC,Intrauter death-deliver,37.1,false
+855,Randie De Beauchamp,Poland,Thailand,7,Wound catheter irrigat,Adv eff antiviral drugs,35.7,false
+856,Tarra Lillyman,Indonesia,Paraguay,20,Periton pneumogram NEC,Mv-oth veh coll-pers NEC,35.5,true
+857,Ichabod Eagleton,Philippines,Greece,28,Annuloplasty,"Allergy, unspecified",39.7,false
+858,Rollie O'Sculley,Norway,Thailand,24,Systemic-pulm art shunt,Adrenal gland injury-opn,40.6,true
+859,Rosmunda Yatman,Russia,Japan,20,Bone biopsy NOS,RR coll NOS-passenger,40.5,true
+860,Toiboid Carncross,Indonesia,Mongolia,28,Rib/sternum/clavic x-ray,Inlet contraction-unspec,36.9,true
+861,Babbette Birdwhistell,Estonia,Brazil,28,Eye evisc w synch implan,Misery & unhappiness dis,38.2,false
+862,Marieann Houten,Czech Republic,China,29,Chest cage sequestrec,Essen hyperten-antepart,35.8,false
+863,Antons Grut,Nigeria,Portugal,29,Closed nasal sinus bx,Abscess of appendix,38.4,false
+864,Thorn Carvilla,Burkina Faso,Portugal,6,Total ankle replacement,War inj:weapon fragments,37.4,true
+865,Bonnibelle Brighouse,Croatia,Poland,22,Abd-coron artery bypass,Old disrupt post cruciat,36.7,false
+866,Conny Jervis,Russia,Mexico,16,Open reduc-metac/car fx,Comp intestine transplnt,37.1,true
+867,Retha Redhouse,Sweden,Indonesia,12,Thymectomy NOS,Orbital myositis,35.1,true
+868,Anna-maria Arens,Indonesia,Indonesia,15,Limb skin traction NEC,Alcoh psych dis w delus,35.8,false
+869,Miles Calvert,South Korea,Brazil,5,Cl reduc disloc-hand/fng,Periprosthetc fx-pros jt,41.5,true
+870,Dean Bassick,Canada,China,30,Implt cardiodefib genatr,Glycogenosis,35.2,false
+871,Mahalia Abrashkov,Indonesia,Indonesia,3,Bact smear-upper urinary,Gonorrhea-delivered,39.6,false
+872,Brose Mease,Ukraine,Philippines,27,Rhinoscopy,Lack norm physio dev NOS,36.8,false
+873,Lars Lawie,Japan,Tunisia,10,Hypothermia w open heart,Oth vrl hepat w hpt coma,39.9,true
+874,Berti Petraitis,Norway,Philippines,27,Dx ultrasound-heart,Complx febrile convulsns,36.8,true
+875,Launce Raund,Mongolia,Russia,2,Op tot intr-abd colectmy,Undet fall structure NEC,38.7,false
+876,Steffen Schuchmacher,Thailand,China,7,Opn/oth rep mtrl vlv-tis,Acute duodenal ulcer NOS,38.9,false
+877,Dorri Cuthbert,Portugal,Poland,24,Stretching of fascia,Lichenification,40.5,false
+878,Lavina Bagnell,Ecuador,Argentina,23,Bact smear-nervous syst,Hepatopulmonary syndrome,37.3,false
+879,Tedmund MacClancey,China,China,26,Spermatic cord ligation,Pancreat cyst/pseudocyst,35.6,true
+880,Dru Wrought,China,Lithuania,3,Omt with indirect forces,Macular degeneration NOS,41.2,true
+881,Shea Dobrovolny,Libya,Indonesia,15,Metacar/car wedg osteoto,Jt contracture-unspec,36.8,true
+882,Legra Ritchley,Portugal,France,19,Musc or tend stretching,Multi gest NOS-antepart,41.9,true
+883,Billie Morson,Democratic Republic of the Congo,China,25,Toe amputation,Accidental drowning NEC,41.8,true
+884,Blair Griffithe,Poland,Tajikistan,13,Radioisot teleradiother,Opn cortx lac-proln coma,35.5,true
+885,Ruthe Smallpeace,Russia,Norway,24,Bone graft to humerus,Hemorr/infarc thyroid,39.9,false
+886,Gibbie Bedboro,Portugal,Indonesia,17,Open biopsy of tongue,Ac supp otitis media NOS,40.2,false
+887,Chilton Bestiman,Mexico,China,25,Cul-de-sac grf/pros NEC,Redness/discharge of eye,41.6,false
+888,Koren Readman,China,China,11,Clos large bowel biopsy,Prolong 2nd stage-antepa,40.8,true
+889,Merola Boecke,Ireland,China,19,Intra-ab bowel manip NOS,Villonod synovit-mult jt,41.7,false
+890,Elie Base,Kyrgyzstan,Indonesia,1,Insertion of laminaria,Int inf e coli entrtoxgn,38.8,false
+891,Stirling Streatfield,Russia,Kuwait,19,Clos thoracic fistul NEC,Cl skull vlt fx-mod coma,38.0,true
+892,Florentia Scamaden,Argentina,Argentina,27,Limb lengthn-metatar/tar,Thromb NEC-deliv w p/p,36.1,true
+893,Janifer Benadette,Burkina Faso,Indonesia,28,Transplant of intestine,Loose body-ankle,35.2,true
+894,Jehu Swetenham,Peru,China,11,Sympath nerve inject NEC,Abrasion shldr/arm-infec,40.1,true
+895,Viola McEntegart,Japan,China,25,Mand orthognathic op NEC,Lattice degeneration,35.5,true
+896,Barret Tapner,Nigeria,Russia,14,Dx ultrasound-thorax NEC,Abrasion foot & toe,38.1,true
+897,Zia Klimas,Honduras,Argentina,16,Open fx reduction NOS,Mycotic arthritis-pelvis,36.6,false
+898,Itch Irdale,China,China,24,Div soft tissue hand NEC,Chr blood loss anemia,36.8,true
+899,Frank Potten,China,China,19,Retrobulbar injection,Lacrim passge change NEC,36.5,true
+900,Lanie Fattori,Indonesia,China,30,Cornea reconstruct NEC,Screening for rubella,38.5,false
+901,Raeann Whichelow,Greece,Indonesia,25,Breast muscle flap graft,Opn skul fx NEC-coma NOS,41.5,true
+902,Lorene Duignan,Laos,Philippines,1,Transureteroureterostomy,Adv eff metal anti-inf,38.7,true
+903,Dot Favelle,China,Panama,28,Chorioret les destr NEC,Comp headache synd NEC,35.7,true
+904,Kendal Kaveney,Nigeria,China,8,Mediastinal pneumogram,Toxic gastroenteritis,40.9,false
+905,Dori Crofts,Indonesia,Palestinian Territory,11,Endo transmyo revascular,Hypoplas left heart synd,36.4,true
+906,Alexi Dyka,United States,France,15,Abdominal x-ray NEC,Opn cortx lac-proln coma,38.3,false
+907,Clementina Jeves,Sweden,Peru,1,Diather/cryo turbinectom,Lymphomas NEC spleen,36.5,true
+908,Brooks Genese,Czech Republic,Belarus,25,Instrument delivery NEC,Compl deliv NOS-antepar,39.2,true
+909,Roxie Jerrolt,Honduras,China,5,Other myectomy,Aphasia,41.9,true
+910,Michell Mitchelson,Colombia,China,24,Pulmon art wedge monitor,Sec mal neo mediastinum,42.0,false
+911,Gradey Duncanson,Indonesia,Bulgaria,12,Iridotomy NEC,Bone infect NEC-l/leg,38.0,false
+912,Javier Fendlen,Tajikistan,Russia,19,Open periph nerve biopsy,3 deg burn w loss-toe,39.7,false
+913,Basia Allkins,Cape Verde,Japan,12,PTCA,Hyponasality,41.1,true
+914,Magdalena Gerlts,Peru,Georgia,11,Type 2 tympanoplasty,Hourglass stricture stom,38.7,true
+915,Enrique Mawford,Peru,France,11,Proximal gastrectomy,Cord complicat NOS-unsp,35.3,false
+916,Courtney Wolfinger,Bulgaria,Ukraine,24,Closed breast biopsy,"Fx lunate, wrist-open",39.0,true
+917,Alick Durrell,Argentina,China,22,Psychia interv/eval NEC,Obsc afric cardiomyopath,39.0,false
+918,Maxi Dollar,United States,Serbia,1,Cysto & recto w grf/pros,Personal histry malaria,35.9,false
+919,Abbey Northcott,France,Zambia,9,Adrenal exploration NOS,Chr laryngotracheitis,41.2,true
+920,Thomasina Kerbler,Panama,Indonesia,21,Surg induct labor NEC,Inj mult nerve pelv/leg,37.8,false
+921,Milicent Cresser,South Korea,Indonesia,22,Closed fx reduction NOS,Pulmonary TB NOS-no exam,41.8,true
+922,Jaquelin Marler,United States,Ivory Coast,10,Rep scler staphyloma NEC,Adv eff cns stimulnt NEC,36.2,false
+923,Frasier Gallehock,Palestinian Territory,Peru,22,Lymphatic diag proc NEC,Polyarthritis NOS-l/leg,39.4,true
+924,Estrella Millhill,Egypt,China,13,Dx ultrasound-heart,Opn cerebe cont-coma NOS,36.8,true
+925,Clarissa Scintsbury,United States,China,18,Diphtheria toxoid admin,Ectopic hormone secr NEC,41.3,false
+926,Westley Attewell,Laos,China,3,Ureteral anastomosis NEC,Cereb degen in child NOS,36.3,false
+927,Joye Dagon,Greece,Portugal,6,Bursectomy of hand,Hemorrhage NOS,36.6,false
+928,Vanya Silcox,Brazil,Uruguay,9,Pancreat sphincterotom,"Amputation foot, unilat",40.0,true
+929,Imogene Benneyworth,Canada,Colombia,25,Man replace invert uter,Opn skul/oth fx-brf coma,35.8,false
+930,Shaw Napoleone,China,Russia,9,Brain/skull contrst xray,Muscular calcificat NOS,35.2,false
+931,Melony Lovekin,Philippines,Colombia,17,Labial frenotomy,Building & construction,38.2,true
+932,Zandra Barth,Poland,United States,11,Cryotherap cornea lesion,"Terrorism, nuc weapons",40.3,false
+933,Pembroke Trahearn,Costa Rica,South Africa,28,Destruction tongue les,Acc poison-caustic NOS,39.1,false
+934,Norby Illingworth,Sweden,China,5,Cell block/pap-endocrine,Benign parxysmal vertigo,41.6,true
+935,Hayes Hammant,Sweden,Serbia,28,Other resp procedures,Intra-abdom inj NEC-open,38.5,false
+936,Doyle Heinreich,Russia,Indonesia,16,Abltn liver les/tiss NEC,Malignant neoplasm uvula,39.5,true
+937,Bonni Timms,Japan,China,14,Lung laceration closure,Malig neo penis NOS,36.9,false
+938,Corrine Feehery,Philippines,China,25,Fit leg prosthesis NOS,Pseudomonal pneumonia,39.2,true
+939,Oby Rekes,China,Sweden,21,Shoulder disarticulation,Deep 3rd deg burn back,41.1,true
+940,Lorie Beckles,Ukraine,China,17,Abd contr phlebogram NEC,"Inflam dis, penis NEC",39.5,false
+941,Cordell Ludee,Poland,Portugal,12,Nonmag remov ant seg FB,Fetal distress-delivered,37.0,false
+942,Gabriella Pimblotte,China,China,9,Bunionect/sft/osteotomy,Cl skull fx NEC-brf coma,39.0,false
+943,Pepito Gosby,Indonesia,Mongolia,24,Prostatic massage,Gall&bil cal w/ac w/o ob,40.8,false
+944,Ferdinanda Behnen,Panama,Tanzania,4,Exc hnd mus/fas for grft,Anterior scleritis,41.8,true
+945,Wildon Riach,Russia,Cuba,27,Hepatotomy,Talipes NOS,39.2,true
+946,Bradley Gue,China,Philippines,26,Excise middle ear lesion,Antibody response exam,39.3,false
+947,Muire Hitzmann,Russia,China,28,Lymphatic diag proc NEC,Perinatal infection NEC,36.2,true
+948,Jourdan Imrie,China,Poland,10,Oth remove both ovaries,Arthralgia TMJ,39.7,false
+949,Mira Labbet,Democratic Republic of the Congo,Serbia,11,Ins left atr append dev,Pathol dislocat-ankle,38.0,false
+950,Yasmin Marieton,Lithuania,China,9,Complete laryngectomy,Open wound buccal mucosa,36.1,false
+951,Garret Baldry,Dominican Republic,Poland,22,Lingual frenotomy,TB bronchiect-cult dx,40.4,false
+952,Bobbi Jordanson,Indonesia,Venezuela,27,Femoral biopsy,Fetal disprop NOS-unspec,40.1,false
+953,Tatiana Maso,Sri Lanka,Indonesia,4,Imp/rep schan coch pros,Dermatitis factitia,37.9,true
+954,Orelia Eggleton,Japan,Bolivia,8,Gb-to-pancreas anastom,Loc osteoarth NOS-unspec,35.7,true
+955,Hendrick Ianiello,China,China,19,Arthrodesis NOS,Jt derangement NOS-hand,35.4,true
+956,Garner Soars,Panama,Poland,28,Bone graft-tibia/fibula,Animal bite NEC,39.2,false
+957,Shara Beringer,Brazil,Iraq,20,Vasc shunt & bypass NEC,Pathol dislocat-up/arm,38.0,false
+958,Alysia Le Quesne,Peru,Mauritius,12,"Repair of hip, NEC",Cl skul base fx-mod coma,36.6,false
+959,Tracy Innwood,Tanzania,Croatia,25,Complete sialoadenectomy,Deep 3rd deg brn low leg,36.6,false
+960,Foss Denziloe,South Africa,Angola,20,Renal les marsupializat,Lt-date w/mal 2000-2499g,40.2,false
+961,Emalee Ethridge,Paraguay,Panama,19,Radical orbitomaxillect,W/craft fall NOS-power,35.6,true
+962,Jaclin Chrichton,Philippines,Spain,19,Remov ext immobilization,Perinat jaund:hemolysis,36.7,true
+963,Georgeta Ponceford,Poland,Indonesia,18,Repair rectovag fistula,Anphylct reaction eggs,41.1,false
+964,Gerri Lafond,Philippines,Russia,8,Conjunctival biopsy,Syphilitic myocarditis,35.8,true
+965,Kristopher Vicarey,Poland,Portugal,14,Spleen diagnost proc NEC,Recurnt preg loss-antep,39.2,true
+966,Karlotte Kasper,Brazil,France,19,External ear biopsy,Lk rtctl unsp xtrndl org,39.5,false
+967,Kissee Lewzey,Argentina,China,16,Rev stapdec w incus repl,Lambert-Eaton synd neopl,40.3,false
+968,Shawna Botting,Indonesia,Ethiopia,15,Remov abdom wall suture,Periostitis-l/leg,37.3,false
+969,Tripp Crosher,Luxembourg,United Kingdom,3,Other pleural incision,Urge incontinence,38.1,false
+970,Bert Kupker,Ivory Coast,Brazil,4,Cl fx reduc-finger,Ascorbic acid deficiency,36.8,false
+971,Barclay Greenhow,Bulgaria,Colombia,20,Periph nerve transposit,"Old magnet fb, ant chamb",41.0,false
+972,Dannie Burgot,Indonesia,Bulgaria,21,Part gastrec w jej anast,Unstable lie-antepartum,37.1,false
+973,Sidoney Imlen,Peru,Russia,8,Percu endosc jejunostomy,Hebephren-subchr/exacerb,37.8,false
+974,Astrix Fennelly,Italy,Ukraine,23,Magnetic res image unsp,40-49% bdy brn/20-29% 3d,40.5,false
+975,Stormi Bolstridge,Indonesia,Panama,25,Lap remove ovaries/tubes,Local skin infection NOS,40.5,true
+976,Megen De Bell,China,Russia,18,Educational therapy,Hypersomnia NOS,38.5,true
+977,Minerva Mallard,Argentina,Norway,25,Arthrodesis NOS,90% + bdy brn/50-59% 3rd,39.4,true
+978,Pris Cutchey,Thailand,Poland,10,Suture ureteral lacerat,Cornea transplant status,41.6,false
+979,Raleigh Howatt,Portugal,China,6,Retina tear photocoa NOS,Pois-coronary vasodilat,38.1,false
+980,Jasmine Hundey,Philippines,China,8,C-vasc scan/isotop funct,Routin child health exam,41.6,false
+981,Gabbie Doree,China,Portugal,14,Open reduc-int fix femur,Adv eff insulin/antidiab,38.1,true
+982,Tybie Corson,Peru,Japan,16,Unilateral adrenalectomy,Broken tooth-uncomplic,38.8,false
+983,Danyette O' Cuolahan,China,Russia,4,C & s NEC,Nontrauma hema soft tiss,38.3,true
+984,Alphonse Botte,China,Brazil,18,Percutan aspiration gb,Salivary secretion dis,36.3,true
+985,Lorianne Coddington,China,Brazil,9,Mandibular reconst NEC,Chagas disease NOS,41.0,true
+986,Micki Greenard,Philippines,China,10,Carpal tunnel release,Upr limb vessel anomaly,39.6,false
+987,Mavis Stoyle,Sweden,Brazil,30,Tracheal injection,Postsurg hypoinsulinemia,36.5,false
+988,Missy Assaf,Canada,Poland,11,Vaginal suspens & fixat,Sprain lumbar region,40.4,true
+989,Nicolais Bohl,Vietnam,Latvia,10,Bact smear-nervous syst,T1-t6 fx-cl/cord inj NEC,41.1,true
+990,Dennie Bode,Thailand,Argentina,7,Limb length measurement,Lt eff nerv inj pelv/leg,35.6,true
+991,Anallise Croad,Ukraine,Philippines,24,Breast injection,Mv coll w ped-anim rid,37.6,true
+992,Gerek Jzhakov,Portugal,Japan,2,Resect thorac ves w repl,Press vessel explos NEC,35.3,true
+993,Konstantin Claxton,France,China,4,Other gastrostomy,Miliary TB NEC-micro dx,38.8,true
+994,Anya McGavin,China,Laos,19,Internal fixation-femur,Abo isoimmunizat-deliver,40.1,false
+995,Drucie Tine,China,Ukraine,26,Operation on orbit NEC,Opn skl base fx-brf coma,35.9,false
+996,Allyn Gaitone,Poland,Ireland,26,Corneal scrape for smear,Var mgr NEC wo ntc mgr,40.9,false
+997,Goddart Tortoise,Slovenia,Egypt,16,Oth humerus repair/plast,War inj:aircrft dest NEC,41.0,true
+998,Emmey Mayers,Chad,Mexico,11,Total pancreatectomy,Corticoadren overact NEC,36.1,true
+999,Ambrosio Besque,Uzbekistan,Dominican Republic,6,Adhesiolysis ovary/tube,Cl skul base fx-brf coma,37.4,false
+1000,Tadd Kneesha,Russia,Indonesia,27,Oral cavity dx proc NEC,Acq absnc cerv/remain ut,37.3,true
