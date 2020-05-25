@@ -19,7 +19,7 @@ public class Botones : MonoBehaviour
         
     }
 
-    public void CambiarTexto(Text txtElement)
+    public void CambiarTexto(TMPro.TextMeshProUGUI txtElement)
     {
         Dictionary<int, ModelPasajero> listaPasajeros;
 
@@ -31,16 +31,16 @@ public class Botones : MonoBehaviour
         switch (nombre)
         {
             case "estancia":
-                txtElement.text = "Duración de la estadia\n" + listaPasajeros[Passenger].Estancia;
+                txtElement.text = listaPasajeros[Passenger].Estancia.ToString();
                 break;
             case "habitos":
-                txtElement.text = "Habitos\n" + listaPasajeros[Passenger].Habitos;
+                txtElement.text = listaPasajeros[Passenger].Habitos;
                 break;
             case "sintomas":
-                txtElement.text = "Sintomas\n" + listaPasajeros[Passenger].Sintomas;
+                txtElement.text = listaPasajeros[Passenger].Sintomas;
                 break;
             case "temperatura":
-                txtElement.text = "Temperatura\n" + listaPasajeros[Passenger].Temperatura.ToString();
+                txtElement.text = listaPasajeros[Passenger].Temperatura.ToString() + "º";
                 break;
             default:
                 break;
