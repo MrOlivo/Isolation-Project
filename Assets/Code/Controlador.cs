@@ -17,7 +17,7 @@ public class Controlador : MonoBehaviour
 
     public float timeLeft;
     public static int pasajerosLeft = 20;
-
+    private static int aciertos = 0, fallos = 0;
     private static int paciente;
 
     private static Dictionary<int, ModelPasajero> listaPasajeros;
@@ -71,6 +71,11 @@ public class Controlador : MonoBehaviour
         Botones.Passenger = num;
     }
 
+    public void CammbiarEscena()
+    {
+        SceneManager.LoadScene("Principal");
+    }
+
     public void CambiarEscena(string nombre)
     {
         Debug.Log("Desencadenante " + nombre);
@@ -78,16 +83,20 @@ public class Controlador : MonoBehaviour
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
         if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
         {
-            Debug.Log("Acierto Poitivo: " + listaPasajeros[paciente].Covid);
+            Debug.Log("Acierto \nisPositive?: " + listaPasajeros[paciente].Covid);
+            aciertos++;
         }
         else
         {
-            Debug.Log("Fallo Poitivo: " + listaPasajeros[paciente].Covid);
+            Debug.Log("Fallo \nisPositive?: " + listaPasajeros[paciente].Covid);
+            fallos++;
         }
+
+        Debug.Log("Aciertos: " + aciertos + "\t Fallos: " + fallos + "\n-----------------------------");
 
         pasajerosLeft--;
 
-        SceneManager.LoadScene("Main");
+        CammbiarEscena();
     }
 
     public void Salir()
