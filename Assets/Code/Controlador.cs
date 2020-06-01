@@ -17,7 +17,6 @@ public class Controlador : MonoBehaviour
 
     public float timeLeft;
     public static int pasajerosLeft = 20;
-    private static int aciertos = 0, fallos = 0;
     private static int paciente;
 
     private static Dictionary<int, ModelPasajero> listaPasajeros;
@@ -84,15 +83,17 @@ public class Controlador : MonoBehaviour
         if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
         {
             Debug.Log("Acierto \nisPositive?: " + listaPasajeros[paciente].Covid);
-            aciertos++;
+            Resultados.sumarAcierto();
+            //aciertos++;
         }
         else
         {
             Debug.Log("Fallo \nisPositive?: " + listaPasajeros[paciente].Covid);
-            fallos++;
+            Resultados.sumarFallos();
+            //fallos++;
         }
 
-        Debug.Log("Aciertos: " + aciertos + "\t Fallos: " + fallos + "\n-----------------------------");
+        Debug.Log("Aciertos: " + Resultados.obtenerAciertos() + "\t Fallos: " + Resultados.obtenerFallos() + "\n-------------------------------------------");
 
         pasajerosLeft--;
 
