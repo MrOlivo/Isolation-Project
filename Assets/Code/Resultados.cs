@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Resultados : MonoBehaviour
 {
@@ -30,7 +31,7 @@ public class Resultados : MonoBehaviour
         Aciertos++;
     }
 
-    public static void sumarFallos()
+    public static void sumarFallo()
     {
         Fallos++;
     }
@@ -43,6 +44,11 @@ public class Resultados : MonoBehaviour
     public static int obtenerFallos()
     {
         return Fallos;
+    }
+
+    public void CammbiarEscena()
+    {
+        SceneManager.LoadScene("Inicio");
     }
 
 }
