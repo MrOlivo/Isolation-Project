@@ -1070,8 +1070,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 203.35999, y: -119.3}
-  m_SizeDelta: {x: 94.6, y: 30}
+  m_AnchoredPosition: {x: 213, y: -168.1}
+  m_SizeDelta: {x: 94.6, y: 46.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &992613462
 MonoBehaviour:
@@ -1115,8 +1115,8 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 7090970207757296383, guid: 6ac5de1b88dc9cd43830385001e2effd,
           type: 3}
-        m_MethodName: CambiarEscena
-        m_Mode: 5
+        m_MethodName: CammbiarEscena
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
