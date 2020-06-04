@@ -95,7 +95,7 @@ public class Controlador : MonoBehaviour
         }
         else
         {
-            Debug.Log("Fallo \n¿era Negativo?: " + listaPasajeros[paciente].Covid);
+            Debug.Log("Fallo \n¿era Negativo?: " + esPositivo);
             Resultados.sumarFallo();
             //fallos++;
         }
