@@ -84,28 +84,33 @@ public class Controlador : MonoBehaviour
     {
         Debug.Log("Desencadenante " + nombre);
 
+        bool esPositivo = listaPasajeros[paciente].Covid;
+
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
-        if ((nombre.Equals("aislamiento") && listaPasajeros[paciente].Covid) || (nombre.Equals("dejar_ir") && !listaPasajeros[paciente].Covid))
+        if ((nombre.Equals("aislamiento") && esPositivo) || (nombre.Equals("dejar_ir") && !esPositivo))
         {
-            Debug.Log("Acierto \nisPositive?: " + listaPasajeros[paciente].Covid);
+            Debug.Log("Acierto \n¿era Positivo?: " + esPositivo);
             Resultados.sumarAcierto();
             //aciertos++;
         }
         else
         {
-            Debug.Log("Fallo \nisPositive?: " + listaPasajeros[paciente].Covid);
+            Debug.Log("Fallo \n¿era Negativo?: " + listaPasajeros[paciente].Covid);
             Resultados.sumarFallo();
             //fallos++;
         }
 
         Debug.Log("Aciertos: " + Resultados.obtenerAciertos() + "\t Fallos: " + Resultados.obtenerFallos() + "\n-------------------------------------------");
+        pasajerosLeft--;
 
-        if (pasajerosLeft-- < 0)
+        if (pasajerosLeft > 0)
         {
             CammbiarEscena("Principal");
+        } else
+        {
+            CammbiarEscena("Resultados");
         }
 
-        CammbiarEscena("Resultados");
     }
 
     public void Salir()
