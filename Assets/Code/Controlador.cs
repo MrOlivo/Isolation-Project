@@ -43,13 +43,13 @@ public class Controlador : MonoBehaviour
         }
         else
         {
-            CambiarEscena("Tiempo agotado");
+            GenerarPersonaje("Tiempo agotado");
             //Application.Quit();
         }
 
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            CambiarEscena("StartMenu");
+            GenerarPersonaje("StartMenu");
             print("Tecla Escape presionada");
         }
     }
@@ -72,10 +72,15 @@ public class Controlador : MonoBehaviour
 
     public void CammbiarEscena()
     {
-        SceneManager.LoadScene("Principal");
+        SceneManager.LoadScene("Inicio");
     }
 
-    public void CambiarEscena(string nombre)
+    public void CammbiarEscena(string escena)
+    {
+        SceneManager.LoadScene(escena);
+    }
+
+    public void GenerarPersonaje(string nombre)
     {
         Debug.Log("Desencadenante " + nombre);
 
@@ -89,15 +94,18 @@ public class Controlador : MonoBehaviour
         else
         {
             Debug.Log("Fallo \nisPositive?: " + listaPasajeros[paciente].Covid);
-            Resultados.sumarFallos();
+            Resultados.sumarFallo();
             //fallos++;
         }
 
         Debug.Log("Aciertos: " + Resultados.obtenerAciertos() + "\t Fallos: " + Resultados.obtenerFallos() + "\n-------------------------------------------");
 
-        pasajerosLeft--;
+        if (pasajerosLeft-- < 0)
+        {
+            CammbiarEscena("Principal");
+        }
 
-        CammbiarEscena();
+        CammbiarEscena("Resultados");
     }
 
     public void Salir()
