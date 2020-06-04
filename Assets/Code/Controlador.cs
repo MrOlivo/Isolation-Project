@@ -82,23 +82,25 @@ public class Controlador : MonoBehaviour
 
     public void GenerarPersonaje(string nombre)
     {
-        Debug.Log("Desencadenante " + nombre);
+        print("Desencadenante " + nombre);
 
         bool esPositivo = listaPasajeros[paciente].Covid;
 
         // Enviado a cuarentena con positivo a COVID OR Enviado a casa con negativo a !COVID
         if ((nombre.Equals("aislamiento") && esPositivo) || (nombre.Equals("dejar_ir") && !esPositivo))
         {
-            Debug.Log("Acierto \n¿era Positivo?: " + esPositivo);
+            print("Acierto");
             Resultados.sumarAcierto();
             //aciertos++;
         }
         else
         {
-            Debug.Log("Fallo \n¿era Negativo?: " + esPositivo);
+            print("Fallo");
             Resultados.sumarFallo();
             //fallos++;
         }
+
+        print("¿era Positivo ?: " + esPositivo);
 
         Debug.Log("Aciertos: " + Resultados.obtenerAciertos() + "\t Fallos: " + Resultados.obtenerFallos() + "\n-------------------------------------------");
         pasajerosLeft--;
