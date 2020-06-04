@@ -9,14 +9,14 @@ public class Resultados : MonoBehaviour
     private static int Aciertos { set; get; }
     private static int Fallos { set; get; }
 
-    public TextMeshProUGUI aci;
-    public TextMeshProUGUI err;
+    public TextMeshProUGUI txt_aciertos;
+    public TextMeshProUGUI txt_fallos;
 
     // Start is called before the first frame update
     void Start()
     {
-        aci.text = Aciertos.ToString();
-        err.text = Fallos.ToString();
+        txt_aciertos.text = Aciertos.ToString();
+        txt_fallos.text = Fallos.ToString();
     }
 
     // Update is called once per frame
