@@ -3577,7 +3577,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 7090970207757296383, guid: 6ac5de1b88dc9cd43830385001e2effd,
           type: 3}
-        m_MethodName: CambiarEscena
+        m_MethodName: GenerarPersonaje
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4549,7 +4549,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 7090970207757296383, guid: 6ac5de1b88dc9cd43830385001e2effd,
           type: 3}
-        m_MethodName: CambiarEscena
+        m_MethodName: GenerarPersonaje
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
