@@ -18,7 +18,7 @@ public class Pasajero : MonoBehaviour
 
         for(int i = 0; i < objs.Count; i++){
 
-            objs[i].Covid = (objs[i].Temperatura > 38 && rn.Next(0, 9) > 7) ? true : false;
+            objs[i].Covid = (objs[i].Temperatura > 38 && rn.Next(0, 9) > 7) ? true : objs[i].Covid;
 
             Pasajeros.Add(i, objs[i]);
 
