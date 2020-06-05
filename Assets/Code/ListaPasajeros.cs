@@ -32,17 +32,17 @@ public class Pasajero : MonoBehaviour
 
     int CambiarEstancia(int org)
     {
-        if (org >= 20)
+        if (org >= 58)
         {
-            org /= 2;
+            org /= 4;
         }
         else if (org >= 36)
         {
             org /= 3;
         }
-        else if (org > 58)
+        else if (org >= 20)
         {
-            org /= 4;
+            org /= 2;
         }
 
         return org;
