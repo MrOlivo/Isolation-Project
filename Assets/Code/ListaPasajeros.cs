@@ -18,7 +18,12 @@ public class Pasajero : MonoBehaviour
 
         for(int i = 0; i < objs.Count; i++){
 
-            objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : objs[i].Covid;
+            bool org = objs[i].Covid;
+
+            // Añadir temperatura ambiental como efecto de dificultad
+
+            objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : org;
+            objs[i].Covid = (objs[i].Temperatura > 39) ? true : org;
 
             Pasajeros.Add(i, objs[i]);
 
