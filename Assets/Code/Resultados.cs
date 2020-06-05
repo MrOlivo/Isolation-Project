@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Resultados : MonoBehaviour
 {
     private static int Aciertos { set; get; }
     private static int Fallos { set; get; }
+    
+    private static int AciertosGlobales { set; get; }
+    private static int FallosGlobales { set; get; }
 
     public TextMeshProUGUI txt_aciertos;
     public TextMeshProUGUI txt_fallos;
@@ -29,11 +31,13 @@ public class Resultados : MonoBehaviour
     public static void sumarAcierto()
     {
         Aciertos++;
+        AciertosGlobales++;
     }
 
     public static void sumarFallo()
     {
         Fallos++;
+        FallosGlobales++;
     }
 
     public static int obtenerAciertos()
@@ -48,6 +52,8 @@ public class Resultados : MonoBehaviour
 
     public void CammbiarEscena()
     {
+        Aciertos = 0;
+        Fallos = 0;
         SceneManager.LoadScene("Inicio");
     }
 
