@@ -18,17 +18,34 @@ public class Pasajero : MonoBehaviour
 
         for(int i = 0; i < objs.Count; i++){
 
-            bool org = objs[i].Covid;
+            bool original = objs[i].Covid;
 
-            //  Añadir temperatura ambiental como efecto de dificultad
-            //  La lectura de temperatura personal es afectada por la temperatura ambiental
+            objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : original;
+            objs[i].Covid = (objs[i].Temperatura > 39) ? true : original;
 
-            objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : org;
-            objs[i].Covid = (objs[i].Temperatura > 39) ? true : org;
+            objs[i].Estancia = CambiarEstancia(objs[i].Estancia);
 
             Pasajeros.Add(i, objs[i]);
 
         }
+    }
+
+    int CambiarEstancia(int org)
+    {
+        if (org >= 20)
+        {
+            org /= 2;
+        }
+        else if (org >= 36)
+        {
+            org /= 3;
+        }
+        else if (org > 58)
+        {
+            org /= 4;
+        }
+
+        return org;
     }
 
 }
