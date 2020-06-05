@@ -20,7 +20,8 @@ public class Pasajero : MonoBehaviour
 
             bool org = objs[i].Covid;
 
-            // Añadir temperatura ambiental como efecto de dificultad
+            //  Añadir temperatura ambiental como efecto de dificultad
+            //  La lectura de temperatura personal es afectada por la temperatura ambiental
 
             objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : org;
             objs[i].Covid = (objs[i].Temperatura > 39) ? true : org;
