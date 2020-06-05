@@ -6,7 +6,7 @@ using TMPro;
 
 public class Dias : MonoBehaviour
 {
-    TMPro.TextMeshProUGUI txtElement;
+    public TMPro.TextMeshProUGUI txtElement;
 
     private static int dias = 1;
     private float timeLeft = 5;
