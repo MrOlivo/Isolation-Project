@@ -23,7 +23,7 @@ public class Dias : MonoBehaviour
     {
         timeLeft -= Time.deltaTime;
 
-        if (timeLeft > 0.0)
+        if (timeLeft <= 0.0)
         {
             CammbiarEscena();
         }
