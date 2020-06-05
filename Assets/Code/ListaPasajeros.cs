@@ -14,14 +14,14 @@ public class Pasajero : MonoBehaviour
         string file = "MOCK_DATA";
         string path = "Assets/Code/"+ file +".csv";
 
-        var objs = Sinbad.CsvUtil.LoadObjects<ModelPasajero>(path);
+        List<ModelPasajero> objs = Sinbad.CsvUtil.LoadObjects<ModelPasajero>(path);
 
         for(int i = 0; i < objs.Count; i++){
 
             bool original = objs[i].Covid;
 
-            objs[i].Covid = (objs[i].Temperatura > 38 && rn.NextDouble() > .7) ? true : original;
-            objs[i].Covid = (objs[i].Temperatura > 39) ? true : original;
+            objs[i].Covid = (objs[i].Temperatura >= 37.5 && rn.NextDouble() > .7) || original;
+            objs[i].Covid = (objs[i].Temperatura >= 39.5) || original;
 
             objs[i].Estancia = CambiarEstancia(objs[i].Estancia);
 
