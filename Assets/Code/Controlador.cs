@@ -15,7 +15,7 @@ public class Controlador : MonoBehaviour
 
     public Image peep;
 
-    public float timeLeft;
+    private static float timeLeft = 400f;
     public static int pasajerosLeft = 20;
     private static int paciente;
 
@@ -96,6 +96,7 @@ public class Controlador : MonoBehaviour
         else
         {
             print("Fallo");
+            timeLeft -= 20f;
             Resultados.sumarFallo();
             //fallos++;
         }

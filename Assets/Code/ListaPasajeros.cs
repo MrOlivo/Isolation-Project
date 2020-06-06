@@ -11,8 +11,7 @@ public class Pasajero : MonoBehaviour
         Pasajeros = new Dictionary<int, ModelPasajero>();
         System.Random rn = new System.Random();
 
-        string file = "MOCK_DATA";
-        string path = "Assets/Code/"+ file +".csv";
+        string path = "Assets/Code/MOCK_DATA.csv";
 
         List<ModelPasajero> objs = Sinbad.CsvUtil.LoadObjects<ModelPasajero>(path);
 
@@ -24,10 +23,10 @@ public class Pasajero : MonoBehaviour
             {
                 objs[i].Covid = true;
             }
-            else if (objs[i].Temperatura >= 37.0 && rn.NextDouble() < .2)
-            {
-                objs[i].Covid = true;
-            }
+            //else if (objs[i].Temperatura >= 37.0 && rn.NextDouble() < .2)
+            //{
+            //    objs[i].Covid = true;
+            //}
 
             objs[i].Estancia = CambiarEstancia(objs[i].Estancia);
 
