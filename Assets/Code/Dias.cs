@@ -9,7 +9,7 @@ public class Dias : MonoBehaviour
     public TMPro.TextMeshProUGUI txtElement;
 
     private static int dias = 1;
-    private float timeLeft = 5;
+    private float timeLeft = 2;
 
     // Start is called before the first frame update
     void Start()
