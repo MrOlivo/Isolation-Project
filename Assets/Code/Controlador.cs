@@ -14,11 +14,10 @@ public class Controlador : MonoBehaviour
     public TextMeshProUGUI viaja_a;
 
     public Image peep;
+    private float timeLeft = 20f;
 
-    private static float timeLeft = 400f;
     public static int pasajerosLeft = 20;
     private static int paciente;
-
     private static Dictionary<int, ModelPasajero> listaPasajeros;
 
     // Start is called before the first frame update
@@ -39,7 +38,7 @@ public class Controlador : MonoBehaviour
         timeLeft -= Time.deltaTime;
         if (timeLeft > 0.0)
         {
-            segundos_restantes.text = ((int)timeLeft).ToString();
+            segundos_restantes.text = (timeLeft).ToString("00.00");
         }
         else
         {
@@ -96,7 +95,6 @@ public class Controlador : MonoBehaviour
         else
         {
             print("Fallo");
-            timeLeft -= 20f;
             Resultados.sumarFallo();
             //fallos++;
         }
