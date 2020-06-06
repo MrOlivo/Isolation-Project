@@ -40,7 +40,7 @@ public class Botones : MonoBehaviour
                 txtElement.text = listaPasajeros[Passenger].Sintomas;
                 break;
             case "temperatura":
-                txtElement.text = listaPasajeros[Passenger].Temperatura.ToString();
+                txtElement.text = listaPasajeros[Passenger].Temperatura.ToString() + "º";
                 break;
             default:
                 break;
