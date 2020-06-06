@@ -23,10 +23,6 @@ public class Pasajero : MonoBehaviour
             {
                 objs[i].Covid = true;
             }
-            //else if (objs[i].Temperatura >= 37.0 && rn.NextDouble() < .2)
-            //{
-            //    objs[i].Covid = true;
-            //}
 
             objs[i].Estancia = CambiarEstancia(objs[i].Estancia);
 
