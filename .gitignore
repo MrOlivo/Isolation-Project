@@ -90,6 +90,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.symbols.zip
+Build.zip
 
 # Crashlytics generated file
 crashlytics-build.properties
