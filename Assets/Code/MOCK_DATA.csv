@@ -1,201 +1,351 @@
 id,nombre,nacionalidad,destino,estancia,habitos,sintomas,temperatura,covid
-1,Olenolin Brimm,China,Russia,21,Epicor,Open fracture of two ribs,39.7,false
-2,Winston Wybrow,Brazil,Colombia,2,WCSF,"Open dislocation, sacrum",35.9,true
-3,Eda Ingerith,Morocco,Indonesia,39,Japanese Business Culture,"Malignant neoplasm of lower lobe, bronchus or lung",40.4,true
-4,Christoph Edinburgh,Indonesia,Ukraine,75,Lymphoma,Other specified disorders of breast,38.3,false
-5,Bernetta Halpeine,Poland,Indonesia,79,Urban Studies,"Family history of malignant neoplasm, bladder",38.9,false
-6,Josiah Boteman,Nigeria,Cameroon,67,Jazz,Personal history of other (corrected) congenital malformations,40.8,false
-7,Desmond Kolushev,China,Colombia,3,DVB-T,Family history of osteoporosis,41.5,true
-8,Cullie Phillins,Indonesia,Indonesia,36,CDM Coordinator,Personal history of malignant neoplasm of other parts of nervous system,35.3,true
-9,Kacie Buchett,Albania,France,85,LDAP,Balanitis xerotica obliterans,39.5,false
-10,De Ive,Portugal,Lithuania,44,Screening,Benign neoplasm of fallopian tube and uterine ligaments,37.4,false
-11,Deloria Crispin,Brazil,Martinique,14,NDIS,Selective mutism,41.8,true
-12,Kordula Martell,Vietnam,Tunisia,83,Software Design,"Fasciitis, unspecified",36.3,false
-13,Orton Farrans,France,Tajikistan,24,RF Troubleshooting,Benign neoplasm of other parts of oropharynx,38.6,true
-14,Giavani Thorrold,China,Indonesia,44,Whole House Renovations,"Other open skull fracture with subarachnoid, subdural, and extradural hemorrhage, with concussion, unspecified",37.1,true
-15,Lynett Cochran,Mongolia,China,42,Foreign Affairs,"Open wound of scrotum and testes, without mention of complication",41.6,true
-16,Ashlan Keam,Venezuela,Brazil,58,Social Media,Injury to unspecified nerve of pelvic girdle and lower limb,35.4,false
-17,Brendon Cussins,Russia,Poland,29,DoD,"Spondylosis with myelopathy, lumbar region",38.0,true
-18,Marge Trinbey,Indonesia,United States,31,SSL,"Other multiple pregnancy with fetal loss and retention of one or more fetus(es), unspecified as to episode of care or not applicable",39.8,true
-19,Rickard Paute,Brazil,Portugal,29,HFM,Noise-induced hearing loss,38.5,false
-20,Glendon Deare,Philippines,China,11,UFS,Malignant carcinoid tumor of the jejunum,41.5,false
-21,Herve Shuker,Cameroon,Georgia,64,Registered Patent Attorney,"Neoplasms of unspecified nature, other specified sites",41.1,false
-22,Wheeler Vanetti,Peru,Philippines,89,Umbrella Insurance,"Tuberculous abscess of spinal cord, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",35.0,true
-23,Retha Mowatt,China,Brazil,31,GCCS,Other alteration of consciousness,38.2,false
-24,Wernher Bendix,Democratic Republic of the Congo,China,77,Igloo,"Benign essential hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",39.1,false
-25,Meggie O'Brogan,Poland,France,75,Yardi,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,41.7,false
-26,Bronny Waskett,Indonesia,Kosovo,5,JDOM,"Burn [any degree] involving 90 percent or more of body surface with third degree burn, 40-49%",38.2,false
-27,Berni Gierth,Indonesia,Indonesia,29,Windows Server,Other specified disorders of biliary tract,41.7,true
-28,Ketti Mobbs,Greece,France,68,DBC,Nutritional optic neuropathy,40.7,false
-29,Dacey Croizier,Yemen,Philippines,38,HMC,"Congenital syphilis, unspecified",36.4,false
-30,Tobie MacCrosson,France,United States,16,JavaBeans,Transient tic disorder,40.5,true
-31,Bogart Kelly,Kazakhstan,China,44,ABAP-OO,"Glaucoma stage, unspecified",36.1,false
-32,Wendel Phython,China,Uruguay,36,MDR,Scarlet fever,36.2,true
-33,Vaclav Sewall,China,Indonesia,35,IBM Rational Rhapsody,Other venous embolism and thrombosis of inferior vena cava,40.5,false
-34,Stan McGilleghole,Palestinian Territory,France,30,Google Analytics,"Other multiple birth (three or more), unspecified whether mates liveborn or stillborn, born outside of hospital",37.3,true
-35,Kailey Snowding,Kazakhstan,China,55,JFace,Activities involving ironing,39.8,false
-36,Valentina Shear,Indonesia,Peru,80,Packaging,"Acquired absence of organ, stomach",39.3,false
-37,Jobie Chastey,China,Indonesia,51,Flights,Unspecified erythematous condition,40.7,false
-38,Olly Gligoraci,Cuba,Philippines,71,TTL,"Accidental cut, puncture, perforation or hemorrhage during injection or vaccination",39.5,false
-39,Claudie Hanrahan,Azerbaijan,Morocco,77,NDE,Counseling for parent-biological child problem,42.0,false
-40,Pattie Minnis,Bangladesh,Thailand,86,Canon XL2,Subdural hemorrhage,36.4,false
-41,Pierre Mulchrone,Israel,Philippines,22,Cost Benefit,"Open fracture of base of skull without mention of intracranial injury, with no loss of consciousness",39.6,true
-42,Tammie Driver,Indonesia,Japan,2,Electrical Engineering,Secondary syphilitic periostitis,39.3,true
-43,Aubree Hanstock,China,China,6,RPG II,Neoplasm of uncertain behavior of placenta,37.2,false
-44,Jenilee Cisco,Indonesia,Peru,30,Retail Sales,Other disorders of calcium metabolism,41.7,true
-45,Yankee Newsham,Colombia,Argentina,19,Air Compressors,Other inflammatory disorders of penis,39.6,true
-46,Johnath Durkin,China,Thailand,2,TCF,Concussion with prolonged loss of consciousness and return to pre-existing conscious level,40.5,false
-47,Jordon Pittway,Ivory Coast,Indonesia,89,Clerical Skills,"Mosquito-borne viral encephalitis, unspecified",37.6,false
-48,Gian Craydon,Philippines,Indonesia,57,uC/OS-II,"Open dislocation, vertebra, unspecified site",37.5,true
-49,Katina Davio,Dominican Republic,Iran,72,FSCM,Malignant neoplasm of other sites of floor of mouth,35.2,true
-50,Karlik Dalla,Costa Rica,China,60,JBPM,Malignant neoplasm of other specified sites of oropharynx,38.7,true
-51,Cole Jurczak,Peru,China,20,IP,"Tuberculosis of other specified bone, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",39.7,true
-52,Rosemarie Corzon,Zimbabwe,Greece,38,FTK,"Tuberculosis of other specified joint, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",39.9,false
-53,Callean Jekyll,China,Greece,11,Smart TV,Iatrogenic pituitary disorders,41.8,false
-54,Ann-marie Cleere,Sweden,Russia,4,PY,Acute and subacute necrosis of liver,38.9,true
-55,Kennett Bootton,Russia,Russia,58,Handmade Jewelry,Malignant neoplasm of pyloric antrum,35.6,true
-56,Missie Larrie,Greece,China,42,Online Gaming,"Hemorrhage from placenta previa, delivered, with or without mention of antepartum condition",37.7,true
-57,Simone Woollaston,China,Germany,13,FTTx,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of multiple sites of lower limb(s)",37.1,true
-58,Sari Seville,United States,Sweden,55,Rational XDE,Pulmonary valve disorders,36.9,true
-59,Yule Trubshaw,Russia,Greece,50,Xeriscaping,"Inlet contraction of pelvis, antepartum condition or complication",35.2,true
-60,Virgilio Tattersill,Portugal,Ghana,53,Tcpdump,"Other tuberculosis of intestines, peritoneum, and mesenteric glands, bacteriological or histological examination unknown (at present)",42.0,false
-61,Vi Lysons,Mexico,China,17,Bootstrap,"Tuberculosis of limb bones, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",41.6,false
-62,Fredelia Crigin,Azerbaijan,Russia,51,Digital Photography,"Spina bifida without mention of hydrocephalus, dorsal (thoracic) region",36.1,false
-63,Teddi Simmig,Haiti,Philippines,58,Nutritional Counseling,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",36.8,false
-64,Janeczka Dufton,Indonesia,Brazil,77,TDMoIP,Balantidiasis,35.7,true
-65,Wilhelmina Sallis,Indonesia,Slovenia,77,Situational Awareness,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck",40.7,false
-66,Almeta Dammarell,Czech Republic,Madagascar,73,solid-state NMR,Malignant neoplasm of parotid gland,40.8,true
-67,Matias Cockayne,Colombia,Indonesia,50,Rail,Chronic pancreatitis,40.0,false
-68,Creighton Tabourel,Portugal,Russia,83,EEO Compliance,Other degenerative disorders of skin affecting eyelid,37.3,true
-69,Vonnie Mewe,Mexico,South Africa,43,HUD,"Mixed hearing loss, bilateral",40.0,false
-70,Anjanette Turfs,China,Poland,65,Vlookup,C5-C7 level with complete lesion of spinal cord,39.5,true
-71,Brittney Ingry,Indonesia,China,6,QAQC,"Open wound of foot except toe(s) alone, with tendon involvement",40.8,false
-72,Esteban Cromack,Guatemala,Mexico,22,SFDC,Acute venous embolism and thrombosis of superficial veins of upper extremity,40.7,true
-73,Burg Josowitz,Afghanistan,Guatemala,53,z/VM,Coxsackie virus infection in conditions classified elsewhere and of unspecified site,37.5,true
-74,Alma Cawse,Palestinian Territory,Finland,54,DFA,"Retinal layer separation, unspecified",38.7,false
-75,Ernestine Ozelton,United States,Russia,35,NRI Services,"Closed fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre- existing conscious level",37.0,true
-76,Elle Riddell,Israel,Indonesia,75,FI-AA,Embolism and thrombosis of thoracic aorta,37.0,true
-77,Rosette Rowntree,Ukraine,Sweden,80,Roofers,Infection and inflammatory reaction due to internal joint prosthesis,37.3,true
-78,Jackie Sheal,Argentina,Libya,6,IEEE,Accident caused by controlled fire in private dwelling,41.0,false
-79,Esdras Tabram,Cameroon,Saint Pierre and Miquelon,26,ZPL,Trichomonal vulvovaginitis,39.6,false
-80,Tally Simounet,Netherlands,Brazil,45,Cultural Awareness,"Open dislocation of elbow, other",35.3,false
-81,Cybil Scotchmore,Georgia,Nigeria,45,Eyeliner,"Quadruplet pregnancy, unspecified as to episode of care or not applicable",36.5,true
-82,Eldridge Lindeboom,Albania,Sweden,90,IRS,Lung involvement in systemic sclerosis,40.0,false
-83,Virgilio Sphinxe,Portugal,Azerbaijan,89,Pre-owned,Accessory muscle,41.3,false
-84,Nanni Siemianowicz,Indonesia,Myanmar,52,uCOS,"Malignant mast cell tumors, lymph nodes of inguinal region and lower limb",35.3,false
-85,Timothee Fenners,Qatar,Tanzania,36,5 Why,Injury due to unspecified war operations but occurring after cessation of hostilities,41.8,false
-86,Tadd Glassford,Vietnam,Russia,84,Hands-on Training,"Osteopathy resulting from poliomyelitis, site unspecified",38.1,true
-87,Prescott Roache,Finland,Portugal,6,Visual Basic,Mixed intestinal helminthiasis,39.9,false
-88,Bertina Braunton,South Africa,China,42,zSeries,Prolapsed umbilical cord affecting fetus or newborn,39.4,false
-89,Natal Royce,France,Brazil,19,Siebel,Friedländer's bacillus infection in conditions classified elsewhere and of unspecified site,41.6,true
-90,Dale Gumey,Indonesia,Zimbabwe,8,AHA,Accidental poisoning by herbicides,36.5,false
-91,Keene Heatlie,Poland,Russia,69,FHA Financing,Systemic sclerosis,38.4,true
-92,Marjy Shoosmith,Croatia,Panama,79,PBX,Enteritis due to enterovirus nec,39.9,true
-93,Webb Persitt,Philippines,Russia,39,HMI Configuration,"Maternal pyrexia during labor, unspecified, antepartum condition or complication",35.2,false
-94,Quillan Branni,Indonesia,China,59,TCL,Anal or rectal pain,37.1,false
-95,Ambrosi Rait,Dominican Republic,China,31,FCAW,"Hemiplegia, unspecified, affecting dominant side",39.5,true
-96,Jeanne Standering,Sierra Leone,China,52,Record Keeping,"Arthropathy associated with mycoses, lower leg",38.7,true
-97,Silvano Pulteneye,China,Finland,85,Aftersales,"Extradural hemorrhage following injury without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",36.2,false
-98,Merlina Olivier,Greece,Philippines,67,Industrial Ethernet,"Injury to axillary vessel(s), unspecified",37.4,true
-99,Kathryne Folomkin,Armenia,Japan,73,XML Sitemaps,Other specified congenital anomalies,37.7,false
-100,Arel Trorey,Poland,Ivory Coast,45,Food &amp; Beverage,"Other joint derangement, not elsewhere classified, site unspecified",36.4,true
-101,Mohammed Lincoln,Peru,China,58,Myriad,"Carcinoma in situ of lip, oral cavity, and pharynx",35.9,true
-102,Frankie Makeswell,Brazil,Kazakhstan,72,Ubuntu,"Chondrocalcinosis, due to pyrophosphate crystals, other specified sites",38.2,false
-103,Sutton Faiers,Portugal,China,39,Physical Therapy,Nontraumatic extradural hemorrhage,41.0,false
-104,Noll Mellish,Czech Republic,Poland,70,Kenan FX,Other marginal perforation of tympanic membrane,37.1,true
-105,Candida Coie,Mayotte,Albania,75,Claims Management,Activities involving lacrosse and field hockey,40.8,false
-106,Moses Littlecote,Mexico,Brazil,66,GNU C,Vomiting following gastrointestinal surgery,40.1,true
-107,Sheila-kathryn Hanscombe,Ukraine,Poland,10,ATG CSC,Infection and inflammatory reaction due to peritoneal dialysis catheter,37.1,true
-108,Morlee Basilio,Democratic Republic of the Congo,French Polynesia,55,Software Development,"Malignant neoplasm of bronchus and lung, unspecified",38.9,false
-109,Emalee Watsam,Russia,Russia,79,Information Security Awareness,Nonvenereal endemic syphilis,41.2,false
-110,Hubert Viollet,Sweden,China,44,RF,Acute coronary occlusion without myocardial infarction,35.9,true
-111,Jobina Digweed,Sweden,Portugal,57,TPNS,Other conduct disorder,37.8,false
-112,Arabelle Place,French Polynesia,United States,29,BDC,"Triplet gestation, with two or more monoamniotic fetuses",36.4,true
-113,Jeniffer Worsfield,China,Ukraine,7,PNF,"Obstetrical pyemic and septic embolism, unspecified as to episode of care or not applicable",40.9,true
-114,Margaux Pothecary,Indonesia,Indonesia,60,HRO,"Unspecified disorder of lactation, delivered, with or without mention of antepartum condition",37.9,false
-115,Ronnie Giffen,Chile,China,8,SWIFT Payments,Meningitis due to trypanosomiasis,36.5,true
-116,Sandy Leathers,China,Mexico,21,Immunology,Fall resulting in striking against sharp object,39.2,true
-117,Alfie O'Carran,Poland,China,85,Key Account Management,Late effect of fracture of spine and trunk without mention of spinal cord lesion,38.6,false
-118,Hercule Skittles,Angola,Indonesia,24,Xbox,"Cocaine dependence, unspecified",36.6,true
-119,Merry Chatters,Czech Republic,China,13,FDMA,Malignant neoplasm of anterior portion of floor of mouth,38.7,false
-120,Ernesta Rogans,Norway,Cuba,3,ETL Tools,Personal history of malignant neoplasm of bronchus and lung,40.4,false
-121,Jere Santi,Cuba,Indonesia,22,SGW,"Body Mass Index 32.0-32.9, adult",38.9,false
-122,Bel Cubbon,Greece,Argentina,46,Oracle Applications,Methaqualone compounds causing adverse effects in therapeutic use,35.1,true
-123,Smith Sonschein,Norway,China,61,Exercise Physiology,Other disorders of neurohypophysis,40.5,true
-124,Ryan Lytle,Lesotho,Palestinian Territory,73,CTIOS,Fitting and adjustment of other gastrointestinal appliance and device,37.5,false
-125,Germana Cossar,Indonesia,Sweden,80,Eyelid Surgery,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of scapular region",36.1,true
-126,Doralia Chesnay,Hungary,South Africa,57,Strategic Thinking,"Unspecified anomaly of cervix, vagina, and external female genitalia",41.6,true
-127,Benedicto Dundon,China,Indonesia,81,ASP.NET,Foreign object left in body during infusion or transfusion,40.0,true
-128,Anton Pecha,China,Japan,54,mLearning,Unarmed fight or brawl,37.0,true
-129,Nolana Freegard,China,Vietnam,82,ITIL v3 Foundations Certified,Other tick-borne hemorrhagic fever,36.3,true
-130,Tara Aplin,Philippines,Indonesia,35,RDI,Family history of other specified malignant neoplasm,36.0,true
-131,Loni MacIan,Nigeria,Argentina,22,EOU,Coronary vasodilators causing adverse effects in therapeutic use,39.5,false
-132,Riane Hillburn,Nicaragua,Tanzania,15,NPI Management,"Petrositis, unspecified",35.2,false
-133,Kali Island,Colombia,China,9,VPN,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled",39.0,false
-134,Stanley Shower,China,Russia,60,Risk Management,"Stenosis of pulmonary valve, congenital",41.4,false
-135,Jennie Bolden,Afghanistan,Japan,12,SSADM,Personal history of malignant neoplasm of other gastrointestinal tract,37.6,false
-136,Shandeigh Moule,Czech Republic,Honduras,28,MDX,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring driver of motor vehicle other than motorcycle,37.6,true
-137,Dagmar Rubinovitsch,China,Mexico,89,RFP Design,Activities involving swimming,35.2,true
-138,Cy Bernardot,Poland,Portugal,77,PyQt,"Tuberculosis of hip, tubercle bacilli found (in sputum) by microscopy",41.8,true
-139,Kerry Bulfield,China,Tajikistan,14,RFLP,Congenital hiatus hernia,35.9,true
-140,Tabbie Raysdale,Belarus,Indonesia,17,Kyphoplasty,Accidental poisoning by other specified corrosives and caustics not elsewhere classified,40.2,true
-141,Vernice Bertelmot,Dominican Republic,Indonesia,8,Brand Architecture,Railway accident involving collision with other object and injuring other specified person,35.3,true
-142,Devan Woodyatt,Sweden,North Korea,3,Real Estate Transactions,Adrenal hemorrhage of fetus or newborn,36.6,false
-143,Joell Grayshon,China,Sweden,51,PVST+,"Tuberculosis of bladder, bacteriological or histological examination not done",36.3,false
-144,Sven Stapells,New Zealand,France,12,Music Videos,"Fracture, cause unspecified",40.8,false
-145,Gil Jindra,China,Palestinian Territory,55,PPBES,"Unspecified complication of procedure, not elsewhere classified",38.3,true
-146,Daniella Paulson,Finland,United States,84,IT Audit,Multiple open fractures of hand bones,35.6,true
-147,Violette Prebble,Afghanistan,Ghana,82,UFS,Mixed pediculosis infestation,40.6,true
-148,Lorettalorna Shatliffe,Russia,Philippines,30,Sqoop,Accident caused by travel and motion,41.4,false
-149,Finlay Poge,Portugal,Portugal,48,AOG,"Primary tuberculous infection, unspecified, tubercle bacilli found (in sputum) by microscopy",35.2,true
-150,Stafani Noah,China,Indonesia,90,MVC Architecture,Suicide and self-inflicted poisoning by unspecified drug or medicinal substance,37.7,true
-151,Jabez Keiley,Indonesia,Vietnam,29,Wound Care,Other specified air transport accidents injuring occupant of commercial aircraft (powered) in surface to air transport,40.4,false
-152,Robbyn Adamolli,Russia,Portugal,86,Therapeutic Massage,Other myopathies,35.5,false
-153,Lilias Bagnal,Russia,Greece,78,CSM,Other specified congenital anomalies of face and neck,39.3,false
-154,Nahum Duffet,Canada,Finland,7,ISO,"Injury to other intra-abdominal organs with open wound into cavity, retroperitoneum",39.1,true
-155,Andre Janouch,Poland,Canada,70,IEC 61850,"Cleft lip, bilateral, incomplete",35.2,true
-156,Annice Corradengo,Poland,United States,62,Eiffel,Other lower urinary tract calculus,35.7,true
-157,Jarvis Sidworth,Russia,China,73,Event Photography,"Tuberculosis of other specified organs, tubercle bacilli found (in sputum) by microscopy",39.5,true
-158,Kerrie Vayro,China,United States,21,Cinematography,Lower limb vessel anomaly,37.4,true
-159,Mignonne Walkley,China,Philippines,57,Pain Management,Other ectopic pregnancy without intrauterine pregnancy,36.6,true
-160,Kamillah Stallard,Cyprus,Russia,33,Social Media Blogging,Injury due to war operations by unintentional discharge of own munitions launch device,35.8,false
-161,Marcelo Cowperthwaite,France,Philippines,68,Organizational Effectiveness,Human immunodeficiency virus (HIV) counseling,36.5,false
-162,Jacquie Goodman,Nigeria,China,27,Internal Audit,Stress fracture of other bone,39.3,true
-163,Heddie McCane,Peru,Angola,35,DTE,"Mycosis fungoides, unspecified site, extranodal and solid organ sites",36.5,false
-164,Nessa Upward,Brazil,Philippines,35,RPG Free,"Fetal malnutrition without mention of ""light-for-dates"", 1,500-1,749 grams",41.7,true
-165,Irita Spours,Nigeria,Kuwait,32,Rx,Shigella sonnei,40.6,false
-166,Harmonia Bolte,Philippines,Thailand,78,Vsftpd,Malignant neoplasm of thyroid gland,36.3,false
-167,Padgett Haile,Belarus,Chad,17,Multiplex PCR,Poisoning by methadone,40.9,true
-168,Arielle Durman,Gambia,Philippines,2,Two-way Radio,"Osteoarthrosis, localized, secondary, pelvic region and thigh",37.3,true
-169,Loleta Stewartson,France,China,26,Zen,Suicide and self-inflicted poisoning by liquefied petroleum gas distributed in mobile containers,36.3,true
-170,Jone Upham,Lithuania,China,24,Zendesk,"Other and unspecified superficial injury of elbow, forearm, and wrist, without mention of infection",38.3,false
-171,Mellicent Sheward,Czech Republic,China,67,Fedora,Other nonspecific abnormal results of function study of brain and central nervous system,37.3,false
-172,Wilden Setch,Thailand,Indonesia,73,nCode,Other viral hepatitis carrier,40.3,true
-173,Gavrielle Cribbins,Nigeria,United States,39,NX Unigraphics,Other acute and subacute respiratory conditions due to fumes and vapors,38.9,false
-174,Nerita Hillan,China,Jamaica,41,Sound FX Editing,Senile atrophy of choroid,38.1,true
-175,Raphael Bickerdicke,Egypt,Hungary,64,IWR,Alcoholic cirrhosis of liver,39.4,true
-176,Angelia Eddleston,France,Argentina,50,CMOS,"Allergic arthritis, site unspecified",38.8,false
-177,Devin Wase,Mexico,China,61,Sellers,"Maternal hypotension syndrome, delivered, with mention of postpartum complication",41.6,false
-178,Zorana Brockway,Portugal,Panama,90,NCLB,"Genitourinary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy",36.1,true
-179,Berk Kobiera,China,Philippines,30,Contract Negotiation,"Unspecified multiple gestation, unspecified as to episode of care or not applicable",35.7,true
-180,Moselle Sicha,Bulgaria,Russia,30,FTPS,"Hodgkin's paragranuloma, lymph nodes of multiple sites",39.3,true
-181,Turner Dimberline,Russia,Russia,26,Accounts Receivable,Accidental poisoning by petroleum solids,39.8,false
-182,Onfre Puffett,Russia,Poland,89,ISO 27001,"Pneumonia due to Streptococcus, unspecified",37.7,true
-183,Yvon Dubery,Argentina,Japan,30,Slate,Need for prophylactic vaccination and inoculation against viral hepatitis,40.9,true
-184,Clementine Gosland,Indonesia,China,47,Aerospace Industries,"Illegally induced abortion, complicated by embolism, complete",40.9,false
-185,Gelya Robet,China,Indonesia,79,Portfolio Management,Other serum reaction due to vaccination,38.2,false
-186,Steffen Duly,Syria,Tunisia,69,Presentation Skills,Edema of eyelid,41.5,false
-187,Bidget Jursch,Peru,Portugal,7,KOL Development,Supervision of high-risk pregnancy with elderly primigravida,35.1,false
-188,Aurore Huet,Indonesia,Russia,61,DSE Assessments,Procedure not carried out for other reasons,39.1,true
-189,Bobbee Vaskin,Japan,Iraq,30,Epistemology,Other viral conjunctivitis,35.4,false
-190,Paxton Ogilvy,China,South Africa,11,WWII,Injury to brachial plexus due to birth trauma,37.8,true
-191,Berkly Hender,France,China,10,Journalism,"Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",40.0,true
-192,Mandel Brookton,Brazil,Kazakhstan,38,Iron Ore,"Acute gingivitis, plaque induced",41.6,true
-193,Lorrayne Probetts,Afghanistan,Thailand,57,Store Operations,Personal history of cervical dysplasia,41.3,false
-194,Mabelle Reubbens,Dominican Republic,Netherlands,76,Strategy,"Tuberculosis of thyroid gland, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",37.2,false
-195,Hamel Swyne,Lebanon,Philippines,25,History,Louping ill,39.2,true
-196,Yasmin Aberdein,Canada,Japan,38,New Business Development,Suicide and self-inflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers,36.0,false
-197,Elsie MacGibbon,Brazil,Sweden,46,SNP genotyping,Hereditary optic atrophy,37.9,false
-198,Almire Beadman,United States,France,51,Workforce Planning,"Tuberculosis of kidney, unspecified",37.9,false
-199,Pauli Morby,Dominican Republic,Portugal,9,Pivot Tables,"Unspecified venous complication of pregnancy and the puerperium, unspecified as to episode of care or not applicable",38.1,false
-200,Petronille Stookes,Poland,Canada,20,MMR,"Abrasion or friction burn of hip, thigh, leg, and ankle, infected",35.9,true
+1,Kimmie McKune,Portugal,Morocco,24,Exclusive 4th generation intranet,Ill-defined closed fractures of upper limb,36.4,false
+2,Alice Clemon,Liechtenstein,Indonesia,30,Polarised coherent contingency,Occlusion and stenosis of other specified precerebral artery with cerebral infarction,38.7,true
+3,Chrissy Carrivick,United States,France,28,Open-source solution-oriented task-force,"Burn [any degree] involving 10-19 percent of body surface with third degree burn, 10-19%",36.0,false
+4,Michaelina Muttitt,Indonesia,United States,34,Up-sized value-added Graphic Interface,Unspecified disease of sebaceous glands,38.4,false
+5,Isa Stoaks,Iran,Poland,5,Operative attitude-oriented open architecture,"Maternal distress complicating labor and delivery, antepartum condition or complication",35.8,false
+6,Joann Menendez,Indonesia,China,31,Extended system-worthy forecast,Unspecified disorder of adrenal glands,39.4,true
+7,Petronella Challens,South Korea,Philippines,5,Digitized bottom-line support,Better eye: severe vision impairment; lesser eye: profound vision impairment,38.4,false
+8,Hobart Burchett,Indonesia,Slovenia,9,Progressive 24 hour complexity,"Pain in joint, multiple sites",36.8,false
+9,Donnamarie Osborne,Mexico,Indonesia,12,Universal directional secured line,Vomiting of fecal matter,38.2,false
+10,Ambur Callender,Costa Rica,Sweden,34,Secured needs-based policy,"Legally induced abortion, with other specified complications, complete",37.6,false
+11,Eba Stubbings,China,Costa Rica,1,Face to face motivating protocol,Closed fracture of unspecified bone(s) of foot [except toes],37.3,true
+12,Maressa Kassel,China,Argentina,34,Programmable zero tolerance initiative,Closed fracture of lower end of radius with ulna,37.2,false
+13,Mable Knivett,Greece,Indonesia,17,Function-based transitional capacity,Primary cerebellar degeneration,39.1,false
+14,Zabrina Meeron,Cameroon,China,24,Compatible zero defect analyzer,Hypersecretion glaucoma,38.6,true
+15,Cristobal Maso,Democratic Republic of the Congo,Malaysia,16,Triple-buffered human-resource solution,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",36.8,false
+16,Reinhold Imlacke,Barbados,China,27,Exclusive directional throughput,Unspecified disorder of biliary tract,35.8,false
+17,Alyss Kyne,Indonesia,Philippines,24,Intuitive 6th generation moratorium,Other specified viral hepatitis with hepatic coma,35.5,true
+18,Bendix Woolley,Paraguay,Indonesia,11,Synergistic analyzing frame,"Open fracture of base of skull with cerebral laceration and contusion, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level",39.0,false
+19,Raul Bengle,Sierra Leone,Indonesia,20,Switchable 24/7 parallelism,"Open fracture of vault of skull with intracranial injury of other and unspecified nature, with loss of consciousness of unspecified duration",36.6,false
+20,Kikelia Abramchik,Norway,Brazil,35,Front-line object-oriented workforce,"Other problems with head, neck, and trunk",35.4,false
+21,Palmer Catcherside,Gabon,Indonesia,4,Stand-alone value-added conglomeration,"Rubella in the mother, unspecified as to episode of care or not applicable",35.4,true
+22,Zahara Desforges,China,Sweden,11,Mandatory fresh-thinking challenge,Unspecified disorder of conjunctiva,37.3,true
+23,Antonino Wigmore,China,Russia,29,Compatible regional firmware,Antiasthmatics causing adverse effects in therapeutic use,35.4,false
+24,Zorana Webbe,China,Indonesia,21,Public-key fresh-thinking hub,"Closed fracture of base of skull with other and unspecified intracranial hemorrhage, with no loss of consciousness",38.7,true
+25,Tulley Lowdes,Indonesia,Indonesia,3,Re-contextualized composite alliance,"Open fracture of base of skull with cerebral laceration and contusion, with no loss of consciousness",39.0,true
+26,Jennica Mordin,Morocco,China,5,Secured 3rd generation conglomeration,Common variable immunodeficiency,37.4,false
+27,Morten Bratch,Colombia,South Africa,10,Profound 4th generation paradigm,Closed fracture of five ribs,38.4,false
+28,Jillana MacGillreich,Portugal,Netherlands,13,Programmable transitional infrastructure,"Unspecified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)",38.1,false
+29,Padraig Waylen,Indonesia,United States,18,Progressive web-enabled hardware,Exostosis of orbit,36.0,false
+30,Daren Cheney,Palestinian Territory,Canada,7,Multi-channelled systematic function,"Prolapse of cord complicating labor and delivery, antepartum condition or complication",36.2,true
+31,Verna Fells,Brazil,Peru,24,Cross-group neutral array,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled",36.9,true
+32,Clerc Hallaways,French Polynesia,Sweden,29,Exclusive full-range function,Toxic effect of chlorinated hydrocarbons,38.6,false
+33,Flem Joskowicz,Uganda,Portugal,8,Decentralized background analyzer,Emancipation disorder of adolescence and early adult life,36.2,false
+34,Roxanna Kensy,Argentina,Russia,30,Devolved disintermediate protocol,Empyema with fistula,36.3,false
+35,Vail Obal,Peru,Uzbekistan,5,Organic didactic artificial intelligence,Fibroadenosis of breast,36.2,true
+36,Fanni Brounfield,China,Indonesia,26,Polarised composite definition,"Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy",37.5,false
+37,Lorain Foskew,Philippines,China,9,Ameliorated heuristic neural-net,Other motor vehicle nontraffic accident involving collision with moving object injuring other specified person,36.4,true
+38,Lenette Lambourn,Iran,Brazil,13,Managed systematic installation,Burn of unspecified degree of single digit (finger (nail) other than thumb,37.9,true
+39,Donny Calliss,Uganda,Indonesia,9,Fundamental interactive infrastructure,Talipes equinovarus,36.4,true
+40,Ambrosi Pagden,Mexico,Angola,16,Cross-group multimedia artificial intelligence,"Other preterm infants, 1,250-1,499 grams",39.3,true
+41,Doti Loddy,China,Japan,10,Sharable next generation benchmark,Other causes of encephalitis and encephalomyelitis,37.5,true
+42,Babbette Albisser,Brazil,Sweden,15,Mandatory bi-directional portal,"Cavus deformity of foot, acquired",36.0,false
+43,Caresa Gepp,Mexico,Sweden,13,Synergistic context-sensitive matrix,"Placenta previa without hemorrhage, antepartum condition or complication",35.9,true
+44,Roanna Thurlborn,China,Honduras,26,Switchable human-resource analyzer,Closed fracture of coronoid process of ulna,37.2,true
+45,Eugine Golthorpp,China,Portugal,1,Implemented maximized info-mediaries,Activities involving milking an animal,36.4,true
+46,Margret Matevushev,Indonesia,Sweden,2,Configurable leading edge firmware,"Poisoning by other cathartics, including intestinal atonia",37.9,false
+47,Madelaine Dionsetti,Serbia,France,6,Reverse-engineered eco-centric access,"Suspected damage to fetus from radiation, affecting management of mother, delivered,",37.2,false
+48,Calv Archdeckne,China,China,18,Optional system-worthy alliance,"Hallucinogen abuse, unspecified",38.1,true
+49,Candice Snarie,Indonesia,Serbia,21,Balanced executive conglomeration,Suicide and self-inflicted poisoning by other and unspecified solid and liquid substances,35.7,false
+50,Effie Gauson,South Korea,Philippines,21,Realigned asymmetric productivity,"Hodgkin's disease, unspecified type, intrapelvic lymph nodes",36.8,true
+51,Candida Greder,Peru,Portugal,33,Up-sized disintermediate website,Accidental poisoning by methadone,36.0,true
+52,Claire Gargett,Malaysia,Nigeria,16,Object-based actuating framework,"Other preterm infants, unspecified [weight]",37.4,false
+53,Max Maccrae,Russia,Germany,16,Expanded bifurcated array,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring rider of animal; occupant of animal-drawn vehicle,38.7,true
+54,Isador Bidewel,Nigeria,Argentina,27,Distributed encompassing help-desk,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",37.3,true
+55,Arlie Swainger,Mexico,Afghanistan,13,Future-proofed bottom-line model,Mechanical complication of tracheostomy,36.8,false
+56,Nana Boag,China,Brazil,34,Organic human-resource neural-net,Pedal cycle accident injuring other specified person,35.7,true
+57,Virginia Dennant,Peru,Philippines,4,User-centric asynchronous Graphical User Interface,Suicide and self-inflicted injury by electrocution,38.4,true
+58,Lynett Probert,Indonesia,China,11,Virtual object-oriented utilisation,Contusion of multiple sites of lower limb,38.0,false
+59,Zach Swane,Russia,Peru,27,Fully-configurable global task-force,"Varicose veins of legs complicating pregnancy and the puerperium, delivered, with mention of postpartum complication",38.1,false
+60,Kalindi Benko,Palestinian Territory,Indonesia,1,Multi-lateral secondary methodology,Other apnea of newborn,38.3,false
+61,Lari Gallico,Luxembourg,Sweden,34,Reactive hybrid structure,Chronic glomerulonephritis in diseases classified elsewhere,36.5,false
+62,Franchot Soots,Indonesia,United States,2,Pre-emptive foreground concept,"Aftercare following surgery of the sense organs, NEC",36.5,true
+63,Mariquilla Jacquet,France,Burkina Faso,18,Profit-focused secondary projection,Benign neoplasm of other specified sites of female genital organs,36.4,false
+64,Engelbert Gumn,Czech Republic,France,4,Cloned uniform framework,"Tear of medial cartilage or meniscus of knee, current",36.1,true
+65,Miquela Borrow,Canada,Sweden,26,Exclusive client-driven intranet,"Disorder of eye, unspecified",36.4,true
+66,Taylor Moffet,Democratic Republic of the Congo,Kuwait,26,Public-key client-server capacity,Unemployment,35.1,true
+67,Lydia Dalli,Russia,Russia,7,Upgradable multi-state ability,"Fetal complications from in utero procedure, delivered, with or without mention of antepartum condition",36.3,true
+68,Melisandra Chadburn,Russia,China,3,Down-sized exuding info-mediaries,Conjunctival pigmentations,38.9,true
+69,Junette Guiso,China,Indonesia,18,Virtual local instruction set,"Arthropathy in Behcet's syndrome, hand",37.5,true
+70,Lauretta Daniele,Armenia,France,34,Realigned leading edge customer loyalty,"Osteoarthrosis, unspecified whether generalized or localized, hand",36.1,false
+71,Constancy MacAllen,Azerbaijan,Germany,5,Business-focused didactic help-desk,Refusal of treatment for reasons of religion or conscience,35.7,false
+72,Gayel Wellfare,China,Slovenia,21,Sharable holistic benchmark,Tachypnea,37.9,false
+73,Gavan Forrester,Sweden,Poland,23,Pre-emptive bottom-line service-desk,"Secondary neuroendocrine tumor, unspecified site",37.7,false
+74,Giulietta Pollington,Philippines,China,30,De-engineered optimizing time-frame,Accidental poisoning by agents primarily affecting blood constituents,38.2,false
+75,Noah Perrone,Philippines,Somalia,31,Business-focused content-based leverage,Other organic sleep related movement disorders,38.7,true
+76,Mathias Dusting,Japan,Poland,31,Customer-focused fresh-thinking installation,Malignant neoplasm of pylorus,37.0,true
+77,Erich Clifton,China,Albania,22,Decentralized impactful system engine,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",38.5,false
+78,Alexandra Linne,China,Mexico,13,User-centric attitude-oriented orchestration,"Breech extraction, without mention of indication, unspecified as to episode of care or not applicable",37.0,false
+79,Davidde Cotton,Poland,Portugal,20,Profit-focused local project,"Squamous cell carcinoma of skin, site unspecified",37.4,true
+80,Caryl Joysey,Russia,Georgia,20,Sharable even-keeled moderator,Other hyperalimentation,35.7,false
+81,Cecelia Obee,Russia,Philippines,6,User-friendly tertiary hardware,"Injury to rectum, without mention of open wound into cavity",36.7,false
+82,Lazar Kyle,China,Poland,34,Distributed logistical synergy,Inclusion conjunctivitis,36.8,false
+83,Angil Lovekin,Poland,Indonesia,17,Versatile non-volatile extranet,Benzodiazepine-based tranquilizers causing adverse effects in therapeutic use,35.7,true
+84,Vivienne Klosterman,Ukraine,Bulgaria,11,Advanced value-added secured line,"Full-thickness skin loss [third degree,not otherwise specified] of breast",35.0,false
+85,Crichton Dimitriou,Indonesia,Ukraine,17,Configurable value-added encryption,Reye's syndrome,37.7,true
+86,Ali Poletto,Russia,France,24,Down-sized eco-centric intranet,"Infection and inflammatory reaction due to unspecified device, implant, and graft",37.6,false
+87,Ilise Caughtry,Portugal,Indonesia,12,Cloned asymmetric knowledge base,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",37.6,true
+88,Courtnay Bodimeade,Belarus,China,35,Expanded 24/7 matrices,"Open fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",38.1,true
+89,Inigo Fearnside,Japan,Poland,15,Persistent holistic installation,"Tuberculous pleurisy, bacteriological or histological examination not done",37.5,true
+90,Kaspar Guillford,Serbia,Indonesia,8,Cross-group mission-critical system engine,"Breech presentation without mention of version, antepartum condition or complication",38.8,false
+91,Dehlia McGeady,China,Burundi,24,Innovative transitional website,"Secondary syphilis, relapse",37.3,true
+92,Weylin Luxen,Russia,Nigeria,5,Fundamental reciprocal database,Undescended testis,38.0,false
+93,Harmonie Carnalan,Pakistan,Portugal,11,Programmable global framework,"Congenital or acquired abnormality of vulva, delivered, with mention of postpartum complication",37.2,false
+94,Ginelle Skews,Zambia,Egypt,29,Monitored discrete matrices,Antitussives causing adverse effects in therapeutic use,38.1,false
+95,Elisabeth Loveard,Indonesia,China,24,Function-based zero defect strategy,"Ankylosis of joint, shoulder region",37.8,true
+96,Mame Winchester,Ukraine,China,1,Future-proofed foreground application,"Dental caries, unspecified",36.5,true
+97,Sibbie Ivett,Israel,China,31,Robust didactic contingency,Glaucoma associated with ocular trauma,35.6,false
+98,Karee Blakeston,Syria,Djibouti,12,Cross-platform interactive paradigm,Open fracture of sixth cervical vertebra,38.6,false
+99,Martica Grastye,France,Czech Republic,26,Enhanced bifurcated application,"Chondrocalcinosis, due to pyrophosphate crystals, forearm",36.8,true
+100,Nola Hardison,China,Afghanistan,26,Ergonomic 3rd generation architecture,Sympatholytics [antiadrenergics] causing adverse effects in therapeutic use,37.4,false
+101,Katina Scotchford,China,Venezuela,34,Assimilated static framework,Hypervitaminosis D,35.9,true
+102,Corbie Kennedy,Russia,Brazil,6,Focused coherent support,Ovulation bleeding,36.7,false
+103,Rosalynd Prendeville,China,China,26,Ergonomic 24 hour service-desk,Polyneuropathy due to other toxic agents,37.5,false
+104,Serene Sisland,Portugal,China,27,Synergized solution-oriented strategy,"Accident to powered aircraft at takeoff or landing injuring occupant of military aircraft, any",36.7,true
+105,Tyne Frude,North Korea,Philippines,27,Automated needs-based knowledge user,Hepatopulmonary syndrome,36.2,false
+106,Padraig Parry,China,Iran,23,Reverse-engineered modular instruction set,Disorders of hypoglossal [12th] nerve,36.6,true
+107,Danyelle Jaquiss,France,Mexico,20,Customer-focused maximized monitoring,"Hand, except finger injury",35.3,true
+108,Karlens Lynthal,China,Russia,26,Switchable system-worthy productivity,Wheelchair dependence,37.2,false
+109,Jordon Hebborne,Indonesia,Bosnia and Herzegovina,9,Triple-buffered holistic service-desk,Vulvar intraepithelial neoplasia I [VIN I],38.1,false
+110,Devinne Deetlefs,Georgia,Poland,33,Virtual client-driven data-warehouse,Hb-SS disease with crisis,38.9,true
+111,Fran Mantz,Poland,China,30,Profit-focused well-modulated structure,Poisoning by alcohol deterrents,37.0,false
+112,Melody Jerzykiewicz,China,China,13,Automated next generation knowledge base,Other headache syndromes,38.7,true
+113,Leila Shevell,United States,China,25,Mandatory modular forecast,Personal history of sudden cardiac arrest,35.0,false
+114,Jacqui Pettiford,France,China,11,Persistent content-based toolset,"Blisters, epidermal loss [second degree] of palm",37.6,false
+115,Marylynne Pascow,Peru,Indonesia,27,Focused zero administration knowledge user,Nonspecific (abnormal) findings on radiological and other examination of other intrathoracic organs,35.6,true
+116,Vaughn Ayling,Peru,China,5,Face to face systematic Graphic Interface,Screening examination for smallpox,37.3,true
+117,Tulley Wasbrough,China,Italy,21,De-engineered user-facing synergy,"Maternal pyrexia during labor, unspecified, unspecified as to episode of care or not applicable",38.0,false
+118,Reidar Dowdall,Japan,Czech Republic,14,Optimized zero administration time-frame,Other symptoms referable to back,36.0,true
+119,Clo Philcott,Chile,Portugal,35,Switchable needs-based neural-net,Zygomycosis [Phycomycosis or Mucormycosis],36.4,true
+120,Milka Goulder,Czech Republic,China,32,Reduced leading edge task-force,Acute venous embolism and thrombosis of other specified veins,37.5,true
+121,Todd Stener,China,Egypt,7,Enterprise-wide value-added adapter,Pneumococcal peritonitis,36.1,true
+122,Brena Warrilow,Argentina,Sweden,3,Organic full-range collaboration,"Undersocialized conduct disorder, unaggressive type, severe",37.5,false
+123,Flinn Paulin,Tanzania,Ethiopia,8,Right-sized content-based analyzer,Accidental poisoning by other and unspecified insecticides,39.3,false
+124,Howey Guiduzzi,Philippines,China,4,Progressive next generation monitoring,"Closed dislocation, vertebra, other",37.7,false
+125,Alvira Statham,China,Czech Republic,15,Progressive foreground workforce,Traumatic compartment syndrome of abdomen,35.2,true
+126,Valeda Allred,Iran,Tunisia,26,Integrated multi-state extranet,"Mitral and aortic valve diseases, unspecified",38.1,true
+127,Ludovico Gosnold,Argentina,Portugal,24,Decentralized context-sensitive structure,Other external cause status,38.8,true
+128,Dorine Akast,Poland,Portugal,24,Optimized zero administration structure,"Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy",35.7,true
+129,Teressa Blacktin,China,Togo,13,Up-sized holistic moratorium,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",38.1,false
+130,Hildagard Fishleigh,Indonesia,China,33,Sharable bottom-line Graphic Interface,Balanitis xerotica obliterans,36.9,true
+131,Nichole Simkovich,United States,Sweden,2,Cloned responsive neural-net,"Open dislocation of finger, unspecified part",38.3,true
+132,Abbie Stoile,Zambia,Poland,6,Customer-focused asynchronous monitoring,Open inferior dislocation of humerus,37.1,false
+133,Christie Gemelli,France,Greece,22,Innovative transitional frame,Drug induced sleep disorders,36.5,false
+134,Michal O'Glessane,Myanmar,China,4,Balanced 24/7 implementation,"Tuberculous encephalitis or myelitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",37.5,false
+135,Eloise Claringbold,Brazil,Brazil,14,Grass-roots holistic implementation,"Other malignant lymphomas, lymph nodes of axilla and upper limb",37.5,true
+136,Maible Hardwell,China,Tanzania,27,Fully-configurable incremental complexity,Closed dislocation of midtarsal (joint),36.8,false
+137,Hedvige MacCoveney,Botswana,Mexico,14,Configurable human-resource firmware,"Other complications of obstetrical surgery and procedures, antepartum condition or complication",37.1,true
+138,Thorsten Godfery,China,Bulgaria,14,Streamlined neutral array,Accident due to excessive cold of unspecified origin,37.2,true
+139,Ethyl Worters,Ukraine,Latvia,10,Horizontal tangible instruction set,Argentous corneal deposits,37.0,true
+140,Cathee Audsley,China,Nigeria,1,User-friendly neutral Graphical User Interface,Asymptomatic postmenopausal status (age-related) (natural),36.8,true
+141,Yankee Hatfull,China,Philippines,33,Inverse multimedia budgetary management,Unspecified hemorrhagic conditions,37.9,true
+142,Dalton Calley,France,Saudi Arabia,13,Customer-focused 5th generation database,Coronary artery anomaly,36.0,true
+143,Luz Mitcheson,Brazil,Brazil,23,Organized zero administration capacity,"Unspecified trauma to perineum and vulva, delivered, with or without mention of antepartum condition",37.0,false
+144,Melicent Conisbee,Poland,Thailand,5,Team-oriented incremental superstructure,"Tuberculous abscess of spinal cord, unspecified",38.1,false
+145,Waverly Chimienti,South Africa,China,31,Progressive hybrid conglomeration,"Closed dislocation, cervical vertebra, unspecified",38.3,false
+146,Elva Hatfull,Sweden,Indonesia,35,Grass-roots background moratorium,Old disruption of lateral collateral ligament,38.2,true
+147,Jackquelin Izkovici,Indonesia,Russia,11,Down-sized exuding customer loyalty,Other organic parasomnia,38.6,false
+148,Goober Hurles,Indonesia,China,35,Networked solution-oriented matrix,Delivery by vacuum extractor affecting fetus or newborn,37.7,false
+149,Odette Lugsdin,Thailand,Poland,22,Stand-alone intangible functionalities,Central serous retinopathy,35.5,true
+150,Annemarie Traice,China,Vietnam,15,Total explicit pricing structure,Toxic cataract,36.3,false
+151,Jonell Parrot,China,Poland,33,Streamlined bifurcated Graphical User Interface,Other symptoms involving digestive system,38.1,true
+152,Neill Cluer,Azerbaijan,Russia,21,Seamless static middleware,"Acute myocardial infarction of anterolateral wall, initial episode of care",39.1,true
+153,Annamaria Crisell,Taiwan,Russia,2,Front-line static initiative,"Malignant mast cell tumors, lymph nodes of multiple sites",39.4,false
+154,Maddie Barcke,Brazil,Vietnam,22,Organized systemic parallelism,Parasitic conjunctivitis,37.1,true
+155,Jerry Cattini,Indonesia,China,10,Persistent regional parallelism,"Carcinoma in situ of skin of lower limb, including hip",38.6,true
+156,Kendrick Doers,Paraguay,Indonesia,2,Cloned directional matrix,"Partial edentulism, class II",39.4,true
+157,Ernst Wisker,Brazil,China,35,Profound 5th generation protocol,"Cortex (cerebral) laceration without mention of open intracranial wound, with concussion, unspecified",35.4,true
+158,Jillie Neagle,Japan,Poland,31,Expanded solution-oriented product,Intermittent explosive disorder,35.5,true
+159,Audrey Kubacki,Thailand,China,18,Polarised 6th generation hardware,"Other problems with head, neck, and trunk",36.5,true
+160,Rancell Thomasen,Russia,Japan,6,Managed maximized system engine,Suicide and self-inflicted poisoning by other specified gases and vapors,38.0,false
+161,Pancho Shutt,Peru,Indonesia,28,Intuitive multimedia moderator,"Amphetamine or related acting sympathomimetic abuse, in remission",35.7,false
+162,Waverly Stronghill,Colombia,Mali,2,Customizable needs-based workforce,"Injury to other gastrointestinal sites, with open wound into cavity",39.1,true
+163,Donia Piel,China,Japan,5,Profound multimedia leverage,"Corneal opacities, interfering with vision, congenital",35.4,true
+164,Iggy Miall,Portugal,China,21,Versatile human-resource protocol,Other specified allergic alveolitis and pneumonitis,36.4,false
+165,Dorotea Brasener,Botswana,China,34,Expanded systemic Graphic Interface,Other specified neurosyphilis,37.9,false
+166,Ashby Beggan,China,Indonesia,11,Inverse 24 hour migration,Memory loss,35.5,true
+167,Madlin Peagram,Bosnia and Herzegovina,Peru,23,Automated systematic ability,"Thoracoabdominal aneurysm, ruptured",35.9,true
+168,Isabelle Fewings,Philippines,Belarus,8,Proactive fault-tolerant interface,Closed supracondylar fracture of femur,35.4,false
+169,Laurens Binfield,Hungary,Argentina,32,Business-focused 3rd generation flexibility,"Tuberculoma of spinal cord, bacteriological or histological examination unknown (at present)",39.2,false
+170,Fons Damrell,Kazakhstan,Kazakhstan,14,Team-oriented contextually-based protocol,Atrial fibrillation,36.5,false
+171,Binky Hedley,Indonesia,Czech Republic,16,Stand-alone bi-directional capacity,Organic writers' cramp,38.7,true
+172,Diena Ceschi,Indonesia,Peru,27,Balanced background software,"Open wound of forehead, without mention of complication",36.1,true
+173,Devy Reape,Indonesia,Sweden,1,Compatible zero defect contingency,Hallux malleus,38.3,false
+174,Carlos Sowman,Philippines,Brazil,27,Configurable executive policy,Accretions on teeth,36.4,true
+175,Moise Dimmack,Faroe Islands,China,6,Compatible high-level firmware,Late effects of accidental poisoning,39.0,true
+176,Cornelle Eltone,Indonesia,Indonesia,9,Compatible mobile contingency,"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring other specified person",35.2,false
+177,Umeko Sandells,Russia,Argentina,3,Robust national initiative,Noncollision motor vehicle traffic accident while boarding or alighting injuring passenger in motor vehicle other than motorcycle,38.8,true
+178,Frasquito Tomasek,Germany,Greece,15,Innovative high-level installation,"Arthropathy associated with other viral diseases, pelvic region and thigh",35.2,true
+179,Claybourne Self,Brazil,Argentina,34,Public-key logistical benchmark,"Polycystic kidney, autosomal recessive",35.7,false
+180,Harlan O' Clovan,Uruguay,Mexico,15,Self-enabling responsive methodology,Injury to bronchus with open wound into cavity,37.4,false
+181,Alic Wicklin,Bulgaria,Russia,15,Optimized composite architecture,"Arthropathy, unspecified, pelvic region and thigh",38.7,true
+182,Donnajean Lambourne,China,Brazil,8,Up-sized interactive encoding,"Closed fracture of vault of skull with other and unspecified intracranial hemorrhage, with loss of consciousness of unspecified duration",39.1,false
+183,Wilhelmina Mintoff,Bangladesh,Ukraine,15,Innovative explicit definition,"Other immunoproliferative neoplasms, in relapse",35.8,false
+184,Xerxes Tzarkov,Iran,South Africa,25,Managed composite access,Laryngeal spasm,37.1,true
+185,Ker Nortcliffe,China,China,13,Stand-alone reciprocal ability,"Infections of genitourinary tract in pregnancy, delivered, with or without mention of antepartum condition",36.6,false
+186,Theadora Sowood,Brazil,Poland,28,Configurable real-time approach,"Unspecified disorder of joint, upper arm",35.5,true
+187,Neda Volet,Indonesia,Nepal,6,Fully-configurable zero administration matrix,"Corneal deformity, unspecified",38.8,true
+188,Maurizia Rosendale,Pakistan,Uzbekistan,30,Reduced exuding archive,Specified anomalies of hair,36.0,true
+189,Dannel Shall,Philippines,Indonesia,32,Versatile value-added task-force,"Fracture of calcaneus, open",37.0,true
+190,Gwenneth Munson,Syria,Ukraine,1,Persevering modular concept,"Tuberculosis of bronchus, unspecified",38.2,true
+191,Josepha Gauchier,Peru,France,20,Proactive background knowledge user,"Tuberculosis of mastoid, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",38.9,false
+192,Kippar Lowndesbrough,Venezuela,China,7,User-friendly scalable core,Dermatitis due to drugs and medicines taken internally,35.1,true
+193,Archer Beranek,Serbia,Philippines,3,Robust heuristic matrices,Other peripheral enthesopathies,38.8,true
+194,Terri Karpenko,Sweden,China,13,Upgradable needs-based database,Injury due to depth charge,37.8,true
+195,Liva Ausiello,United States,France,11,Right-sized motivating pricing structure,Neoplasm of uncertain behavior of placenta,39.1,true
+196,Alistair Eilhermann,Djibouti,Russia,31,Secured web-enabled initiative,Open fracture of acetabulum,37.9,false
+197,Artus Shakespeare,Russia,Russia,19,Public-key clear-thinking artificial intelligence,"Stiffness of joint, not elsewhere classified, upper arm",37.3,false
+198,Nicol Beange,Portugal,Russia,24,Seamless contextually-based infrastructure,Closed fracture of unspecified vertebral column without mention of spinal cord injury,35.7,true
+199,Isadora Iannuzzelli,South Africa,Switzerland,20,Sharable scalable interface,"Other multiple pregnancy with fetal loss and retention of one or more fetus(es), delivered, with or without mention of antepartum condition",38.3,false
+200,Petra Mummery,Portugal,Brazil,8,Proactive mobile info-mediaries,Webbing of neck,39.5,true
+201,Edouard Tinman,China,Nicaragua,19,Centralized 4th generation pricing structure,"Other known or suspected fetal abnormality, not elsewhere classified, affecting management of mother, delivered, with or without mention of antepartum condition",35.9,false
+202,Orbadiah Witcombe,Philippines,China,26,Pre-emptive human-resource parallelism,"Macular degeneration (senile), unspecified",35.8,false
+203,Nanette Haeslier,China,Greece,14,Open-architected context-sensitive hub,Lattice degeneration,36.1,true
+204,Karrie Dyton,Indonesia,Ireland,2,Intuitive optimal hub,Renal agenesis and dysgenesis,36.7,true
+205,Carilyn Paddie,Czech Republic,Indonesia,22,Cross-group user-facing support,Encounter for insertion of intrauterine contraceptive device,36.9,false
+206,Frannie Anselmi,China,Mexico,28,Ameliorated human-resource structure,Penicillins causing adverse effects in therapeutic use,36.8,false
+207,Andras Absolom,Russia,China,25,Operative web-enabled analyzer,Unspecified deficiency anemia,38.1,false
+208,Gianina McEvilly,Honduras,Syria,31,Polarised systematic collaboration,Chronic pulmonary embolism,37.4,true
+209,Lamond Zannolli,Greece,China,10,Advanced contextually-based access,Accidental fall from commode,35.9,false
+210,Hanni Durkin,Poland,Armenia,18,Mandatory leading edge moderator,"Other and unspecified abnormality of organs and soft tissues of pelvis, delivered, with or without mention of antepartum condition",37.0,true
+211,Salome Helstrip,Indonesia,China,12,Total web-enabled info-mediaries,Pregnancy resulting from assisted reproductive technology,37.8,true
+212,Brigg Wootton,Colombia,China,32,Digitized impactful neural-net,Tics of organic origin,39.2,false
+213,Birgitta Miall,Cameroon,Colombia,10,Self-enabling didactic support,Acoustic trauma (explosive) to ear,38.6,true
+214,Hildy Walley,Russia,China,30,Stand-alone transitional project,Antiviral drugs causing adverse effects in therapeutic use,39.4,false
+215,Dina Lefley,France,Japan,33,Programmable discrete application,Unspecified disease of spinal cord,36.7,false
+216,Germana Proughten,Indonesia,Philippines,32,Operative exuding definition,Urinary frequency,35.7,false
+217,Renaud McSweeney,China,Colombia,27,Polarised actuating approach,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral",36.6,false
+218,Rubetta Shepperd,Portugal,Brazil,15,Self-enabling optimal extranet,"Failed forceps or vacuum extractor, unspecified, antepartum condition or complication",36.7,true
+219,Galven Larkworthy,Ireland,Indonesia,32,Grass-roots grid-enabled orchestration,Monoarticular juvenile rheumatoid arthritis,37.8,true
+220,Kristofer Moultrie,Canada,Haiti,33,Future-proofed grid-enabled task-force,"Acute myocardial infarction of other lateral wall, episode of care unspecified",35.8,true
+221,Oberon McKendo,Russia,Russia,7,Optimized 6th generation standardization,Other gonococcal infection (acute) of upper genitourinary tract,38.2,false
+222,Addy Goozee,Jordan,Brazil,30,Public-key real-time policy,"Opioid abuse, unspecified",37.8,false
+223,Erwin Peret,Bosnia and Herzegovina,Brazil,15,Pre-emptive bifurcated Graphic Interface,Fetal death from asphyxia or anoxia before onset of labor or at unspecified time,37.4,true
+224,Steward Loker,China,United States,25,Enhanced 4th generation data-warehouse,Personal history of other infectious and parasitic diseases,38.0,true
+225,Coraline Turtle,China,Syria,17,Profound fault-tolerant task-force,Late effect of injury due to war operations,38.9,false
+226,Dud McAllaster,United States,Niger,15,Configurable composite moratorium,Closed fracture of unspecified part of lower end of humerus,37.4,false
+227,Enrico Townend,China,Brazil,9,Switchable disintermediate open architecture,Other specified aftercare,38.2,true
+228,Alexandro Hatje,China,China,27,Robust context-sensitive product,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of eye (with other parts of face, head, and neck)",37.2,false
+229,Bent Burel,Thailand,Brazil,29,Intuitive interactive attitude,Orbital osteomyelitis,35.6,true
+230,Nerta Teresi,Mauritius,China,32,Customizable logistical policy,"Secondary diabetes mellitus without mention of complication, uncontrolled",36.0,false
+231,Meredeth Crosskill,Philippines,Albania,2,Focused 5th generation pricing structure,Retinal vasculitis,36.7,true
+232,Finlay Tuting,China,Denmark,2,Function-based hybrid emulation,Natural blood and blood products causing adverse effects in therapeutic use,39.2,false
+233,Mortimer Durning,Japan,Bulgaria,1,Profit-focused fresh-thinking workforce,Erythema multiforme minor,38.3,true
+234,Anne-corinne Skein,North Korea,China,21,Organic composite functionalities,"Open fracture of mandible, unspecified site",38.0,false
+235,Legra Wikey,China,China,29,Switchable local intranet,Benign neoplasm of breast,38.7,false
+236,Leonardo Balcombe,China,Marshall Islands,1,Versatile foreground data-warehouse,"Climacteric arthritis, other specified sites",36.3,false
+237,Greg Calvie,Vietnam,Thailand,4,Front-line mobile projection,"Reflex sympathetic dystrophy, unspecified",37.9,true
+238,Delinda Desvignes,Indonesia,Jamaica,7,Switchable dedicated infrastructure,"Open wound of chest (wall), complicated",39.3,false
+239,Nicholas Knighton,China,Sweden,2,Configurable explicit secured line,Malignant neoplasm of other specified sites of male genital organs,35.5,true
+240,Rae Oakwood,China,Russia,11,Focused coherent array,Deviated nasal septum,37.4,false
+241,Kerry Andrzejowski,United States,Indonesia,15,Programmable needs-based product,Benign neoplasm of vulva,38.6,true
+242,Silvia Beckingham,Thailand,Portugal,28,Stand-alone human-resource neural-net,"Spondylosis with myelopathy, thoracic region",36.9,true
+243,Irma Bubbear,Nigeria,Brazil,11,Multi-tiered context-sensitive encryption,Do not resuscitate status,38.0,true
+244,Raynor Kempston,Sweden,Cayman Islands,32,Organic solution-oriented info-mediaries,Pediculus corporis [body louse],39.5,false
+245,Lucas McGlue,Ivory Coast,China,35,Cloned web-enabled challenge,Poisoning by ovarian hormones and synthetic substitutes,37.7,true
+246,Cynthy Goede,Jordan,Japan,33,Networked asynchronous approach,Injury to internal carotid artery,36.6,false
+247,Jessee Deacon,Indonesia,China,34,Phased foreground strategy,Elevated blood pressure reading without diagnosis of hypertension,36.4,false
+248,Cynthea Itzchaki,Bulgaria,Poland,14,Re-engineered content-based capability,Other secondary aldosteronism,36.4,true
+249,Kore Falk,Ukraine,Poland,15,Profound discrete interface,Injury due to torpedo,36.3,true
+250,Lin Tite,United States,Philippines,22,Future-proofed tangible project,Tanapox,36.3,true
+251,Lombard Allden,Poland,China,2,Synchronised value-added definition,"Complications of transplanted organ, stem cell",35.3,false
+252,Reggi Eminson,Philippines,Indonesia,22,Managed homogeneous methodology,Spasm of sphincter of Oddi,37.5,false
+253,Maybelle Parell,Philippines,Indonesia,9,Intuitive heuristic interface,"Body Mass Index, pediatric, 85th percentile to less than 95th percentile for age",36.8,true
+254,Preston Pepperd,Thailand,China,1,Multi-lateral solution-oriented ability,"Abscess of breast associated with childbirth, antepartum condition or complication",39.3,false
+255,Ricki Hehl,China,Sweden,21,Exclusive responsive projection,"Temporomandibular joint disorders, unspecified",37.6,true
+256,Chrisy Life,Poland,Tanzania,29,Open-architected human-resource monitoring,Other specified arthropod-borne hemorrhagic fever,39.0,true
+257,Mirabelle Vasilenko,China,China,22,Advanced attitude-oriented core,Other specified noninflammatory disorders of vagina,36.4,true
+258,Delcina Morfey,Ukraine,China,25,Open-architected dynamic groupware,Hematoma complicating a procedure,35.8,false
+259,Kali Malkie,Mexico,Canada,29,Versatile hybrid task-force,Hereditary spastic paraplegia,38.4,false
+260,Angele Colwill,Greece,Russia,28,Open-architected background productivity,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of scalp [any part]",39.2,true
+261,Rachelle Dornin,China,Cameroon,28,Organized hybrid info-mediaries,Other primary cardiomyopathies,38.5,false
+262,Eachelle Earland,Brazil,Angola,16,Exclusive disintermediate contingency,Chronic pulmonary coccidioidomycosis,37.7,true
+263,Bear Gwatkins,Cuba,Peru,30,Innovative background database,Referral of patient without examination or treatment,38.0,true
+264,Myrlene Curran,China,Burkina Faso,25,Decentralized user-facing customer loyalty,"Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination unknown (at present)",38.0,true
+265,Prissie Di Lucia,China,Portugal,5,Optimized contextually-based standardization,"Food poisoning, unspecified",36.3,true
+266,Trish Fidgett,Indonesia,Brazil,4,Future-proofed intermediate utilisation,"Acute peptic ulcer of unspecified site with hemorrhage and perforation, with obstruction",37.5,true
+267,Nathanael Rainsdon,Philippines,China,19,Ergonomic dedicated Graphical User Interface,"Palindromic rheumatism, pelvic region and thigh",38.1,true
+268,Delora Franzolini,Poland,Brazil,23,Persistent static help-desk,Phlebotomus fever,38.3,false
+269,Pacorro Harrad,Argentina,Ecuador,2,Fully-configurable context-sensitive definition,"Nonpurulent mastitis associated with childbirth, postpartum condition or complication",36.1,false
+270,Norbert MacGlory,Mexico,Syria,19,Digitized local alliance,Malignant carcinoid tumor of the stomach,37.0,true
+271,Fionnula Pirrey,Indonesia,China,34,Enterprise-wide intangible policy,Specific infection due to acanthamoeba,37.9,false
+272,Nelson De Paepe,Oman,China,13,Persevering transitional instruction set,"Sensorineural hearing loss, unspecified",35.7,true
+273,Dietrich Latan,China,Philippines,15,Exclusive dynamic product,Screening examination for leprosy (Hansen's disease),35.7,true
+274,Fredelia Dennison,Poland,Indonesia,5,Organized composite forecast,Lipoma of other specified sites,37.9,false
+275,Elise Harmston,Portugal,China,33,Quality-focused modular approach,Unspecified disorder of tooth development and eruption,39.0,false
+276,Sanson Ivey,Japan,Cuba,10,Vision-oriented 6th generation implementation,Corpus luteum cyst or hematoma,37.5,false
+277,Decca Winborn,China,China,7,Inverse discrete capacity,Unspecified disorder of metabolism,39.0,true
+278,Estella Ethelstone,Philippines,Mexico,5,Down-sized needs-based portal,Unspecified housing or economic circumstance,38.2,false
+279,Nannette Peddersen,Sweden,New Zealand,24,Organic fault-tolerant application,"Profound impairment, both eyes, impairment level not further specified",37.9,false
+280,Sholom Bernardini,Canada,Uzbekistan,23,Profound background hierarchy,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring passenger in motor vehicle other than motorcycle,37.8,false
+281,Germayne Neachell,Philippines,Greece,32,Enhanced contextually-based throughput,Injury due to war operations but occurring after cessation of hostilities by explosion of mines,38.9,false
+282,Raina Greenley,Philippines,Brazil,14,Customer-focused coherent capability,Hypertelorism of orbit,39.3,false
+283,Bay Brown,Portugal,Sweden,34,Centralized incremental application,"Tuberculosis of epididymis, unspecified",35.1,true
+284,Geoff Alway,Mexico,United States,18,Digitized national methodology,"Other phlebitis and thrombosis complicating pregnancy and the puerperium, postpartum condition or complication",39.4,false
+285,Floria Astill,Indonesia,Portugal,6,Compatible eco-centric local area network,Unspecified monoplegia,35.1,true
+286,Kenon Eccleshare,Thailand,Canada,23,Synergized user-facing model,Tracheoesophageal fistula,35.9,true
+287,Garfield Saberton,Mexico,China,9,Innovative executive frame,"Obstetrical pyemic and septic embolism, antepartum condition or complication",35.5,true
+288,Edward Gladhill,South Korea,Czech Republic,6,Synergistic eco-centric contingency,"Threatened abortion, antepartum condition or complication",38.1,false
+289,Torre Stickens,Kenya,Serbia,5,Expanded client-server algorithm,Minimal atrophy of the maxilla,39.4,true
+290,Harli Keppie,Russia,China,11,Re-engineered holistic contingency,Flail chest,37.2,false
+291,Merrick Grumley,China,Brazil,29,Re-contextualized reciprocal application,"Tuberculosis of limb bones, unspecified",35.5,true
+292,Creighton Lelliott,China,China,6,Future-proofed demand-driven forecast,Other headache syndromes,39.4,true
+293,Kiele Oleshunin,Brazil,Malaysia,28,Progressive reciprocal conglomeration,Accidental poisoning by motor vehicle exhaust gas,36.1,false
+294,Krishnah Feaveryear,Portugal,Philippines,31,Universal 4th generation project,Injury due to war operations by thermal radiation effect of nuclear weapon,35.2,false
+295,Saxon Peterson,Thailand,Indonesia,5,Multi-layered tertiary portal,Madelung's deformity,39.0,false
+296,Austina Hasloch,Mexico,Sri Lanka,26,Extended multi-state moderator,Other specified endocrine disorders,37.6,true
+297,Xenia Skedgell,Belarus,Laos,17,Operative interactive model,Acidifying agents causing adverse effects in therapeutic use,39.5,false
+298,Viki Snary,France,Portugal,27,Multi-layered holistic firmware,Activity involving pilates,35.5,false
+299,Isador Blitzer,China,Norway,33,Horizontal intermediate moratorium,Open fracture of C5-C7 level with central cord syndrome,37.0,false
+300,Valene Kershaw,Poland,Indonesia,33,Centralized even-keeled matrix,"Intraventricular hemorrhage, grade II",36.1,false
+301,Nessa Laidler,Indonesia,China,4,Mandatory local core,"Malignant histiocytosis, lymph nodes of multiple sites",38.6,false
+302,Jackie Mosconi,Philippines,Philippines,25,Triple-buffered next generation knowledge base,"Malignant neoplasm of brain, unspecified",37.3,false
+303,Carley Libbie,China,Portugal,26,Mandatory bottom-line hardware,"Injury to inferior vena cava, other",35.9,false
+304,Pearle Commucci,Chile,Mexico,15,Customer-focused modular projection,Cystoid macular degeneration,35.6,false
+305,Ansell Hessing,Poland,Spain,2,Realigned contextually-based projection,Sprain of lateral collateral ligament of knee,37.5,false
+306,Delaney Weldon,Philippines,Ireland,32,Diverse foreground info-mediaries,"Unspecified abortion, with unspecified complication, complete",35.8,false
+307,Roma Shobbrook,Vietnam,Czech Republic,14,Phased contextually-based time-frame,Anaphylactic reaction due to tree nuts and seeds,37.0,true
+308,Lilia Phillippo,Poland,Montenegro,26,Polarised content-based complexity,"Fall in, on, or from railway train injuring other specified person",36.4,true
+309,Toinette Sharper,Indonesia,China,27,Ameliorated interactive migration,"Accident involving spacecraft injuring ground crew, airline employee",39.2,false
+310,Elfrieda Saye,Italy,China,35,De-engineered methodical matrix,Unspecified essential hypertension,36.9,false
+311,Porty Sherbrook,China,China,24,Digitized needs-based knowledge base,Personal history of malignant neoplasm of bladder,37.2,false
+312,Giacopo Swyn,Marshall Islands,Switzerland,16,De-engineered zero tolerance task-force,"Railway accident involving explosion, fire, or burning injuring pedestrian",37.9,true
+313,Glenna Caffrey,Mongolia,Oman,25,Ameliorated system-worthy Graphical User Interface,Burn of unspecified degree of forehead and cheek,37.1,true
+314,Juan Worster,Argentina,China,29,Digitized background benchmark,Neurotrophic keratoconjunctivitis,39.2,true
+315,Harli Keysall,China,Canada,25,Compatible bandwidth-monitored flexibility,"Benign neoplasm of eye, part unspecified",38.7,false
+316,Antin Currier,Nigeria,Ireland,15,Reverse-engineered client-driven task-force,Conjunctival xerosis,38.2,false
+317,Norbie Riccione,Greece,Argentina,27,Self-enabling 4th generation challenge,Terrorism involving firearms,38.6,true
+318,Ralina Lechmere,China,Nigeria,21,Horizontal stable implementation,Myelophthisis,38.8,true
+319,Duffy Orneblow,Kazakhstan,Canada,35,Horizontal full-range encryption,"Other open skull fracture with cerebral laceration and contusion, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level",38.4,false
+320,Erminia Redolfi,Brazil,France,23,Multi-channelled attitude-oriented workforce,Neoplasm of uncertain behavior of testis,38.9,false
+321,Anneliese Mitchell,China,Japan,15,Phased explicit customer loyalty,Subclavian steal syndrome,35.1,true
+322,Daryle Kubacki,Syria,Poland,17,Universal discrete access,"Elbow, forearm, and wrist injury",35.5,true
+323,Inesita De Blasi,Netherlands,Indonesia,15,Stand-alone multi-tasking open architecture,"Kaschin-Beck disease, pelvic region and thigh",36.1,true
+324,Filberto Crowcroft,Indonesia,China,20,Programmable bifurcated forecast,Other brucellosis,39.2,false
+325,Michal McCreery,Ukraine,United States,26,Total object-oriented challenge,Other chronic pain,36.7,true
+326,Ruthanne Magnay,Indonesia,France,19,Pre-emptive dedicated strategy,Trigger finger (acquired),36.6,true
+327,Gav Richardes,Paraguay,China,19,Reverse-engineered zero defect productivity,Hypersplenism,38.8,true
+328,Hube Deniseau,Portugal,Russia,19,Optional homogeneous complexity,Other specified disorders resulting from impaired renal function,39.3,true
+329,Kirsten Woakes,China,Brazil,8,Pre-emptive transitional policy,"Femoral hernia with gangrene, bilateral (not specified as recurrent)",36.9,false
+330,Mureil Gerard,Russia,Indonesia,12,Inverse hybrid encoding,Amyotrophic lateral sclerosis,36.9,true
+331,Janina Gumm,Moldova,Brazil,7,Function-based leading edge encryption,"Primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb",36.7,true
+332,Thomasin Hambelton,Indonesia,Czech Republic,16,Programmable bandwidth-monitored info-mediaries,Orofacial dyskinesia,37.2,true
+333,Lou Jacobssen,China,Philippines,23,Integrated optimizing solution,"Complications of transplanted organ, stem cell",35.8,false
+334,Shaw Sporgeon,Poland,Indonesia,25,Fully-configurable needs-based superstructure,Open anterior occlusal relationship,36.1,true
+335,Idette Waryk,Ghana,Colombia,34,Versatile hybrid attitude,"Accidental cut, puncture, perforation or hemorrhage during unspecified medical care",35.3,true
+336,Bengt Nystrom,Paraguay,China,26,Fully-configurable zero defect productivity,Family disruption due to child in welfare custody,38.7,false
+337,Gretchen Wrightim,Philippines,South Korea,10,Open-source object-oriented structure,"Chronic or unspecified gastric ulcer with perforation, with obstruction",37.6,true
+338,Skye Fitkin,Indonesia,China,10,Re-engineered neutral emulation,Inconclusive mammogram,37.6,true
+339,Bevan Enderby,Russia,Vietnam,28,Robust regional hardware,"Tuberculosis of esophagus, bacteriological or histological examination unknown (at present)",37.4,true
+340,Leslie Tawn,Poland,Russia,24,Extended empowering application,"Abrasion or friction burn of finger(s), without mention of infection",35.6,false
+341,Elijah Hemphall,Iran,China,10,Front-line attitude-oriented forecast,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus",38.0,true
+342,Ninetta Cromie,Kenya,Indonesia,23,Managed bi-directional function,"Tuberculosis of other urinary organs, bacteriological or histological examination not done",38.3,true
+343,Tammy Devita,China,Portugal,9,Cross-group asynchronous help-desk,Benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),36.4,true
+344,Zackariah Dare,Macedonia,Gambia,5,Synchronised bi-directional capacity,"Calculus of gallbladder and bile duct without cholecystitis, with obstruction",35.0,true
+345,Doyle Disbrow,China,Indonesia,20,Multi-layered background extranet,"Tuberculosis of hip, unspecified",35.8,true
+346,Ellene Rasher,Sweden,Belarus,18,Organic intangible interface,"Unspecified abortion, complicated by delayed or excessive hemorrhage, complete",37.8,true
+347,Berni Flucks,Russia,Indonesia,9,Digitized analyzing local area network,"Chronic inflammation of orbit, unspecified",35.6,true
+348,Gwen Tomaszewicz,Indonesia,Pakistan,22,Multi-channelled bottom-line benchmark,Malignant neoplasm of other sites of floor of mouth,35.1,true
+349,Algernon Guyonneau,China,Indonesia,24,Upgradable eco-centric utilisation,Vestibular neuronitis,39.4,false
+350,Sibyl Zelner,Philippines,United States,35,Reduced optimal throughput,Secondary pigmentary degeneration,39.4,false
