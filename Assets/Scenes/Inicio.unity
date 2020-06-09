@@ -272,7 +272,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Dias
+          m_StringArgument: Introduccion
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &115130930
@@ -573,7 +573,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.9137255, g: 0.11372549, b: 0.3882353, a: 0}
+  m_BackGroundColor: {r: 0.91372555, g: 0.1137255, b: 0.38823533, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}

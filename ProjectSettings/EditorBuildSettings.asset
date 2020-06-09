@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dias.unity
     guid: 04cf6342380df46d88fa44d7583e069c
+  - enabled: 1
+    path: Assets/Scenes/Introduccion.unity
+    guid: 1b84371f22462a044887d3326d7d8d61
   m_configObjects: {}
