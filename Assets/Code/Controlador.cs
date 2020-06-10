@@ -34,7 +34,6 @@ public class Controlador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         timeLeft -= Time.deltaTime;
         if (timeLeft > 0.0)
         {
