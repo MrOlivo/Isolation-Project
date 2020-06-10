@@ -14,5 +14,5 @@ Programación de Videojuegos
 Sistemas Computacionales
 
 ###    Alumnos
-Edwin Francisco Olivo Garcia
-Juan Pablo Parra Cajero
+-   Edwin Francisco Olivo Garcia
+-   Juan Pablo Parra Cajero
