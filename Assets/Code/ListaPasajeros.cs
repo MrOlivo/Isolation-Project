@@ -17,8 +17,6 @@ public class Pasajero : MonoBehaviour
 
         for(int i = 0; i < objs.Count; i++){
 
-            bool original = objs[i].Covid;
-
             if (objs[i].Temperatura >= 39.0 && rn.NextDouble() < 0.8)
             {
                 objs[i].Covid = true;
