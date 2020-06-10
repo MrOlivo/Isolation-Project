@@ -95,6 +95,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Mono Crash
+mono_crash.*.json
 
 ### Windows ###
 # Windows thumbnail cache files
