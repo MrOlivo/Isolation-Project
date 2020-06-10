@@ -10,9 +10,6 @@ Deberán de compartir en una carpeta el prototipo en código fuente y el ejecuta
 ###    Materia
 Programación de Videojuegos
 
-###    Programa Académico
-Sistemas Computacionales
-
 ###    Alumnos
 -   Edwin Francisco Olivo Garcia
 -   Juan Pablo Parra Cajero
