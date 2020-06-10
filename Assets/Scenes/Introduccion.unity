@@ -194,6 +194,78 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &245315524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 245315525}
+  - component: {fileID: 245315527}
+  - component: {fileID: 245315526}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &245315525
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245315524}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 453764513}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 638.7, y: 275.45}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &245315526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245315524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+--- !u!222 &245315527
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245315524}
+  m_CullTransparentMesh: 0
 --- !u!1 &453764509
 GameObject:
   m_ObjectHideFlags: 0
@@ -284,6 +356,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
+  - {fileID: 245315525}
   - {fileID: 872628516}
   - {fileID: 847238518}
   - {fileID: 1900958012}
@@ -553,7 +626,7 @@ Transform:
   - {fileID: 503704022}
   - {fileID: 1060595158}
   m_Father: {fileID: 453764513}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &872628515
 GameObject:
@@ -587,11 +660,11 @@ RectTransform:
   m_Children:
   - {fileID: 551734574}
   m_Father: {fileID: 453764513}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 234.4, y: -168}
+  m_AnchoredPosition: {x: 234.4, y: -183}
   m_SizeDelta: {x: 154.7, y: 44}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &872628517
@@ -783,12 +856,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 453764513}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 26, y: -13.35}
-  m_SizeDelta: {x: 609.5, y: 265.3}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 635.5, y: 265.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1414127233
 MonoBehaviour:
@@ -815,18 +888,18 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 64
-    m_Alignment: 3
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Como parte del Aeropuerto Internacional, has sido electo por S. Salud y
-    la SRE para tomar la decisi\xF3n de qui\xE9n debe ser internado en un hospital
-    y qui\xE9n simplemente se va a casa.\r\n\nRevisa los pasaportes, toma la temperatura,
-    checa los s\xEDntomas visibles y analiza los h\xE1bitos personales; y toma una
-    decisi\xF3n.\r\n\nDurante estos tiempos de pandemia, nuestra \xFAnica esperanza
-    eres t\xFA.\r\n"
+  m_Text: "Como parte del Aeropuerto Internacional, has sido electo por la Secretaria
+    de Salud y las autoridades aeroportuarias para tomar la decisi\xF3n de qui\xE9n
+    debe ser internado en un hospital y qui\xE9n simplemente se va a casa.\r\n\nRevisa
+    los pasaportes, toma la temperatura, checa los s\xEDntomas visibles y analiza
+    los h\xE1bitos personales; y toma una decisi\xF3n.\r\n\nDurante estos tiempos
+    de pandemia, nuestra \xFAnica esperanza eres t\xFA.\r\n"
 --- !u!222 &1414127234
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -865,7 +938,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 453764513}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
