@@ -27,6 +27,11 @@ public class Dias : MonoBehaviour
         {
             CammbiarEscena();
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Inicio");
+        }
     }
 
     public void CammbiarEscena()

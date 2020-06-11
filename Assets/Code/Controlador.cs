@@ -47,8 +47,7 @@ public class Controlador : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            GenerarPersonaje("StartMenu");
-            print("Tecla Escape presionada");
+            CammbiarEscena();
         }
     }
 

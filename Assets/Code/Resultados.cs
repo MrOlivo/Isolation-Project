@@ -25,7 +25,10 @@ public class Resultados : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Inicio");
+        }
     }
 
     public static void sumarAcierto()
