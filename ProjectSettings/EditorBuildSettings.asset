@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Introduccion.unity
     guid: 1b84371f22462a044887d3326d7d8d61
+  - enabled: 1
+    path: Assets/Scenes/Exito.unity
+    guid: a05eb11f89452f9458d07fa5240bf66c
+  - enabled: 1
+    path: Assets/Scenes/Reinicio.unity
+    guid: 8272f137f6ce7444195dc0086e22b7a8
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 250c3c856f0c5934e8451726349c57f1
   m_configObjects: {}

@@ -1115,14 +1115,14 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 7090970207757296383, guid: 6ac5de1b88dc9cd43830385001e2effd,
           type: 3}
-        m_MethodName: CammbiarEscena
+        m_MethodName: CammbiarEscena2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: dejar_ir
+          m_StringArgument: txt_aciertos
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &992613463

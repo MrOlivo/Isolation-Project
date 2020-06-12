@@ -77,6 +77,24 @@ public class Controlador : MonoBehaviour
         SceneManager.LoadScene(escena);
     }
 
+    public void CammbiarEscena2()
+    {
+        int res;
+
+       res = Resultados.obtenerAciertos();
+
+        if (res >= 15)
+        {
+            SceneManager.LoadScene("Exito");
+        }
+        else {
+            Resultados.ReinicioAciertosFallos();
+            pasajerosLeft = 20;
+            SceneManager.LoadScene("Reinicio");
+        }    
+    
+    }
+
     public void GenerarPersonaje(string nombre)
     {
         print("Desencadenante " + nombre);

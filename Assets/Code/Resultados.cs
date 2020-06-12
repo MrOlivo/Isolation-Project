@@ -60,4 +60,10 @@ public class Resultados : MonoBehaviour
         SceneManager.LoadScene("Inicio");
     }
 
+    public static void ReinicioAciertosFallos()
+    {
+        Aciertos = 0;
+        Fallos = 0;
+
+    }
 }
