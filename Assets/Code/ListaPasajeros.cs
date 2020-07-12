@@ -4,16 +4,28 @@ using UnityEngine;
 
 public class Pasajero : MonoBehaviour
 {
+
+    string ruta;
+
+    string DBFileName = "MOCK_DATA.csv";
+
     public Dictionary<int, ModelPasajero> Pasajeros { get; set; }
 
-    public Pasajero()
+  /*  void Start()
+    {
+        ruta = Application.dataPath + "/StreamingAssets/" + DBFileName;
+    }*/
+
+    public void Pasajeroe(string rt )
     {
         Pasajeros = new Dictionary<int, ModelPasajero>();
         System.Random rn = new System.Random();
 
-        string path = "Assets/Code/MOCK_DATA.csv";
+      // ruta = Application.dataPath + "/StreamingAssets/" + DBFileName;
 
-        List<ModelPasajero> objs = Sinbad.CsvUtil.LoadObjects<ModelPasajero>(path);
+        //string path = "Assets/Code/MOCK_DATA.csv";
+
+        List<ModelPasajero> objs = Sinbad.CsvUtil.LoadObjects<ModelPasajero>(rt);
 
         for(int i = 0; i < objs.Count; i++){
 

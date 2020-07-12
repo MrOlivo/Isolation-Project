@@ -4,6 +4,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using System.Data;
+using System.IO;
 
 public class Controlador : MonoBehaviour
 {
@@ -12,18 +14,26 @@ public class Controlador : MonoBehaviour
     public TextMeshProUGUI nombre;
     public TextMeshProUGUI nacionalidad;
     public TextMeshProUGUI viaja_a;
+    string ruta;
+    string DBFileName = "MOCK_DATA.csv";
+
 
     public Image peep;
     private float timeLeft = 20f;
 
     public static int pasajerosLeft = 20;
     private static int paciente;
-    private static Dictionary<int, ModelPasajero> listaPasajeros;
+    public static Dictionary<int, ModelPasajero> listaPasajeros;
 
     // Start is called before the first frame update
     void Start()
     {
+       this.arranque();
+
         Pasajero p = gameObject.AddComponent<Pasajero>();
+
+        p.Pasajeroe(ruta);
+
         listaPasajeros = p.Pasajeros;
 
         pasajeros_restantes.text = pasajerosLeft.ToString();
@@ -50,6 +60,50 @@ public class Controlador : MonoBehaviour
             CammbiarEscena();
         }
     }
+
+    //-------------------------------------------------------------------------------------
+    public void arranque() {
+        
+        //Windows || MAC
+        if (Application.platform == RuntimePlatform.WindowsEditor || Application.platform == RuntimePlatform.OSXEditor)
+        {
+            ruta = Application.dataPath + "/StreamingAssets/" + DBFileName;
+
+        }
+        //Si es Iphone
+        else if (Application.platform == RuntimePlatform.IPhonePlayer)
+        {
+            ruta = Application.dataPath + "/Raw/" + DBFileName;
+
+        }
+        //Si es Android
+        else if (Application.platform == RuntimePlatform.Android)
+        {
+            ruta = Application.persistentDataPath + "/" + DBFileName;
+            //comprobar si el archivo se encuentra en persistent data
+
+            if (!File.Exists(ruta))
+            {
+                WWW loadDB = new WWW("jar:file://" + Application.dataPath + "!/assets/" + DBFileName);
+
+                while (!loadDB.isDone)
+                {
+
+                }
+                File.WriteAllBytes(ruta, loadDB.bytes);
+            }
+
+        }
+
+
+    }
+
+
+
+
+   //--------------------------------------------------------------------------------------
+
+
 
     private void CargarDatos()
     {

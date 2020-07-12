@@ -5,12 +5,13 @@ using UnityEngine.UI;
 
 public class Botones : MonoBehaviour
 {
+
     public static int Passenger { get; set; }
 
     // Start is called before the first frame update
     void Start()
     {
-
+      
     }
 
     // Update is called once per frame
@@ -23,8 +24,9 @@ public class Botones : MonoBehaviour
     {
         Dictionary<int, ModelPasajero> listaPasajeros;
 
-        Pasajero p = gameObject.AddComponent<Pasajero>();
-        listaPasajeros = p.Pasajeros;
+      //////  Pasajero p = gameObject.AddComponent<Pasajero>();
+
+        listaPasajeros = Controlador.listaPasajeros;
 
         string nombre = txtElement.name;
 
@@ -46,4 +48,5 @@ public class Botones : MonoBehaviour
                 break;
         }
     }
+
 }
