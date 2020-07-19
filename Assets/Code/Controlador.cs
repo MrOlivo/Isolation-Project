@@ -23,16 +23,30 @@ public class Controlador : MonoBehaviour
 
     public static int pasajerosLeft = 20;
     private static int paciente;
+
     public static Dictionary<int, ModelPasajero> listaPasajeros;
 
     // Start is called before the first frame update
     void Start()
     {
-       this.arranque();
+        //Método desarrollado para encontrar la ruta del csv
+        //this.arranque();
 
         Pasajero p = gameObject.AddComponent<Pasajero>();
 
-        p.Pasajeroe(ruta);
+        //envio de la ruta csv para crear la lista de pasajeros 
+        //  p.Pasajerocsv(ruta);
+
+        //conexion, consulta y cierre de sqlite
+        ControladorSQLite ctrlsql = new ControladorSQLite();
+        ctrlsql.OpenDB();
+
+        ctrlsql.Read("*","datos");
+
+        ctrlsql.CloseDB();
+
+        //carga de datos de los datos obtenidos a la consulta SQLite
+        p.Pasajerosqlite();
 
         listaPasajeros = p.Pasajeros;
 
