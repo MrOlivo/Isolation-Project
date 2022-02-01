@@ -13,3 +13,61 @@ Programación de Videojuegos
 ###    Alumnos
 -   Edwin Francisco Olivo Garcia
 -   Juan Pablo Parra Cajero
+
+### Screenshots
+<table>
+<tr>
+  <td> 
+      <br>
+        <img src="Screenshot_0_Coronavairus.jpg" width="455" height="246">
+      <br>
+  </td>
+  <td> 
+      <br>
+        <img src="Screenshot_1_Coronavairus.jpg" width="455" height="246">
+      <br> 
+  </td>
+ </tr>
+</table> 
+<table>
+<tr>
+  <td> 
+      <br>
+        <img src="Screenshot_2_Coronavairus.jpg" width="455" height="246">
+      <br>
+  </td>
+  <td> 
+      <br>
+        <img src="Screenshot_3_Coronavairus.jpg" width="455" height="246">
+      <br> 
+  </td>
+ </tr>
+</table> 
+<table>
+<tr>
+  <td> 
+      <br>
+        <img src="Screenshot_4_Coronavairus.jpg" width="455" height="246">
+      <br>
+  </td>
+  <td> 
+      <br>
+        <img src="Screenshot_5_Coronavairus.jpg" width="455" height="246">
+      <br> 
+  </td>
+ </tr>
+</table> 
+<table>
+<tr>
+  <td> 
+      <br>
+        <img src="Screenshot_6_Coronavairus.jpg" width="455" height="246">
+      <br>
+  </td>
+  <td> 
+      <br>
+        <img src="Screenshot_7_Coronavairus.jpg" width="455" height="246">
+      <br> 
+  </td>
+ </tr>
+</table>  
