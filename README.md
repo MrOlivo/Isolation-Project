@@ -11,8 +11,8 @@ Deberán de compartir en una carpeta el prototipo en código fuente y el ejecuta
 Programación de Videojuegos
 
 ###    Alumnos
--   Edwin Francisco Olivo Garcia
--   Juan Pablo Parra Cajero
+-   Edwin Olivo
+-   Juan Pablo Parra
 
 ### Screenshots
 <table>
