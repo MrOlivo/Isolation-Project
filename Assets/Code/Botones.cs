@@ -24,7 +24,7 @@ public class Botones : MonoBehaviour
     {
         Dictionary<int, ModelPasajero> listaPasajeros;
 
-      //////  Pasajero p = gameObject.AddComponent<Pasajero>();
+        // Pasajero p = gameObject.AddComponent<Pasajero>();
 
         listaPasajeros = Controlador.listaPasajeros;
 
